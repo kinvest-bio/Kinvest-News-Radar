@@ -1,0 +1,38 @@
+name: KINVEST Daily EOD Summary
+
+on:
+  schedule:
+    # 12:05 UTC tương đương với 19:05 giờ Việt Nam
+    # Chạy từ Thứ 2 (1) đến Thứ 6 (5) - Không chạy cuối tuần
+    - cron: '5 12 * * 1-5'
+  workflow_dispatch: # Vẫn giữ nút bấm chạy thủ công để bạn test thử
+
+jobs:
+  build_daily_digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Lấy mã nguồn
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Cài đặt thư viện
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Khởi tạo Bản tin cuối ngày
+        run: python daily_summary.py
+
+      - name: Lưu và Cập nhật Web
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add tong-hop-ngay.html
+          git commit -m "Auto-generate Daily Summary" || exit 0
+          git push
