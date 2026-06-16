@@ -1,0 +1,40 @@
+name: KINVEST Auto News Scraper
+
+on:
+  schedule:
+    # Chạy mỗi 15 phút một lần
+    - cron: '*/15 * * * *'
+  workflow_dispatch: # Cho phép bấm chạy thủ công
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    
+    # Cấp quyền ghi (write) cho con Bot để nó đẩy HTML mới lên kho
+    permissions:
+      contents: write
+
+    steps:
+      - name: Lấy mã nguồn về
+        uses: actions/checkout@v3
+
+      - name: Cài đặt Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Cài đặt thư viện
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Chạy Bot cào tin (Tạo index.html)
+        run: python build_news.py
+
+      - name: Lưu và Đẩy (Commit & Push) lên giao diện Web
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add index.html
+          # Nếu có sự thay đổi mới tạo commit, không thì bỏ qua
+          git commit -m "Auto-update News Radar" || exit 0
+          git push
