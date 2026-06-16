@@ -1,64 +1,44 @@
-import requests
-from bs4 import BeautifulSoup
+import json
 from email.utils import parsedate_to_datetime
 from datetime import datetime, timedelta, timezone
 import os
 
-RSS_URLS = [
-    'https://cafef.vn/tin-tuc-chung-khoan.rss',
-    'https://cafef.vn/bat-dong-san.rss',
-    'https://cafef.vn/vi-mo-dau-tu.rss'
-]
+DB_FILE = 'news_database.json'
 
 def generate_daily_summary():
-    # Khởi tạo múi giờ Việt Nam (GMT+7)
     vn_tz = timezone(timedelta(hours=7))
     now_vn = datetime.now(vn_tz)
     today_date = now_vn.date()
     
-    news_list = []
-    seen_links = set()
-    
-    print(f"Bắt đầu tổng hợp tin tức ngày {now_vn.strftime('%d/%m/%Y')}...")
-    
-    for url in RSS_URLS:
-        try:
-            headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/114.0.0.0'}
-            response = requests.get(url, headers=headers, timeout=10)
-            soup = BeautifulSoup(response.content, features="xml")
-            items = soup.findAll('item')
+    # 1. Rút data trực tiếp từ kho, không cần quét mạng
+    if not os.path.exists(DB_FILE):
+        news_list = []
+    else:
+        with open(DB_FILE, 'r', encoding='utf-8') as f:
+            db_news = json.load(f)
             
-            for item in items:
-                title = item.title.text if item.title else ""
-                link = item.link.text if item.link else ""
-                pub_date_str = item.pubDate.text if item.pubDate else ""
+        news_list = []
+        for item in db_news:
+            try:
+                # Đọc giờ trong kho và ép về múi giờ VN
+                dt = parsedate_to_datetime(item['time'] + " +0700")
+                dt_vn = dt.astimezone(vn_tz)
                 
-                try:
-                    # Chuyển đổi định dạng giờ RSS sang định dạng chuẩn và ép về giờ VN
-                    dt = parsedate_to_datetime(pub_date_str)
-                    dt_vn = dt.astimezone(vn_tz)
-                    
-                    # BỘ LỌC THỜI GIAN: Chỉ lấy tin của "Hôm nay" VÀ trong khung giờ từ 06:00 đến 19:00
-                    if dt_vn.date() == today_date and 6 <= dt_vn.hour < 19:
-                        if link not in seen_links and link != "":
-                            news_list.append({
-                                "title": title,
-                                "time": dt_vn.strftime("%H:%M"), # Chỉ lấy Giờ:Phút
-                                "link": link,
-                                "dt_obj": dt_vn # Dùng để sắp xếp
-                            })
-                            seen_links.add(link)
-                except Exception as parse_err:
-                    continue
-        except Exception as e:
-            print(f"Lỗi quét {url}: {e}")
-            
-    # Sắp xếp tin tức theo trình tự thời gian từ mới nhất đến cũ nhất
+                # BỘ LỌC THỜI GIAN: Chỉ nhặt tin Hôm nay + Khung giờ 6h đến 19h
+                if dt_vn.date() == today_date and 6 <= dt_vn.hour < 19:
+                    news_list.append({
+                        "title": item['title'],
+                        "time": dt_vn.strftime("%H:%M"),
+                        "link": item['link'],
+                        "dt_obj": dt_vn
+                    })
+            except Exception:
+                continue
+                
+    # Xếp tin từ mới nhất đến cũ nhất
     news_list.sort(key=lambda x: x["dt_obj"], reverse=True)
 
-    # ==========================================
-    # TẠO GIAO DIỆN HTML (NEWSLETTER STYLE)
-    # ==========================================
+    # 2. Xây dựng Giao diện (Giữ nguyên y hệt bản cũ)
     now_str = now_vn.strftime("%d/%m/%Y")
     
     html = f"""<!DOCTYPE html>
@@ -91,7 +71,7 @@ def generate_daily_summary():
                 <h1>BẢN TIN THỊ TRƯỜNG CUỐI NGÀY</h1>
                 <div class="date">Ngày {now_str} (Từ 06:00 - 19:00)</div>
             </div>
-            <div class="intro">Toàn cảnh các sự kiện và tin tức kinh tế - chứng khoán đáng chú ý nhất trong phiên giao dịch hôm nay.</div>
+            <div class="intro">Toàn cảnh các sự kiện và tin tức kinh tế - chứng khoán đáng chú ý nhất trong phiên giao dịch.</div>
     """
     
     if not news_list:
@@ -106,18 +86,14 @@ def generate_daily_summary():
             """
             
     html += """
-            <div class="footer">
-                Tự động tổng hợp bởi KINVEST News Radar qua hệ thống GitHub Actions.
-            </div>
+            <div class="footer">Tự động tổng hợp bởi KINVEST News Radar qua hệ thống GitHub Actions.</div>
         </div>
     </body>
     </html>
     """
     
-    # Lưu ra một file hoàn toàn riêng biệt
     with open("tong-hop-ngay.html", "w", encoding="utf-8") as file:
         file.write(html)
-    print(f"Đã tạo thành công bản tin cuối ngày với {len(news_list)} tin tức!")
 
 if __name__ == "__main__":
     generate_daily_summary()
