@@ -5,30 +5,23 @@ import json
 import os
 from email.utils import parsedate_to_datetime
 
-# Ánh xạ 12 chuyên mục .chn sang chuẩn .rss để Robot đọc ổn định 100%
+# Ánh xạ trực tiếp 12 chuyên mục gốc (đọc thẳng từ giao diện Web, bỏ qua RSS)
 SOURCES = {
-    "Chứng khoán": "https://cafef.vn/thi-truong-chung-khoan.rss",
-    "Bất động sản": "https://cafef.vn/bat-dong-san.rss",
-    "Xã hội": "https://cafef.vn/xa-hoi.rss",
-    "Doanh nghiệp": "https://cafef.vn/doanh-nghiep.rss",
-    "Ngân hàng": "https://cafef.vn/tai-chinh-ngan-hang.rss",
-    "Smart Money": "https://cafef.vn/smart-money.rss",
-    "Quốc tế": "https://cafef.vn/tai-chinh-quoc-te.rss",
-    "Vĩ mô": "https://cafef.vn/vi-mo-dau-tu.rss",
-    "Kinh tế số": "https://cafef.vn/kinh-te-so.rss",
-    "Sống": "https://cafef.vn/song.rss",
-    "Thị trường": "https://cafef.vn/thi-truong.rss",
-    "Lifestyle": "https://cafef.vn/lifestyle.rss"
+    "Chứng khoán": "https://cafef.vn/thi-truong-chung-khoan.chn",
+    "Bất động sản": "https://cafef.vn/bat-dong-san.chn",
+    "Xã hội": "https://cafef.vn/xa-hoi.chn",
+    "Doanh nghiệp": "https://cafef.vn/doanh-nghiep.chn",
+    "Ngân hàng": "https://cafef.vn/tai-chinh-ngan-hang.chn",
+    "Smart Money": "https://cafef.vn/smart-money.chn",
+    "Quốc tế": "https://cafef.vn/tai-chinh-quoc-te.chn",
+    "Vĩ mô": "https://cafef.vn/vi-mo-dau-tu.chn",
+    "Kinh tế số": "https://cafef.vn/kinh-te-so.chn",
+    "Sống": "https://cafef.vn/song.chn",
+    "Thị trường": "https://cafef.vn/thi-truong.chn",
+    "Lifestyle": "https://cafef.vn/lifestyle.chn"
 }
 
 DB_FILE = 'news_database.json'
-
-def parse_time(date_str):
-    try:
-        dt = parsedate_to_datetime(date_str)
-        return dt.timestamp()
-    except:
-        return 0
 
 def fetch_and_update_db():
     if os.path.exists(DB_FILE):
@@ -40,39 +33,61 @@ def fetch_and_update_db():
     else:
         db_news = []
 
-    # Dùng hàm .get() để chống sập nếu data cũ thiếu trường
+    # Dùng hàm .get() để chống sập nếu gặp data cũ thiếu trường
     seen_links = {item.get('link', '') for item in db_news}
     new_articles = []
+    
+    # Lấy giờ hiện tại làm mốc cho các tin cào được (Giờ VN)
+    utc_now = datetime.datetime.utcnow()
+    vn_time = utc_now + datetime.timedelta(hours=7)
+    
+    # Định dạng giờ giả lập chuẩn RSS để Bot "Tổng hợp cuối ngày" không bị sập
+    fake_rss_time = vn_time.strftime("%a, %d %b %Y %H:%M:%S")
+    current_ts = vn_time.timestamp()
 
     for cat_name, url in SOURCES.items():
         try:
+            # Ngụy trang thành trình duyệt Chrome thật
             headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/114.0.0.0 Safari/537.36'}
-            response = requests.get(url, headers=headers, timeout=10)
-            soup = BeautifulSoup(response.content, features="xml")
-            items = soup.findAll('item')
+            response = requests.get(url, headers=headers, timeout=15)
+            soup = BeautifulSoup(response.content, 'html.parser')
             
-            for item in items[:20]:
-                link = item.link.text if item.link else ""
-                if link not in seen_links and link != "":
-                    title = item.title.text if item.title else ""
-                    pub_date_raw = item.pubDate.text if item.pubDate else ""
-                    timestamp = parse_time(pub_date_raw)
-                    pub_date_clean = pub_date_raw.replace("+0700", "").strip()
+            # Cào trực tiếp mọi thẻ <a> trên trang web
+            links = soup.find_all('a')
+            count = 0
+            
+            for a in links:
+                if count >= 15: # Chỉ nhặt 15 tin mới nhất ở trên cùng mỗi trang
+                    break
                     
-                    new_articles.append({
-                        "category": cat_name,
-                        "title": title,
-                        "time": pub_date_clean,
-                        "timestamp": timestamp,
-                        "link": link
-                    })
-                    seen_links.add(link)
+                href = a.get('href', '')
+                title = a.get('title', '').strip()
+                if not title:
+                    title = a.text.strip()
+                    
+                # Lọc lấy bài báo chuẩn (chỉ lấy link chứa đuôi .chn, loại bỏ link rác)
+                if href.endswith('.chn') and len(title) > 20:
+                    if href.startswith('/'):
+                        href = 'https://cafef.vn' + href
+                        
+                    if href not in seen_links:
+                        new_articles.append({
+                            "category": cat_name,
+                            "title": title,
+                            "time": fake_rss_time,
+                            "timestamp": current_ts,
+                            "link": href
+                        })
+                        seen_links.add(href)
+                        count += 1
+                        current_ts -= 1 # Lùi nhẹ mốc thời gian để giữ đúng thứ tự hiển thị
+                        
         except Exception as e:
-            print(f"Lỗi quét {cat_name}: {e}")
+            print(f"Lỗi quét HTML {cat_name}: {e}")
 
     updated_db = new_articles + db_news
     updated_db.sort(key=lambda x: x.get("timestamp", 0), reverse=True)
-    updated_db = updated_db[:600]
+    updated_db = updated_db[:800] # Nới rộng kho chứa cho dữ liệu khổng lồ
     
     with open(DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(updated_db, f, ensure_ascii=False, indent=4)
@@ -88,25 +103,34 @@ def generate_html(news_list):
     for idx, cat_name in enumerate(SOURCES.keys()):
         tabs_html += f'<button class="tab-btn" onclick="openTab(event, \'tab_{idx}\')">{cat_name}</button>\n'
 
-    content_html = f'<div id="tab_ALL" class="tab-content active">\n'
-    if not news_list:
-         content_html += '<div class="empty-msg">Chưa tải được dữ liệu, hệ thống đang quét...</div>'
-    for item in news_list[:150]: 
-        # BẢO VỆ LỖI BẰNG .get() CHO TẤT CẢ CÁC TRƯỜNG
+    def create_card(item):
         cat = item.get('category', 'Chung')
         title = item.get('title', 'Không có tiêu đề')
         link = item.get('link', '#')
-        time_str = item.get('time', '')
         
-        content_html += f"""
+        # Rút gọn giờ hiển thị cho đẹp
+        raw_time = item.get('time', '')
+        parts = raw_time.split(' ')
+        if len(parts) >= 5:
+            display_time = f"{parts[4][:5]} ({parts[1]}/{parts[2]})"
+        else:
+            display_time = raw_time
+            
+        return f"""
             <div class="news-card">
                 <h2 class="news-title"><a href="{link}" target="_blank">{title}</a></h2>
                 <div class="news-meta">
                     <span class="category-badge">{cat}</span>
-                    <span>🕒 {time_str}</span>
+                    <span>🕒 {display_time}</span>
                 </div>
             </div>
         """
+
+    content_html = f'<div id="tab_ALL" class="tab-content active">\n'
+    if not news_list:
+         content_html += '<div class="empty-msg">Chưa tải được dữ liệu, hệ thống đang quét...</div>'
+    for item in news_list[:150]: 
+        content_html += create_card(item)
     content_html += '</div>\n'
 
     for idx, cat_name in enumerate(SOURCES.keys()):
@@ -117,17 +141,7 @@ def generate_html(news_list):
             content_html += f'<div class="empty-msg">Chưa có tin tức mới trong mục {cat_name}.</div>'
         else:
             for item in cat_items:
-                title = item.get('title', 'Không có tiêu đề')
-                link = item.get('link', '#')
-                time_str = item.get('time', '')
-                content_html += f"""
-                    <div class="news-card">
-                        <h2 class="news-title"><a href="{link}" target="_blank">{title}</a></h2>
-                        <div class="news-meta">
-                            <span>🕒 {time_str}</span>
-                        </div>
-                    </div>
-                """
+                content_html += create_card(item)
         content_html += '</div>\n'
 
     html_template = f"""
@@ -210,7 +224,7 @@ def generate_html(news_list):
         file.write(html_template)
 
 if __name__ == "__main__":
-    print("Bắt đầu lấy dữ liệu đa luồng...")
+    print("Bắt đầu lấy dữ liệu Deep HTML Scraper...")
     db = fetch_and_update_db()
     generate_html(db)
     print("Đã tạo xong index.html!")
