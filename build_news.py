@@ -1,14 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 import datetime
-import os
 
-# Đã bổ sung các từ khóa phổ biến để test (Thị trường, Cổ phiếu, VN-Index)
-KEYWORDS = ['DIG', 'CEO', 'NTL', 'DXG', 'CTD', 'SSI', 'Trái phiếu', 'Phát hành', 'Lợi nhuận', 'Thị trường', 'Cổ phiếu', 'VN-Index']
-
+# Không cần bộ lọc từ khóa nữa
+# Bổ sung thêm chuyên mục Vĩ mô để có cái nhìn toàn cảnh
 RSS_URLS = [
     'https://cafef.vn/tin-tuc-chung-khoan.rss',
-    'https://cafef.vn/bat-dong-san.rss'
+    'https://cafef.vn/bat-dong-san.rss',
+    'https://cafef.vn/vi-mo-dau-tu.rss'
 ]
 
 def fetch_news():
@@ -17,38 +16,35 @@ def fetch_news():
     
     for url in RSS_URLS:
         try:
-            # Nâng cấp User-Agent để ngụy trang thành trình duyệt Chrome thật, tránh bị Firewall chặn
+            # Ngụy trang User-Agent chuẩn
             headers = {
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+                'Accept': 'application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8'
             }
             response = requests.get(url, headers=headers, timeout=10)
             soup = BeautifulSoup(response.content, features="xml")
             items = soup.findAll('item')
             
-            for item in items:
+            # Lấy 25 tin mới nhất từ mỗi chuyên mục để gộp lại
+            for item in items[:25]:
                 title = item.title.text if item.title else ""
                 link = item.link.text if item.link else ""
                 pub_date = item.pubDate.text if item.pubDate else ""
-                description = item.description.text if item.description else ""
                 
-                if link in seen_links:
-                    continue
+                # Cắt bỏ múi giờ thừa cho đẹp (+0700)
+                pub_date = pub_date.replace("+0700", "").strip()
                 
-                for keyword in KEYWORDS:
-                    if keyword.lower() in title.lower() or keyword.lower() in description.lower():
-                        news_list.append({
-                            "keyword": keyword.upper(),
-                            "title": title,
-                            "time": pub_date,
-                            "link": link
-                        })
-                        seen_links.add(link)
-                        break
+                if link not in seen_links and link != "":
+                    news_list.append({
+                        "title": title,
+                        "time": pub_date,
+                        "link": link
+                    })
+                    seen_links.add(link)
         except Exception as e:
-            print(f"Lỗi: {e}")
+            print(f"Lỗi quét {url}: {e}")
             
-    return news_list[:50]
+    return news_list[:75] # Hiển thị tổng cộng 75 tin mới nhất
 
 def generate_html(news_list):
     # Ép múi giờ về GMT+7 (Việt Nam)
@@ -62,52 +58,156 @@ def generate_html(news_list):
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>KINVEST News Terminal</title>
+        
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        
+        <title>KINVEST News Feed</title>
         <style>
-            body {{ background-color: #0B0E11; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; }}
-            .header {{ display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #2A2E39; padding-bottom: 10px; margin-bottom: 20px; }}
-            h1 {{ margin: 0; color: #00DC64; font-size: 24px; }}
-            .status {{ color: #8B94A3; font-size: 14px; }}
-            table {{ width: 100%; border-collapse: collapse; }}
-            th, td {{ text-align: left; padding: 12px 15px; border-bottom: 1px solid #2A2E39; }}
-            th {{ color: #8B94A3; font-weight: bold; font-size: 14px; text-transform: uppercase; background-color: #12161C; }}
-            tr:hover {{ background-color: #1E2632; }}
-            .badge {{ background-color: rgba(171, 71, 188, 0.2); color: #AB47BC; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; display: inline-block; text-align: center; }}
-            a {{ color: #2996FF; text-decoration: none; font-weight: bold; font-size: 15px; line-height: 1.4; }}
-            a:hover {{ text-decoration: underline; }}
-            .time {{ color: #8B94A3; font-size: 12px; margin-top: 4px; display: block; }}
+            /* Reset & Base */
+            * {{ box-sizing: border-box; }}
+            body {{
+                background-color: #F3F4F6; /* Nền xám rất sáng, dịu mắt */
+                color: #1F2937; /* Chữ xám đen, giảm chói so với đen tuyền */
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                margin: 0;
+                padding: 30px 15px;
+            }}
+            .container {{
+                max-width: 900px;
+                margin: 0 auto;
+            }}
+            
+            /* Header */
+            .header {{
+                background: #FFFFFF;
+                padding: 24px 30px;
+                border-radius: 12px;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+                margin-bottom: 25px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-top: 4px solid #2563EB; /* Viền xanh dương điểm xuyết */
+            }}
+            .header-left h1 {{
+                margin: 0;
+                font-size: 22px;
+                color: #111827;
+                font-weight: 800;
+                letter-spacing: -0.5px;
+            }}
+            .header-right {{
+                text-align: right;
+            }}
+            .status {{
+                color: #6B7280;
+                font-size: 13px;
+                margin-top: 4px;
+            }}
+            .live-dot {{
+                display: inline-block;
+                width: 8px; height: 8px;
+                background-color: #10B981;
+                border-radius: 50%;
+                margin-right: 5px;
+                animation: pulse 2s infinite;
+            }}
+            
+            /* News Cards */
+            .news-feed {{
+                display: flex;
+                flex-direction: column;
+                gap: 12px;
+            }}
+            .news-card {{
+                background: #FFFFFF;
+                padding: 18px 24px;
+                border-radius: 10px;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+                border-left: 3px solid transparent;
+                transition: all 0.2s ease;
+            }}
+            .news-card:hover {{
+                border-left: 3px solid #2563EB;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+                transform: translateX(2px);
+            }}
+            .news-title {{
+                margin: 0 0 8px 0;
+                font-size: 16px;
+                line-height: 1.5;
+            }}
+            .news-title a {{
+                color: #1F2937;
+                text-decoration: none;
+                font-weight: 600;
+            }}
+            .news-title a:hover {{
+                color: #2563EB; /* Đổi màu xanh khi hover */
+            }}
+            .news-meta {{
+                font-size: 13px;
+                color: #9CA3AF;
+                display: flex;
+                align-items: center;
+                gap: 15px;
+            }}
+            
+            /* Animation */
+            @keyframes pulse {{
+                0% {{ opacity: 1; }}
+                50% {{ opacity: 0.4; }}
+                100% {{ opacity: 1; }}
+            }}
+            
+            /* Responsive */
+            @media (max-width: 600px) {{
+                .header {{ flex-direction: column; align-items: flex-start; gap: 15px; }}
+                .header-right {{ text-align: left; }}
+            }}
         </style>
         <meta http-equiv="refresh" content="180">
     </head>
     <body>
-        <div class="header">
-            <h1>⚡ KINVEST NEWS RADAR</h1>
-            <div class="status">Cập nhật lần cuối: <span style="color:#00DC64">{now_str}</span> (Auto-run via GitHub Actions)</div>
-        </div>
-        <table>
-            <thead>
-                <tr>
-                    <th width="12%">MỤC TIÊU</th>
-                    <th width="88%">NỘI DUNG TÓM TẮT</th>
-                </tr>
-            </thead>
-            <tbody>
+        <div class="container">
+            <div class="header">
+                <div class="header-left">
+                    <h1>KINVEST NEWS FEED</h1>
+                </div>
+                <div class="header-right">
+                    <div class="status"><span class="live-dot"></span>Hệ thống Radar Live</div>
+                    <div class="status" style="font-size: 12px; margin-top: 6px;">Cập nhật: <b>{now_str}</b></div>
+                </div>
+            </div>
+            
+            <div class="news-feed">
     """
     
     if not news_list:
-        html_content += """<tr><td colspan="2" style="text-align:center; color:#8B94A3; padding: 30px;">Chưa có tin tức mới khớp với bộ lọc.</td></tr>"""
+        html_content += """
+            <div class="news-card" style="text-align: center; color: #6B7280; padding: 40px;">
+                Chưa thể tải dữ liệu tin tức. Đang quét lại...
+            </div>
+        """
     else:
         for item in news_list:
             html_content += f"""
-                <tr>
-                    <td><span class="badge">{item['keyword']}</span></td>
-                    <td><a href="{item['link']}" target="_blank">{item['title']}</a><span class="time">Đăng lúc: {item['time']}</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="{item['link']}" target="_blank">{item['title']}</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 {item['time']}</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             """
             
     html_content += """
-            </tbody>
-        </table>
+            </div>
+        </div>
     </body>
     </html>
     """
@@ -116,7 +216,7 @@ def generate_html(news_list):
         file.write(html_content)
 
 if __name__ == "__main__":
-    print("Bắt đầu lấy dữ liệu và tạo Web...")
+    print("Bắt đầu lấy dữ liệu toàn bộ thị trường...")
     news = fetch_news()
     generate_html(news)
     print("Đã tạo xong index.html!")
