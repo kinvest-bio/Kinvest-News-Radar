@@ -4,94 +4,634 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>KINVEST News Terminal</title>
+        
+        <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+        <meta http-equiv="Pragma" content="no-cache" />
+        <meta http-equiv="Expires" content="0" />
+        
+        <title>KINVEST News Feed</title>
         <style>
-            body { background-color: #0B0E11; color: #FFFFFF; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 20px; }
-            .header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #2A2E39; padding-bottom: 10px; margin-bottom: 20px; }
-            h1 { margin: 0; color: #00DC64; font-size: 24px; }
-            .status { color: #8B94A3; font-size: 14px; }
-            table { width: 100%; border-collapse: collapse; }
-            th, td { text-align: left; padding: 12px 15px; border-bottom: 1px solid #2A2E39; }
-            th { color: #8B94A3; font-weight: bold; font-size: 14px; text-transform: uppercase; background-color: #12161C; }
-            tr:hover { background-color: #1E2632; }
-            .badge { background-color: rgba(171, 71, 188, 0.2); color: #AB47BC; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; display: inline-block; text-align: center; }
-            a { color: #2996FF; text-decoration: none; font-weight: bold; font-size: 15px; line-height: 1.4; }
-            a:hover { text-decoration: underline; }
-            .time { color: #8B94A3; font-size: 12px; margin-top: 4px; display: block; }
+            /* Reset & Base */
+            * { box-sizing: border-box; }
+            body {
+                background-color: #F3F4F6; /* Nền xám rất sáng, dịu mắt */
+                color: #1F2937; /* Chữ xám đen, giảm chói so với đen tuyền */
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+                margin: 0;
+                padding: 30px 15px;
+            }
+            .container {
+                max-width: 900px;
+                margin: 0 auto;
+            }
+            
+            /* Header */
+            .header {
+                background: #FFFFFF;
+                padding: 24px 30px;
+                border-radius: 12px;
+                box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+                margin-bottom: 25px;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-top: 4px solid #2563EB; /* Viền xanh dương điểm xuyết */
+            }
+            .header-left h1 {
+                margin: 0;
+                font-size: 22px;
+                color: #111827;
+                font-weight: 800;
+                letter-spacing: -0.5px;
+            }
+            .header-right {
+                text-align: right;
+            }
+            .status {
+                color: #6B7280;
+                font-size: 13px;
+                margin-top: 4px;
+            }
+            .live-dot {
+                display: inline-block;
+                width: 8px; height: 8px;
+                background-color: #10B981;
+                border-radius: 50%;
+                margin-right: 5px;
+                animation: pulse 2s infinite;
+            }
+            
+            /* News Cards */
+            .news-feed {
+                display: flex;
+                flex-direction: column;
+                gap: 12px;
+            }
+            .news-card {
+                background: #FFFFFF;
+                padding: 18px 24px;
+                border-radius: 10px;
+                box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+                border-left: 3px solid transparent;
+                transition: all 0.2s ease;
+            }
+            .news-card:hover {
+                border-left: 3px solid #2563EB;
+                box-shadow: 0 4px 6px rgba(0,0,0,0.08);
+                transform: translateX(2px);
+            }
+            .news-title {
+                margin: 0 0 8px 0;
+                font-size: 16px;
+                line-height: 1.5;
+            }
+            .news-title a {
+                color: #1F2937;
+                text-decoration: none;
+                font-weight: 600;
+            }
+            .news-title a:hover {
+                color: #2563EB; /* Đổi màu xanh khi hover */
+            }
+            .news-meta {
+                font-size: 13px;
+                color: #9CA3AF;
+                display: flex;
+                align-items: center;
+                gap: 15px;
+            }
+            
+            /* Animation */
+            @keyframes pulse {
+                0% { opacity: 1; }
+                50% { opacity: 0.4; }
+                100% { opacity: 1; }
+            }
+            
+            /* Responsive */
+            @media (max-width: 600px) {
+                .header { flex-direction: column; align-items: flex-start; gap: 15px; }
+                .header-right { text-align: left; }
+            }
         </style>
         <meta http-equiv="refresh" content="180">
     </head>
     <body>
-        <div class="header">
-            <h1>⚡ KINVEST NEWS RADAR</h1>
-            <div class="status">Cập nhật lần cuối: <span style="color:#00DC64">16/06/2026 12:24:13</span> (Auto-run via GitHub Actions)</div>
-        </div>
-        <table>
-            <thead>
-                <tr>
-                    <th width="12%">MỤC TIÊU</th>
-                    <th width="88%">NỘI DUNG TÓM TẮT</th>
-                </tr>
-            </thead>
-            <tbody>
+        <div class="container">
+            <div class="header">
+                <div class="header-left">
+                    <h1>KINVEST NEWS FEED</h1>
+                </div>
+                <div class="header-right">
+                    <div class="status"><span class="live-dot"></span>Hệ thống Radar Live</div>
+                    <div class="status" style="font-size: 12px; margin-top: 6px;">Cập nhật: <b>16/06/2026 12:35:51</b></div>
+                </div>
+            </div>
+            
+            <div class="news-feed">
     
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/pham-van-dong-noi-dai-an-so-dang-chu-y-cua-khu-dong-tphcm-188260616102125457.chn" target="_blank">Phạm Văn Đồng nối dài: “Ẩn số” đáng chú ý của khu Đông TP.HCM</a><span class="time">Đăng lúc: Tue, 16 Jun 26 11:00:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/sieu-du-an-tam-linh-19000ha-do-ty-phu-an-chay-xuan-truong-dau-tu-tham-vong-xay-dung-cong-trinh-lon-nhat-the-gioi-chinh-thuc-dung-hoat-dong-18826061611181102.chn" target="_blank">Siêu dự án tâm linh 19.000ha do tỷ phú "ăn chay" Xuân Trường đầu tư, tham vọng xây dựng công trình lớn nhất thế giới chính thức dừng hoạt động</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 11:18:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/bds-da-nang-2026-phan-hoa-manh-de-thanh-loc-thi-truong-188260615112835053.chn" target="_blank">BĐS Đà Nẵng 2026: Phân hóa mạnh để thanh lọc thị trường</a><span class="time">Đăng lúc: Tue, 16 Jun 26 08:00:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/pham-van-dong-noi-dai-an-so-dang-chu-y-cua-khu-dong-tphcm-188260616102125457.chn" target="_blank">Phạm Văn Đồng nối dài: “Ẩn số” đáng chú ý của khu Đông TP.HCM</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 11:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/thi-truong-bat-dong-san-cuoi-nam-2026-giai-doan-phat-trien-nong-nhu-truoc-day-chac-chan-se-khong-con-nhung-mat-bang-gia-kho-giam-sau-188260616062701361.chn" target="_blank">Thị trường bất động sản cuối năm 2026: Giai đoạn phát triển nóng như trước đây chắc chắn sẽ không còn, nhưng mặt bằng giá khó giảm sâu</a><span class="time">Đăng lúc: Tue, 16 Jun 26 06:26:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ha-noi-chinh-thuc-thong-qua-chu-truong-dau-tu-du-an-hon-30000-ty-dong-cai-tao-phat-huy-gia-tri-ho-tay-va-canh-quan-ven-ho-18826061610100113.chn" target="_blank">Hà Nội miễn tiền sử dụng đất dự án nhà ở cho thuê</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:16:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/sep-onehousing-du-bao-bat-ngo-ve-dien-bien-thi-truong-bat-dong-san-nua-cuoi-nam-2026-188260615180400087.chn" target="_blank">Sếp OneHousing dự báo bất ngờ về diễn biến thị trường bất động sản nửa cuối năm 2026</a><span class="time">Đăng lúc: Mon, 15 Jun 26 18:31:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/tu-ngay-1-7-toan-bo-nguoi-dan-tai-khu-vuc-nay-cua-ha-noi-bat-dau-thuc-hien-cac-quy-dinh-cua-vung-phat-thai-thap-188260616101241022.chn" target="_blank">Từ ngày 1/7, toàn bộ người dân tại khu vực này của Hà Nội bắt đầu thực hiện các quy định của vùng phát thải thấp</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:12:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/bat-dong-san-do-thi-nghi-duong-tich-hop-ben-do-moi-cua-nha-dau-tu-188260615151359822.chn" target="_blank">Bất động sản đô thị - nghỉ dưỡng tích hợp: “bến đỗ” mới của nhà đầu tư</a><span class="time">Đăng lúc: Mon, 15 Jun 26 15:30:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/quy-dinh-quan-trong-ve-xay-dung-cong-trinh-nha-o-rieng-le-tu-ngay-1-7-188260616094118095.chn" target="_blank">Quy định quan trọng về xây dựng công trình nhà ở riêng lẻ từ ngày 1/7</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:10:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">CỔ PHIẾU</span></td>
-                    <td><a href="https://cafef.vn/dragon-capital-ha-so-huu-tai-taseco-land-tal-xuong-duoi-nguong-10-188260615111823918.chn" target="_blank">Dragon Capital hạ sở hữu tại Taseco Land (TAL) xuống dưới ngưỡng 10%</a><span class="time">Đăng lúc: Mon, 15 Jun 26 12:51:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/nha-o-duoi-3-tang-dien-tich-nho-hon-250-m-duoc-mien-giay-phep-xay-dung-188260616095552768.chn" target="_blank">Nhà ở dưới 3 tầng, diện tích nhỏ hơn 250 m² được miễn giấy phép xây dựng</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 09:55:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/gia-dat-van-chua-duoc-the-che-hoa-day-du-theo-chu-truong-cua-nghi-quyet-18-188260615111534141.chn" target="_blank">Giá đất vẫn chưa được thể chế hóa đầy đủ theo chủ trương của Nghị quyết 18</a><span class="time">Đăng lúc: Mon, 15 Jun 26 12:17:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/cai-tao-chung-cu-cu-linh-hoat-co-che-den-bu-ho-tro-188260616094648553.chn" target="_blank">Cải tạo chung cư cũ: Linh hoạt cơ chế đền bù, hỗ trợ</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 09:46:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/can-giai-phap-dot-pha-de-giai-bai-toan-chon-an-cu-khoi-dau-cho-nguoi-tre-viet-nam-188260227144242228.chn" target="_blank">Cần giải pháp đột phá để giải bài toán “chốn an cư khởi đầu” cho người trẻ Việt Nam</a><span class="time">Đăng lúc: Mon, 15 Jun 26 11:41:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/them-truc-giao-thong-chien-luoc-sap-ve-dich-188260616093333131.chn" target="_blank">Thêm trục giao thông chiến lược sắp về đích</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 09:33:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/lai-nong-ve-dinh-gia-dat-cac-chuyen-gia-cho-rang-can-kien-dinh-nguyen-tac-dinh-gia-theo-co-che-thi-truong-188260612135032154.chn" target="_blank">Lại nóng về định giá đất: các chuyên gia cho rằng cần kiên định nguyên tắc định giá theo cơ chế thị trường</a><span class="time">Đăng lúc: Mon, 15 Jun 26 10:40:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/cuoc-giai-nen-chat-luong-song-quanh-khu-vuc-nguyen-trai-nga-tu-so-188260616093321748.chn" target="_blank">Cuộc giải nén chất lượng sống quanh khu vực Nguyễn Trãi - Ngã Tư Sở</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 09:33:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/thi-truong-van-phong-ha-noi-vao-cuoc-choi-moi-188260615093859267.chn" target="_blank">Thị trường văn phòng Hà Nội vào 'cuộc chơi' mới</a><span class="time">Đăng lúc: Mon, 15 Jun 26 09:38:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/cuong-che-9-can-bungalow-xay-dung-trai-phep-o-phu-quoc-188260616093035173.chn" target="_blank">Cưỡng chế 9 căn bungalow xây dựng trái phép ở Phú Quốc</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 09:30:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-                <tr>
-                    <td><span class="badge">THỊ TRƯỜNG</span></td>
-                    <td><a href="https://cafef.vn/masterise-homes-thi-truong-quoc-te-goi-ten-nha-dinh-chuan-188260614230328525.chn" target="_blank">Masterise Homes: Thị trường quốc tế gọi tên “Nhà định chuẩn”</a><span class="time">Đăng lúc: Mon, 15 Jun 26 08:00:00 +0700</span></td>
-                </tr>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/quang-ninh-khoi-cong-du-an-noxh-tieu-chuan-thuong-mai-188260615205726772.chn" target="_blank">Quảng Ninh khởi công dự án NOXH tiêu chuẩn thương mại</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
             
-            </tbody>
-        </table>
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/mua-nha-nhan-ngay-goi-hoan-thien-noi-that-cao-cap-len-toi-15-ty-dong-tai-sunshine-legend-city-188260615180441148.chn" target="_blank">Mua nhà nhận ngay gói hoàn thiện nội thất cao cấp lên tới 1,5 tỷ đồng tại Sunshine Legend City</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/bds-da-nang-2026-phan-hoa-manh-de-thanh-loc-thi-truong-188260615112835053.chn" target="_blank">BĐS Đà Nẵng 2026: Phân hóa mạnh để thanh lọc thị trường</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/sieu-to-hop-132600ha-hat-nhan-la-du-an-lan-bien-tran-de-cu-lao-dung-do-dai-gia-ninh-binh-de-xuat-duoc-lanh-dao-tinh-dac-biet-quan-tam-188260615175800213.chn" target="_blank">Siêu tổ hợp 132.600ha, hạt nhân là dự án lấn biển Trần Đề - Cù Lao Dung do đại gia Ninh Bình đề xuất được lãnh đạo tỉnh đặc biệt quan tâm</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 07:14:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/chu-tich-flc-trinh-van-quyet-ban-chuyen-hop-tac-dau-tu-voi-tap-doan-top-500-the-gioi-188260616063235487.chn" target="_blank">Chủ tịch FLC Trịnh Văn Quyết bàn chuyện hợp tác đầu tư với tập đoàn Top 500 thế giới</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 06:32:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/tap-doan-tt-cua-bau-hien-de-xuat-lam-2-khu-do-thi-hon-64000-ty-tai-tinh-ven-bien-mien-trung-co-dien-tich-rong-thu-3-ca-nuoc-188260616063040757.chn" target="_blank">Tập đoàn T&T của Bầu Hiển đề xuất làm 2 khu đô thị hơn 64.000 tỷ tại tỉnh ven biển miền Trung có diện tích rộng thứ 3 cả nước</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 06:30:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/tinh-co-dien-tich-rong-nhat-viet-nam-se-thu-hoi-dat-cua-1200-ho-dan-de-trien-khai-tuyen-duong-hon-4700-ty-dong-dai-12-km-188260616062844233.chn" target="_blank">Tỉnh có diện tích rộng nhất Việt Nam sẽ thu hồi đất của 1.200 hộ dân để triển khai tuyến đường hơn 4.700 tỷ đồng, dài 12 km</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 06:28:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/thi-truong-bat-dong-san-cuoi-nam-2026-giai-doan-phat-trien-nong-nhu-truoc-day-chac-chan-se-khong-con-nhung-mat-bang-gia-kho-giam-sau-188260616062701361.chn" target="_blank">Thị trường bất động sản cuối năm 2026: Giai đoạn phát triển nóng như trước đây chắc chắn sẽ không còn, nhưng mặt bằng giá khó giảm sâu</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 06:26:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/quy-dinh-moi-ve-xay-dung-cong-trinh-tren-dat-lua-xay-1-tang-khong-ham-188260615182414001.chn" target="_blank">Quy định mới về xây dựng công trình trên đất lúa: Xây 1 tầng, không hầm</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 21:33:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/hang-chuc-du-an-can-ho-dua-nhau-moc-len-doc-doan-quoc-lo-188260615182537089.chn" target="_blank">Hàng chục dự án căn hộ đua nhau 'mọc' lên dọc đoạn Quốc lộ</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 21:11:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/sep-onehousing-du-bao-bat-ngo-ve-dien-bien-thi-truong-bat-dong-san-nua-cuoi-nam-2026-188260615180400087.chn" target="_blank">Sếp OneHousing dự báo bất ngờ về diễn biến thị trường bất động sản nửa cuối năm 2026</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 18:31:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/dang-huy-dong-may-moc-thi-cong-san-bay-4000-ty-dong-do-sun-group-dau-tu-tai-tai-tinh-rong-nhat-viet-nam-khu-vuc-tung-soi-suc-vi-sot-dat-188260615180106793.chn" target="_blank">Đang huy động máy móc thi công sân bay 4.000 tỷ đồng do Sun Group đầu tư tại tại tỉnh rộng nhất Việt Nam, khu vực từng "sôi sục" vì sốt đất</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 18:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/nhieu-cua-hang-ngang-nhien-chiem-dung-long-duong-ha-noi-188260615153727299.chn" target="_blank">Nhiều cửa hàng 'ngang nhiên' chiếm dụng lòng đường Hà Nội</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:32:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/nha-pho-khac-la-voi-nhung-duong-cong-dan-xen-188260615160206267.chn" target="_blank">Nhà phố khác lạ với những đường cong đan xen</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:01:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/bat-dong-san-do-thi-nghi-duong-tich-hop-ben-do-moi-cua-nha-dau-tu-188260615151359822.chn" target="_blank">Bất động sản đô thị - nghỉ dưỡng tích hợp: “bến đỗ” mới của nhà đầu tư</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 15:30:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/tu-nam-2030-viet-nam-se-co-them-7-san-bay-moi-188260616104405624.chn" target="_blank">Từ năm 2030, Việt Nam sẽ có thêm 7 sân bay mới</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 11:06:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/co-quan-thue-thong-bao-tu-20-6-nguoi-nop-thue-can-luu-y-4-diem-moi-quan-trong-nay-188260616093238756.chn" target="_blank">Cơ quan thuế thông báo: Từ 20/6, người nộp thuế cần lưu ý 4 điểm mới quan trọng này</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:50:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/co-quan-thue-dua-ra-canh-bao-voi-doanh-nghiep-ho-kinh-doanh-co-tinh-giau-doanh-thu-khong-xuat-hoa-don-de-giu-doanh-thu-duoi-1-ty-dong-duoc-mien-thue-188260616093116921.chn" target="_blank">Cơ quan thuế đưa ra cảnh báo với doanh nghiệp, hộ kinh doanh cố tình giấu doanh thu, không xuất hóa đơn để giữ doanh thu dưới 1 tỷ đồng được miễn thuế</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:34:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/doan-cong-tac-hiep-hoi-doanh-nghiep-khoa-hoc-va-cong-nghe-viet-nam-khao-sat-lam-viec-tai-tham-quyen-188260616094914289.chn" target="_blank">Đoàn công tác Hiệp hội Doanh nghiệp Khoa học và Công nghệ Việt Nam khảo sát, làm việc tại Thâm Quyến</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:15:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/vietravel-airlines-mo-rong-mang-duong-bay-noi-dia-va-quoc-te-188260616101145173.chn" target="_blank">Vietravel Airlines mở rộng mạng đường bay nội địa và quốc tế</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:11:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/nghi-huu-nam-2026-dong-bhxh-26-nam-luong-huu-moi-thang-nguoi-lao-dong-nhan-duoc-se-thay-doi-ra-sao-tu-1-7-188260616100626604.chn" target="_blank">Nghỉ hưu năm 2026, đóng BHXH 26 năm, lương hưu mỗi tháng người lao động nhận được sẽ thay đổi ra sao từ 1/7?</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 10:04:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/duong-sat-toc-do-cao-qua-ninh-binh-dai-86km-tinh-bo-tri-30-khu-tai-dinh-cu-188260615162607209.chn" target="_blank">Đường sắt tốc độ cao qua Ninh Bình dài 86km, tỉnh bố trí 30 khu tái định cư</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:53:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ho-kinh-doanh-muon-ne-thue-bang-cach-chi-nhan-tien-mat-tu-choi-nhan-chuyen-khoan-co-quan-thue-noi-gi-188260615195224059.chn" target="_blank">Hộ kinh doanh muốn "né" thuế bằng cách chỉ nhận tiền mặt, từ chối nhận chuyển khoản: Cơ quan Thuế nói gì?</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:36:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/khong-con-ho-ngheo-ha-noi-ho-tro-20-trieu-dong-cho-ai-khi-chuyen-sang-xe-dien-188260615193529139.chn" target="_blank">Không còn hộ nghèo, Hà Nội hỗ trợ 20 triệu đồng cho ai khi chuyển sang xe điện?</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 08:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/nho-dia-chat-hiem-co-viet-nam-ngoi-tren-kho-bau-khong-lo-ngoai-khoi-dat-chan-vao-thi-truong-tram-ty-usd-188260616070644.chn" target="_blank">Nhờ địa chất hiếm có, Việt Nam ngồi trên kho báu khổng lồ ngoài khơi: Đặt chân vào thị trường trăm tỷ USD</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 07:50:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ha-noi-chinh-thuc-thong-qua-chu-truong-dau-tu-du-an-hon-30000-ty-dong-cai-tao-phat-huy-gia-tri-ho-tay-va-canh-quan-ven-ho-188260616073601818.chn" target="_blank">Hà Nội chính thức thông qua chủ trương đầu tư dự án hơn 30.000 tỷ đồng cải tạo, phát huy giá trị Hồ Tây và cảnh quan ven hồ</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 07:39:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/tu-1-7-quy-dinh-moi-lien-quan-den-o-to-co-hieu-luc-nguoi-dan-chu-y-188260615192817369.chn" target="_blank">Từ 1/7, quy định mới liên quan đến ô tô có hiệu lực, người dân chú ý</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Tue, 16 Jun 26 07:36:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ha-noi-thi-diem-han-che-xe-xang-tai-11-tuyen-pho-trung-tam-tu-1-7-188260615193407909.chn" target="_blank">Hà Nội thí điểm hạn chế xe xăng tại 11 tuyến phố trung tâm từ 1/7</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 19:34:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/kim-long-motor-hop-tac-zf-group-day-manh-xuat-khau-o-to-thuong-hieu-viet-188260615165741886.chn" target="_blank">Kim Long Motor hợp tác ZF Group, đẩy mạnh xuất khẩu ô tô thương hiệu Việt</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 18:25:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/doanh-nghiep-trung-quoc-muon-rot-700-trieu-usd-lam-du-an-cong-nghe-cao-lon-nhat-dong-nam-a-tai-viet-nam-188260615171630361.chn" target="_blank">Doanh nghiệp Trung Quốc muốn rót 700 triệu USD làm dự án công nghệ cao lớn nhất Đông Nam Á tại Việt Nam</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 17:38:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/san-bay-lien-khuong-tai-lam-dong-sap-hoat-dong-tro-lai-188260615164409836.chn" target="_blank">Sân bay Liên Khương tại Lâm Đồng sắp hoạt động trở lại</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 17:37:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ban-tap-hoa-doanh-thu-500-trieu-dong-nam-ke-khai-thue-6-thang-mot-lan-chu-ho-co-phai-dong-bhxh-bat-buoc-khong-co-quan-bhxh-tra-loi-188260615160538775.chn" target="_blank">Bán tạp hóa doanh thu 500 triệu đồng/năm, kê khai thuế 6 tháng một lần, chủ hộ có phải đóng BHXH bắt buộc không: Cơ quan BHXH trả lời</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 17:06:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/viet-nam-tro-thanh-quoc-gia-duy-nhat-tren-the-gioi-dat-duoc-ky-tich-nay-188260615154819663.chn" target="_blank">Việt Nam trở thành quốc gia duy nhất trên thế giới đạt được kỳ tích này</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:44:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/thong-tin-ve-sap-xep-lan-2-mot-tinh-giam-1274-don-vi-3822-nguoi-hoat-dong-khong-chuyen-trach-theo-du-kien-moi-nhat-188260615163641987.chn" target="_blank">Thông tin về sắp xếp lần 2: Một tỉnh giảm 1.274 đơn vị, 3.822 người hoạt động không chuyên trách theo dự kiến mới nhất</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:36:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/xang-e5-bong-dung-dat-hang-nhieu-chu-xe-doi-cu-san-lung-bo-cong-thuong-noi-gi-188260615123627367.chn" target="_blank">Xăng E5 bỗng dưng "đắt hàng", nhiều chủ xe đời cũ săn lùng: Bộ Công Thương nói gì?</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:20:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/ha-noi-lam-ro-cac-quy-dinh-lien-quan-den-khai-thac-quy-dat-bai-song-bai-noi-188260615150608758.chn" target="_blank">Hà Nội làm rõ các quy định liên quan đến khai thác quỹ đất bãi sông, bãi nổi</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 16:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/co-quan-thue-thong-bao-se-tam-hoan-xuat-canh-nhung-nguoi-trong-danh-sach-sau-neu-trong-vong-30-ngay-ho-kinh-doanh-doanh-nghiep-chua-hoan-thanh-nghia-vu-thue-188260615144737351.chn" target="_blank">Cơ quan Thuế thông báo: Sẽ tạm hoãn xuất cảnh những người trong danh sách sau nếu trong vòng 30 ngày hộ kinh doanh, doanh nghiệp chưa hoàn thành nghĩa vụ thuế</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 15:40:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/cu-hich-tu-sieu-du-an-duong-sat-toc-do-cao-va-dien-hat-nhan-188260615140343836.chn" target="_blank">Cú hích từ 'siêu dự án' đường sắt tốc độ cao và điện hạt nhân</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 15:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/sap-thu-phi-13-tuyen-cao-toc-bac-nam-thap-nhat-900-dong-km-188260615133135294.chn" target="_blank">Sắp thu phí 13 tuyến cao tốc Bắc - Nam, thấp nhất 900 đồng/km</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 14:00:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+                <div class="news-card">
+                    <h2 class="news-title">
+                        <a href="https://cafef.vn/dai-cong-truong-nha-ga-metro-so-5-tai-nut-giao-nguyen-chi-thanh-la-thanh-188260615132855749.chn" target="_blank">Đại công trường nhà ga metro số 5 tại nút giao Nguyễn Chí Thanh - La Thành</a>
+                    </h2>
+                    <div class="news-meta">
+                        <span>🕒 Mon, 15 Jun 26 13:29:00</span>
+                        <span>• Nguồn: CafeF</span>
+                    </div>
+                </div>
+            
+            </div>
+        </div>
     </body>
     </html>
     
