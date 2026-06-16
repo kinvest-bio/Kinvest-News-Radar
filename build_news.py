@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import datetime
 import os
 
-# Từ khóa mục tiêu để radar quét
-KEYWORDS = ['DIG', 'CEO', 'NTL', 'DXG', 'CTD', 'SSI', 'Trái phiếu', 'Phát hành', 'Lợi nhuận']
+# Đã bổ sung các từ khóa phổ biến để test (Thị trường, Cổ phiếu, VN-Index)
+KEYWORDS = ['DIG', 'CEO', 'NTL', 'DXG', 'CTD', 'SSI', 'Trái phiếu', 'Phát hành', 'Lợi nhuận', 'Thị trường', 'Cổ phiếu', 'VN-Index']
 
 RSS_URLS = [
     'https://cafef.vn/tin-tuc-chung-khoan.rss',
@@ -17,16 +17,20 @@ def fetch_news():
     
     for url in RSS_URLS:
         try:
-            headers = {'User-Agent': 'Mozilla/5.0'}
+            # Nâng cấp User-Agent để ngụy trang thành trình duyệt Chrome thật, tránh bị Firewall chặn
+            headers = {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'
+            }
             response = requests.get(url, headers=headers, timeout=10)
             soup = BeautifulSoup(response.content, features="xml")
             items = soup.findAll('item')
             
             for item in items:
-                title = item.title.text
-                link = item.link.text
-                pub_date = item.pubDate.text
-                description = item.description.text
+                title = item.title.text if item.title else ""
+                link = item.link.text if item.link else ""
+                pub_date = item.pubDate.text if item.pubDate else ""
+                description = item.description.text if item.description else ""
                 
                 if link in seen_links:
                     continue
@@ -44,10 +48,13 @@ def fetch_news():
         except Exception as e:
             print(f"Lỗi: {e}")
             
-    return news_list[:50] # Chỉ giữ 50 tin mới nhất
+    return news_list[:50]
 
 def generate_html(news_list):
-    now_str = datetime.datetime.now().strftime("%d/%m/%Y %H:%M:%S")
+    # Ép múi giờ về GMT+7 (Việt Nam)
+    utc_now = datetime.datetime.utcnow()
+    vn_time = utc_now + datetime.timedelta(hours=7)
+    now_str = vn_time.strftime("%d/%m/%Y %H:%M:%S")
     
     html_content = f"""
     <!DOCTYPE html>
@@ -65,10 +72,10 @@ def generate_html(news_list):
             th, td {{ text-align: left; padding: 12px 15px; border-bottom: 1px solid #2A2E39; }}
             th {{ color: #8B94A3; font-weight: bold; font-size: 14px; text-transform: uppercase; background-color: #12161C; }}
             tr:hover {{ background-color: #1E2632; }}
-            .badge {{ background-color: rgba(171, 71, 188, 0.2); color: #AB47BC; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; }}
-            a {{ color: #2996FF; text-decoration: none; font-weight: bold; }}
+            .badge {{ background-color: rgba(171, 71, 188, 0.2); color: #AB47BC; padding: 4px 8px; border-radius: 4px; font-weight: bold; font-size: 12px; display: inline-block; text-align: center; }}
+            a {{ color: #2996FF; text-decoration: none; font-weight: bold; font-size: 15px; line-height: 1.4; }}
             a:hover {{ text-decoration: underline; }}
-            .time {{ color: #8B94A3; font-size: 13px; }}
+            .time {{ color: #8B94A3; font-size: 12px; margin-top: 4px; display: block; }}
         </style>
         <meta http-equiv="refresh" content="180">
     </head>
@@ -80,21 +87,21 @@ def generate_html(news_list):
         <table>
             <thead>
                 <tr>
-                    <th width="10%">MỤC TIÊU</th>
-                    <th width="90%">NỘI DUNG TÓM TẮT</th>
+                    <th width="12%">MỤC TIÊU</th>
+                    <th width="88%">NỘI DUNG TÓM TẮT</th>
                 </tr>
             </thead>
             <tbody>
     """
     
     if not news_list:
-        html_content += """<tr><td colspan="2" style="text-align:center; color:#8B94A3;">Chưa có tin tức mới khớp với bộ lọc.</td></tr>"""
+        html_content += """<tr><td colspan="2" style="text-align:center; color:#8B94A3; padding: 30px;">Chưa có tin tức mới khớp với bộ lọc.</td></tr>"""
     else:
         for item in news_list:
             html_content += f"""
                 <tr>
                     <td><span class="badge">{item['keyword']}</span></td>
-                    <td><a href="{item['link']}" target="_blank">{item['title']}</a> <br><span class="time">Đăng lúc: {item['time']}</span></td>
+                    <td><a href="{item['link']}" target="_blank">{item['title']}</a><span class="time">Đăng lúc: {item['time']}</span></td>
                 </tr>
             """
             
