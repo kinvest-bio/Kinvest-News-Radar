@@ -1,5 +1,315 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Quỹ lớn nhất thế giới \"vung tiền\" bắt đáy hơn 7 tấn vàng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860633.160643,
+        "link": "https://cafef.vn/quy-lon-nhat-the-gioi-vung-tien-bat-day-hon-7-tan-vang-188260619080808669.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "MSCI công bố đánh giá quan trọng về thị trường Việt Nam",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860632.160643,
+        "link": "https://cafef.vn/msci-cong-bo-danh-gia-quan-trong-ve-thi-truong-viet-nam-188260619075847839.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "CEO FIDT: Bất động sản đang bước vào cuộc đua giành niềm tin của dòng vốn",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860631.160643,
+        "link": "https://cafef.vn/ceo-fidt-bat-dong-san-dang-buoc-vao-cuoc-dua-gianh-niem-tin-cua-dong-von-18826061908140769.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Chi tiết dự án nhà ở xã hội 'hot' bậc nhất Hà Nội đang tiếp tục nhận hồ sơ",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860630.160643,
+        "link": "https://cafef.vn/chi-tiet-du-an-nha-o-xa-hoi-hot-bac-nhat-ha-noi-dang-tiep-tuc-nhan-ho-so-188260619084706496.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Một xã tại Hà Nội chuẩn bị thu hồi đất của hơn 1.300 hộ dân để triển khai tuyến Vành đai hơn 13.000 tỷ",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860629.160643,
+        "link": "https://cafef.vn/mot-xa-tai-ha-noi-chuan-bi-thu-hoi-dat-cua-hon-1300-ho-dan-de-trien-khai-tuyen-vanh-dai-hon-13000-ty-188260619083352507.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Chung cư mới mở bán đã vượt 120 triệu/m², một dự án “hot” bậc nhất khu Đông xuất hiện mức giá chỉ từ 50 triệu/m2",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860628.160643,
+        "link": "https://cafef.vn/chung-cu-moi-mo-ban-da-vuot-120-trieu-m-mot-du-an-hot-bac-nhat-khu-dong-xuat-hien-muc-gia-chi-tu-50-trieu-m2-188260619075701586.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Phố thương mại đa công năng định hình thói quen tiêu dùng tại Chợ Lớn",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860627.160643,
+        "link": "https://cafef.vn/pho-thuong-mai-da-cong-nang-dinh-hinh-thoi-quen-tieu-dung-tai-cho-lon-188260618194556104.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Lật tẩy thủ đoạn 'ốp gỗ' nhà dân trong diện giải tỏa hòng chiếm đoạt 8 tỷ tiền đền bù",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860626.160643,
+        "link": "https://cafef.vn/lat-tay-thu-doan-op-go-nha-dan-trong-dien-giai-toa-hong-chiem-doat-8-ty-tien-den-bu-188260619075424546.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "TP.HCM sẽ chốt loạt dự án đường vượt biển Cần Giờ, khu Mả Lạng, miễn vé xe buýt",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860625.160643,
+        "link": "https://cafef.vn/tphcm-se-chot-loat-du-an-duong-vuot-bien-can-gio-khu-ma-lang-mien-ve-xe-buyt-188260619075028019.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Nhà đầu tư dồn sự chú ý về phía Nam, chung cư Hà Nội giảm giá",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860624.160643,
+        "link": "https://cafef.vn/nha-dau-tu-don-su-chu-y-ve-phia-nam-chung-cu-ha-noi-giam-gia-188260619020007692.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hãng mỳ gói “hai con tôm” lên kế hoạch doanh thu cao nhất lịch sử, đầu tư 900 tỷ đồng xây nhà máy mới",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860623.160643,
+        "link": "https://cafef.vn/hang-my-goi-hai-con-tom-len-ke-hoach-doanh-thu-cao-nhat-lich-su-dau-tu-900-ty-dong-xay-nha-may-moi-188260619080329928.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lộ diện khối tài sản trị giá gần 12.000 tỷ do con trai và con gái ông Nguyễn Đức Thụy nắm giữ tại một công ty sắp lên sàn",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860622.160643,
+        "link": "https://cafef.vn/lo-dien-khoi-tai-san-tri-gia-gan-12000-ty-do-con-trai-va-con-gai-ong-nguyen-duc-thuy-nam-giu-tai-mot-cong-ty-sap-len-san-188260619075734451.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bắt tay đối tác Nga kinh doanh ở nơi âm 50 độ và giữa biển khơi, một doanh nghiệp Việt thu về hơn 40.000 tỷ lợi nhuận chỉ trong 5 năm",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860621.160643,
+        "link": "https://cafef.vn/bat-tay-doi-tac-nga-kinh-doanh-o-noi-am-50-do-va-giua-bien-khoi-mot-doanh-nghiep-viet-thu-ve-hon-40000-ty-loi-nhuan-chi-trong-5-nam-188260619075939525.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Cực hiếm: Chủ nhân Jackpot hơn 83 tỷ đồng lại trúng thêm gần 1 tỷ đồng chỉ sau ít ngày",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860620.160643,
+        "link": "https://cafef.vn/cuc-hiem-chu-nhan-jackpot-hon-83-ty-dong-lai-trung-them-gan-1-ty-dong-chi-sau-it-ngay-188260619084913112.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Becamex ITC tất toán lô trái phiếu phát hành năm 2019",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860619.160643,
+        "link": "https://cafef.vn/becamex-itc-tat-toan-lo-trai-phieu-phat-hanh-nam-2019-188260619081904327.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Xuân Thiện muốn sản xuất xe tải điện tại Ninh Bình: Công suất 30.000 xe/năm, dự kiến có sản phẩm đầu tiên vào 2027",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860618.160643,
+        "link": "https://cafef.vn/xuan-thien-muon-san-xuat-xe-tai-dien-tai-ninh-binh-cong-suat-30000-xe-nam-du-kien-co-san-pham-dau-tien-vao-2027-188260619082839494.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "ACV dự kiến bầu bổ sung phó tổng giám đốc vào hội đồng quản trị",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860617.160643,
+        "link": "https://cafef.vn/acv-du-kien-bau-bo-sung-pho-tong-giam-doc-vao-hoi-dong-quan-tri-188260619080829454.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Cao su Sao Vàng tăng vốn lên gần 365 tỷ đồng sau đợt thưởng cổ phiếu",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860616.160643,
+        "link": "https://cafef.vn/cao-su-sao-vang-tang-von-len-gan-365-ty-dong-sau-dot-thuong-co-phieu-188260619081649275.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vietcap vay vốn từ 9 định chế tài chính hàng đầu châu Á, quy mô có thể lên gần 10.000 tỷ đồng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860615.160643,
+        "link": "https://cafef.vn/vietcap-vay-von-tu-9-dinh-che-tai-chinh-hang-dau-chau-a-quy-mo-co-the-len-gan-10000-ty-dong-188260619080302992.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Việt Nam muốn có 10 \"đại bàng công nghệ\" vào năm 2030: Doanh thu 1 tỷ USD, ít nhất 5.000 nhân sự",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860614.160643,
+        "link": "https://cafef.vn/viet-nam-muon-co-10-dai-bang-cong-nghe-vao-nam-2030-doanh-thu-1-ty-usd-it-nhat-5000-nhan-su-18826061907551476.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Sáng 19/6: Giá vàng nhẫn trơn, vàng miếng đồng loạt giảm mạnh tới 4 triệu đồng/lượng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860613.160643,
+        "link": "https://cafef.vn/sang-19-6-gia-vang-nhan-tron-vang-mieng-dong-loat-giam-manh-toi-4-trieu-dong-luong-188260619072612286.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Vì sao tỷ giá USD ổn định dù Việt Nam nhập siêu gần 14 tỷ USD?",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860612.160643,
+        "link": "https://cafef.vn/vi-sao-ty-gia-usd-on-dinh-du-viet-nam-nhap-sieu-gan-14-ty-usd-188260619072823699.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Sáng 19/6, giá vàng thế giới rớt mạnh, tuột mốc 4.200 USD/ounce",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860611.160643,
+        "link": "https://cafef.vn/sang-19-6-gia-vang-the-gioi-rot-manh-tuot-moc-4200-usd-ounce-188260619072514324.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Công an Hà Nội sẽ thông tin vụ lừa đảo bán hợp đồng kỳ nghỉ",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860610.160643,
+        "link": "https://cafef.vn/cong-an-ha-noi-se-thong-tin-vu-lua-dao-ban-hop-dong-ky-nghi-188260619072126609.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giảm áp lực vốn cho hệ thống ngân hàng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860609.160643,
+        "link": "https://cafef.vn/giam-ap-luc-von-cho-he-thong-ngan-hang-188260619071413444.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "THACO sắp sản xuất toa tàu metro tại Việt Nam, phục vụ tuyến kết nối sân bay Long Thành",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860608.160643,
+        "link": "https://cafef.vn/thaco-sap-san-xuat-toa-tau-metro-tai-viet-nam-phuc-vu-tuyen-ket-noi-san-bay-long-thanh-188260619070032732.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Thông tin dự án đường vượt biển Cần Giờ - Vũng Tàu hơn 93.000 tỷ đồng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860607.160643,
+        "link": "https://cafef.vn/thong-tin-du-an-duong-vuot-bien-can-gio-vung-tau-hon-93000-ty-dong-188260619071055805.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Thủ tướng Lê Minh Hưng gặp Tổng thống Putin: Sớm triển khai Nhà máy điện hạt nhân Ninh Thuận 1",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860606.160643,
+        "link": "https://cafef.vn/thu-tuong-le-minh-hung-gap-tong-thong-putin-som-trien-khai-nha-may-dien-hat-nhan-ninh-thuan-1-188260619072910619.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Bộ Nội vụ: Chưa có quyết định về đề xuất nghỉ thêm 2 ngày dịp Quốc khánh",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860605.160643,
+        "link": "https://cafef.vn/bo-noi-vu-chua-co-quyet-dinh-ve-de-xuat-nghi-them-2-ngay-dip-quoc-khanh-188260618202206119.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Nghệ An sắp có khu công nghiệp hơn 2.100 tỷ đồng",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860604.160643,
+        "link": "https://cafef.vn/nghe-an-sap-co-khu-cong-nghiep-hon-2100-ty-dong-188260619071324182.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Từ năm 2027, sản xuất chi tiết tàu metro số 2 trong nước",
+        "time": "Fri, 19 Jun 2026 09:17:13",
+        "timestamp": 1781860603.160643,
+        "link": "https://cafef.vn/tu-nam-2027-san-xuat-chi-tiet-tau-metro-so-2-trong-nuoc-188260618171051054.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Tin vui cho người mua nhà: Hơn 152.000 căn tại TP.HCM sắp được cấp sổ hồng",
         "time": "Fri, 19 Jun 2026 06:20:13",
@@ -6015,160 +6325,5 @@
         "title": "Levi's bật chế độ ẩn danh nhưng tác dụng phụ là vô hạn đơn hàng",
         "time": "Tue, 16 Jun 26 07:23:00",
         "link": "https://cafef.vn/levis-bat-che-do-an-danh-nhung-tac-dung-phu-la-vo-han-don-hang-188260616062318396.chn"
-    },
-    {
-        "title": "Tổng thống Ukraine đề xuất gặp Tổng thống Nga tại hội nghị G7",
-        "time": "Tue, 16 Jun 26 06:43:00",
-        "link": "https://cafef.vn/tong-thong-ukraine-de-xuat-gap-tong-thong-nga-tai-hoi-nghi-g7-188260616064328967.chn"
-    },
-    {
-        "title": "\"Siêu El Niño\" mạnh nhất gần 150 năm",
-        "time": "Mon, 15 Jun 26 23:21:00",
-        "link": "https://cafef.vn/sieu-el-nio-manh-nhat-gan-150-nam-188260615230325324.chn"
-    },
-    {
-        "title": "Ông Trump bất ngờ ca ngợi 2 nhà lãnh đạo Nga và Trung Quốc sau khi Iran ký thỏa thuận",
-        "time": "Mon, 15 Jun 26 22:58:00",
-        "link": "https://cafef.vn/ong-trump-bat-ngo-ca-ngoi-2-nha-lanh-dao-nga-va-trung-quoc-sau-khi-iran-ky-thoa-thuan-188260615221109884.chn"
-    },
-    {
-        "title": "Ba Lan gây áp lực cực lớn lên Nga với 64 tiêm kích F-35",
-        "time": "Mon, 15 Jun 26 22:22:00",
-        "link": "https://cafef.vn/ba-lan-gay-ap-luc-cuc-lon-len-nga-voi-64-tiem-kich-f-35-188260615215915443.chn"
-    },
-    {
-        "title": "Chứng khoán Mỹ xanh rực rỡ, Dow Jones phá đỉnh mọi thời đại khi tăng vọt 500 điểm, giá dầu thủng mốc 80 USD/thùng",
-        "time": "Mon, 15 Jun 26 22:01:00",
-        "link": "https://cafef.vn/chung-khoan-my-xanh-ruc-ro-dow-jones-pha-dinh-moi-thoi-dai-khi-tang-vot-500-diem-gia-dau-thung-moc-80-usd-thung-188260615220238278.chn"
-    },
-    {
-        "title": "4 cường quốc châu Âu tuyên bố sẵn sàng dỡ lệnh trừng phạt Iran",
-        "time": "Mon, 15 Jun 26 21:29:00",
-        "link": "https://cafef.vn/4-cuong-quoc-chau-au-tuyen-bo-san-sang-do-lenh-trung-phat-iran-188260615204310026.chn"
-    },
-    {
-        "title": "Mỹ và Iran \"trống đánh xuôi kèn thổi ngược\" về thỏa thuận hòa bình",
-        "time": "Mon, 15 Jun 26 21:06:00",
-        "link": "https://cafef.vn/my-va-iran-trong-danh-xuoi-ken-thoi-nguoc-ve-thoa-thuan-hoa-binh-18826061520114685.chn"
-    },
-    {
-        "title": "Campuchia tăng cường cả trăm xe tăng Trung Quốc: Ông Hun Sen đưa ra thông điệp gây chú ý",
-        "time": "Mon, 15 Jun 26 20:52:00",
-        "link": "https://cafef.vn/campuchia-tang-cuong-ca-tram-xe-tang-trung-quoc-ong-hun-sen-dua-ra-thong-diep-gay-chu-y-188260615200930404.chn"
-    },
-    {
-        "title": "Mỹ bác đề xuất mở khóa tài sản Iran sau ký kết thỏa thuận hòa bình",
-        "time": "Mon, 15 Jun 26 20:43:00",
-        "link": "https://cafef.vn/my-bac-de-xuat-mo-khoa-tai-san-iran-sau-ky-ket-thoa-thuan-hoa-binh-188260615200725205.chn"
-    },
-    {
-        "title": "Không dự World Cup 2026, Trung Quốc đã \"thắng đậm\" ngay trước giờ khai mạc",
-        "time": "Mon, 15 Jun 26 20:28:00",
-        "link": "https://cafef.vn/khong-du-world-cup-2026-trung-quoc-da-thang-dam-ngay-truoc-gio-khai-mac-18826061519304005.chn"
-    },
-    {
-        "title": "Phi hành gia trở về từ vũ trụ với ADN thay đổi: Thí nghiệm trên cặp anh em sinh đôi của NASA hé lộ điều đáng lo ngại",
-        "time": "Mon, 15 Jun 26 20:25:00",
-        "link": "https://cafef.vn/danh-tinh-4-nghe-si-tu-vong-188260615202621359.chn"
-    },
-    {
-        "title": "Israel lo 'trắng tay' sau thỏa thuận ngừng bắn Mỹ - Iran",
-        "time": "Mon, 15 Jun 26 20:06:00",
-        "link": "https://cafef.vn/israel-lo-trang-tay-sau-thoa-thuan-ngung-ban-my-iran-188260615200657689.chn"
-    },
-    {
-        "title": "Người dân Iran thở phào khi đạt thoả thuận ngừng bắn với Mỹ",
-        "time": "Mon, 15 Jun 26 19:59:00",
-        "link": "https://cafef.vn/nguoi-dan-iran-tho-phao-khi-dat-thoa-thuan-ngung-ban-voi-my-188260615194927624.chn"
-    },
-    {
-        "title": "Đánh giá thiết bị của NASA dính lỗi nghiêm trọng, Trung Quốc tung ra công nghệ có thể \"khắc chế\" điểm này",
-        "time": "Mon, 15 Jun 26 19:29:00",
-        "link": "https://cafef.vn/danh-gia-thiet-bi-cua-nasa-dinh-loi-nghiem-trong-trung-quoc-tung-ra-cong-nghe-co-the-khac-che-diem-nay-188260615192532446.chn"
-    },
-    {
-        "title": "Câu chuyện bóc trần nỗi cô đơn của người già hiện nay: Con cái ở xa, vò võ một mình suốt ngày dài đằng đẵng, họ bầu bạn cùng ai?",
-        "time": "Mon, 15 Jun 26 18:57:00",
-        "link": "https://cafef.vn/cau-chuyen-boc-tran-noi-co-don-cua-nguoi-gia-hien-nay-con-cai-o-xa-vo-vo-mot-minh-suot-ngay-dai-dang-dang-ho-bau-ban-cung-ai-188260615185821489.chn"
-    },
-    {
-        "title": "\"Ông vua hộp mù\" Wang Ning: Gã khổng lồ đứng sau quái vật tai dài răng nhọn và bài học của người tạo ra thị trường từ con số 0",
-        "time": "Mon, 15 Jun 26 17:59:00",
-        "link": "https://cafef.vn/ong-vua-hop-mu-wang-ning-ga-khong-lo-dung-sau-quai-vat-tai-dai-rang-nhon-va-bai-hoc-cua-nguoi-tao-ra-thi-truong-tu-con-so-0-188260615155944902.chn"
-    },
-    {
-        "title": "Giọt nước mắt muộn màng của Mark Zuckerberg: Thừa nhận sai lầm vì sa thải hàng nghìn nhân viên, có thể sẽ vấp ngã thêm nhiều lần nữa",
-        "time": "Mon, 15 Jun 26 17:30:00",
-        "link": "https://cafef.vn/giot-nuoc-mat-muon-mang-cua-mark-zuckerberg-thua-nhan-sai-lam-vi-sa-thai-hang-nghin-nhan-vien-co-the-se-vap-nga-them-nhieu-lan-nua-188260615154355714.chn"
-    },
-    {
-        "title": "Đào mỏ, loạt sinh vật từ thế giới 1,7 tỉ năm trước lộ diện",
-        "time": "Mon, 15 Jun 26 16:48:00",
-        "link": "https://cafef.vn/dao-mo-loat-sinh-vat-tu-the-gioi-17-ti-nam-truoc-lo-dien-188260615160616368.chn"
-    },
-    {
-        "title": "Đi tìm vàng giữa sa mạc, các nhà khoa học bất ngờ phát hiện vết sẹo thiên thạch hiếm nhất Trái Đất",
-        "time": "Mon, 15 Jun 26 16:21:00",
-        "link": "https://cafef.vn/di-tim-vang-giua-sa-mac-cac-nha-khoa-hoc-bat-ngo-phat-hien-vet-seo-thien-thach-hiem-nhat-trai-dat-188260615152248566.chn"
-    },
-    {
-        "title": "Levi’s bỗng dưng thành “nhân vật chính” trên mạng vì bị FIFA che sạch tên trong World Cup",
-        "time": "Mon, 15 Jun 26 15:13:00",
-        "link": "https://cafef.vn/levis-bong-dung-thanh-nhan-vat-chinh-tren-mang-vi-bi-fifa-che-sach-ten-trong-world-cup-188260615145608625.chn"
-    },
-    {
-        "title": "Mỹ - Iran đạt thỏa thuận đột phá và sắp ký kết: 1 chỉ số toàn cầu lập tức lao dốc",
-        "time": "Mon, 15 Jun 26 14:58:00",
-        "link": "https://cafef.vn/my-iran-dat-thoa-thuan-dot-pha-va-sap-ky-ket-1-chi-so-toan-cau-lap-tuc-lao-doc-1882606151445298.chn"
-    },
-    {
-        "title": "Kỹ sư Nga phát minh động cơ piston đột phá: Ngành ô tô, đóng tàu toàn cầu hứa hẹn \"không còn như cũ\"",
-        "time": "Mon, 15 Jun 26 14:41:00",
-        "link": "https://cafef.vn/ky-su-nga-phat-minh-dong-co-piston-dot-pha-nganh-o-to-dong-tau-toan-cau-hua-hen-khong-con-nhu-cu-18826061513332798.chn"
-    },
-    {
-        "title": "\"Đây là thời điểm cần thiết phải thay đổi\": Chủ tịch Cuba bất ngờ công bố 'đại cải cách'",
-        "time": "Mon, 15 Jun 26 14:14:00",
-        "link": "https://cafef.vn/day-la-thoi-diem-can-thiet-phai-thay-doi-chu-tich-cuba-bat-ngo-cong-bo-dai-cai-cach-188260615134442441.chn"
-    },
-    {
-        "title": "Người từng cho Elon Musk vay tiền lúc gặp nạn được tỷ phú trả ơn bằng khối tài sản khổng lồ",
-        "time": "Mon, 15 Jun 26 14:09:00",
-        "link": "https://cafef.vn/nguoi-tung-cho-elon-musk-vay-tien-luc-gap-nan-duoc-ty-phu-tra-on-bang-khoi-tai-san-khong-lo-188260615132805107.chn"
-    },
-    {
-        "title": "Thảm kịch hàng không liên tiếp ở Brazil và Mỹ",
-        "time": "Mon, 15 Jun 26 13:42:00",
-        "link": "https://cafef.vn/tham-kich-hang-khong-lien-tiep-o-brazil-va-my-188260615092134951.chn"
-    },
-    {
-        "title": "Miệt thị người châu Á khi đi xem World Cup, cựu chủ tịch hiệp hội Mexico phải từ chức",
-        "time": "Mon, 15 Jun 26 13:25:00",
-        "link": "https://cafef.vn/miet-thi-nguoi-chau-a-khi-di-xem-world-cup-cuu-chu-tich-hiep-hoi-mexico-phai-tu-chuc-188260615112623708.chn"
-    },
-    {
-        "title": "Mỹ: Máy bay rơi ngay khi vừa cất cánh, toàn bộ người trong khoang thiệt mạng trước sự chứng kiến của người thân",
-        "time": "Mon, 15 Jun 26 13:00:00",
-        "link": "https://cafef.vn/my-may-bay-roi-ngay-khi-vua-cat-canh-toan-bo-nguoi-trong-khoang-thiet-mang-truoc-su-chung-kien-cua-nguoi-than-188260615113010808.chn"
-    },
-    {
-        "title": "Slovakia nêu lý do yêu cầu EU bồi thường số vũ khí tặng cho Ukraine",
-        "time": "Mon, 15 Jun 26 12:45:00",
-        "link": "https://cafef.vn/slovakia-neu-ly-do-yeu-cau-eu-boi-thuong-so-vu-khi-tang-cho-ukraine-188260615112101722.chn"
-    },
-    {
-        "title": "Elon Musk phải đếm tiền trong 31.700 năm mới xong",
-        "time": "Mon, 15 Jun 26 12:35:00",
-        "link": "https://cafef.vn/elon-musk-phai-dem-tien-trong-31700-nam-moi-xong-188260615103526451.chn"
-    },
-    {
-        "title": "Tuyến đường 68 km, trị giá 138 tỷ đồng nối thẳng tới biên giới Trung Quốc vẫn dang dở sau 20 năm: Mới xây được 18 km, chất lượng thi công kém, dân chịu khổ đủ đường",
-        "time": "Mon, 15 Jun 26 12:05:00",
-        "link": "https://cafef.vn/tuyen-duong-68-km-tri-gia-138-ty-dong-noi-thang-toi-bien-gioi-trung-quoc-van-dang-do-sau-20-nam-moi-xay-duoc-18-km-chat-luong-thi-cong-kem-dan-chiu-kho-du-duong-188260615110950562.chn"
-    },
-    {
-        "title": "Chuỗi nhà hàng đồ ăn nhanh nổi tiếng đóng hơn 700 chi nhánh, loạt đối tác nhượng quyền điêu đứng",
-        "time": "Mon, 15 Jun 26 11:50:00",
-        "link": "https://cafef.vn/chuoi-nha-hang-do-an-nhanh-noi-tieng-dong-hon-700-chi-nhanh-loat-doi-tac-nhuong-quyen-dieu-dung-188260615100657444.chn"
     }
 ]
