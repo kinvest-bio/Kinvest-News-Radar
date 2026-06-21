@@ -1,5 +1,315 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Chuyên gia phát cảnh báo nóng về giá vàng",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044314.545531,
+        "link": "https://cafef.vn/chuyen-gia-phat-canh-bao-nong-ve-gia-vang-188260621115823505.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "ACV đang kiểm soát chặt tiến độ dự án sân bay Long Thành",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044313.545531,
+        "link": "https://cafef.vn/acv-dang-kiem-soat-chat-tien-do-du-an-san-bay-long-thanh-188260621100038428.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Quỹ ngoại đua bán cổ phiếu, Thép Nam Kim bị 'tuýt còi'",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044312.545531,
+        "link": "https://cafef.vn/quy-ngoai-dua-ban-co-phieu-thep-nam-kim-bi-tuyt-coi-18826062109574328.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "TVC đăng ký bán 24,8 triệu cổ phiếu TVB",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044311.545531,
+        "link": "https://cafef.vn/tvc-dang-ky-ban-248-trieu-co-phieu-tvb-188260621100612142.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Petrovietnam ký loạt hợp đồng dầu khí, bổ sung nguồn khí cho phát điện từ năm 2027",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044310.545531,
+        "link": "https://cafef.vn/petrovietnam-ky-loat-hop-dong-dau-khi-bo-sung-nguon-khi-cho-phat-dien-tu-nam-2027-188260621095913804.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Nguyên giảng viên Đại học Bách Khoa tham gia làm nhà ở giá rẻ, triển khai dự án hơn 800 căn tại thành phố giàu nhất nước",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044309.545531,
+        "link": "https://cafef.vn/nguyen-giang-vien-dai-hoc-bach-khoa-tham-gia-lam-nha-o-gia-re-trien-khai-du-an-hon-800-can-tai-thanh-pho-giau-nhat-nuoc-188260621074229602.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Vụ 'ôm đất vàng', dân thiếu lối ra biển: Chủ dự án có động thái mới",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044308.545531,
+        "link": "https://cafef.vn/vu-om-dat-vang-dan-thieu-loi-ra-bien-chu-du-an-co-dong-thai-moi-188260621080736047.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Chính thức phê duyệt quy hoạch phân khu siêu dự án 1.400 ha do Sun Group nghiên cứu tại tỉnh có diện tích nhỏ nhất Việt Nam",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044307.545531,
+        "link": "https://cafef.vn/chinh-thuc-phe-duyet-quy-hoach-phan-khu-sieu-du-an-1400-ha-do-sun-group-nghien-cuu-tai-tinh-co-dien-tich-nho-nhat-viet-nam-188260621075422423.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Tổ hợp 9 tòa tháp của Sunshine ở TP Hồ Chí Minh: Hơn 50 tiện ích cao cấp, AI hiện diện trong từng căn hộ",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044306.545531,
+        "link": "https://cafef.vn/to-hop-9-toa-thap-cua-sunshine-o-tp-ho-chi-minh-hon-50-tien-ich-cao-cap-ai-hien-dien-trong-tung-can-ho-188260620193912249.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội sắp khởi công đồng loạt 5 tuyến đường sắt đô thị quy mô chưa từng có, với tổng mức đầu tư sơ bộ lên tới hàng triệu tỷ đồng",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044305.545531,
+        "link": "https://cafef.vn/ha-noi-sap-khoi-cong-dong-loat-5-tuyen-duong-sat-do-thi-quy-mo-chua-tung-co-voi-tong-muc-dau-tu-so-bo-len-toi-hang-trieu-ty-dong-188260621075538878.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Siêu dự án 1,5 tỷ USD của Kinh Bắc và Tập đoàn Trump có diễn biến mới",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044304.545531,
+        "link": "https://cafef.vn/sieu-du-an-15-ty-usd-cua-kinh-bac-va-tap-doan-trump-co-dien-bien-moi-188260621073732324.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Sunshine (KSF) chi gần 1.500 tỷ đồng để tăng sở hữu lên 99,99% tại doanh nghiệp nắm các DA ở Đan Phượng",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044303.545531,
+        "link": "https://cafef.vn/sunshine-ksf-chi-gan-1500-ty-dong-de-tang-so-huu-len-9999-tai-doanh-nghiep-nam-cac-da-o-dan-phuong-188260621074154781.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Tháng 6-2026, hơn 206 triệu cổ phiếu hủy đăng ký giao dịch trên sàn Upcom",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044302.545531,
+        "link": "https://cafef.vn/thang-6-2026-hon-206-trieu-co-phieu-huy-dang-ky-giao-dich-tren-san-upcom-188260621075851558.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Quy định mới đáng chú ý về chào bán trái phiếu doanh nghiệp",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044301.545531,
+        "link": "https://cafef.vn/quy-dinh-moi-dang-chu-y-ve-chao-ban-trai-phieu-doanh-nghiep-188260621080316678.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hãng hàng không mở đợt tuyển tiếp viên lớn nhất từ trước đến nay, miễn phí đào tạo, mức lương hấp dẫn",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044300.545531,
+        "link": "https://cafef.vn/hang-hang-khong-mo-dot-tuyen-tiep-vien-lon-nhat-tu-truoc-den-nay-mien-phi-dao-tao-muc-luong-hap-dan-188260621075530185.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Fortune SEA 500: Việt Nam thành 'đầu tàu' mới; chỉ duy nhất Vingroup trong top 50 làm được một điều",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044299.545531,
+        "link": "https://cafef.vn/fortune-sea-500-viet-nam-thanh-dau-tau-moi-chi-duy-nhat-vingroup-trong-top-50-lam-duoc-mot-dieu-18826062107502092.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "BSR chốt ngày chi hơn 1.500 tỷ đồng trả cổ tức",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044298.545531,
+        "link": "https://cafef.vn/bsr-chot-ngay-chi-hon-1500-ty-dong-tra-co-tuc-188260621074624997.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Dự báo lợi nhuận quý II ngành ngân hàng: Một nhà băng cao gấp rưỡi cùng kỳ, VietinBank có thể lãi gần 15.000 tỷ",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044297.545531,
+        "link": "https://cafef.vn/du-bao-loi-nhuan-quy-ii-nganh-ngan-hang-mot-nha-bang-cao-gap-ruoi-cung-ky-vietinbank-co-the-lai-gan-15000-ty-188260621100406229.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng hôm nay 21/6: Đi ngang chờ tín hiệu mới",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044296.545531,
+        "link": "https://cafef.vn/gia-vang-hom-nay-21-6-di-ngang-cho-tin-hieu-moi-188260621064339114.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng nhẫn trơn, vàng miếng hôm nay ngày 21/6",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044295.545531,
+        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-hom-nay-ngay-21-6-188260621111001757.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Sacombank muốn huy động lượng tiền lớn từ trái phiếu",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044294.545531,
+        "link": "https://cafef.vn/sacombank-muon-huy-dong-luong-tien-lon-tu-trai-phieu-188260621103600649.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Tin cực vui: Một địa phương quyết định hỗ trợ thu nhập 2 triệu đồng/tháng cho những đối tượng sau, sẽ tăng lên 2,8 triệu từ năm 2027",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044293.545531,
+        "link": "https://cafef.vn/tin-cuc-vui-mot-dia-phuong-quyet-dinh-ho-tro-thu-nhap-2-trieu-dong-thang-cho-nhung-doi-tuong-sau-se-tang-len-28-trieu-tu-nam-2027-188260621113945446.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Ngày mai, hơn 8 triệu người dân Hà Nội sẽ chứng kiến một cột mốc quan trọng lần đầu tiên xảy ra",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044292.545531,
+        "link": "https://cafef.vn/ngay-mai-hon-8-trieu-nguoi-dan-ha-noi-se-chung-kien-mot-cot-moc-quan-trong-lan-dau-tien-xay-ra-188260621084926054.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Tấp nập thi công đường huyết mạch kết nối sân bay Long Thành",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044291.545531,
+        "link": "https://cafef.vn/tap-nap-thi-cong-duong-huyet-mach-ket-noi-san-bay-long-thanh-188260621081331973.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Từ 1/7, thay đổi quan trọng về thủ tục hộ chiếu mà người dân cần biết  rõ",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044290.545531,
+        "link": "https://cafef.vn/tu-1-7-thay-doi-quan-trong-ve-thu-tuc-ho-chieu-ma-nguoi-dan-can-biet-ro-1882606202017019.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Ngành đồ uống trước yêu cầu mới: Không chỉ bán sản phẩm, mà còn phải góp phần thay đổi hành vi tiêu dùng",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044289.545531,
+        "link": "https://cafef.vn/nganh-do-uong-truoc-yeu-cau-moi-khong-chi-ban-san-pham-ma-con-phai-gop-phan-thay-doi-hanh-vi-tieu-dung-188260621105036872.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cận cảnh dự án hơn 16.200 tỷ đồng nối Đồng Nai và TPHCM",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044288.545531,
+        "link": "https://cafef.vn/can-canh-du-an-hon-16200-ty-dong-noi-dong-nai-va-tphcm-188260621090339559.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hà Nội định vị thu hút đầu tư trong mô hình tăng trưởng mới",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044287.545531,
+        "link": "https://cafef.vn/ha-noi-dinh-vi-thu-hut-dau-tu-trong-mo-hinh-tang-truong-moi-188260621083107543.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Gia hạn thuế 125.000 tỉ đồng: Hiệu quả nhưng chưa đủ",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044286.545531,
+        "link": "https://cafef.vn/gia-han-thue-125000-ti-dong-hieu-qua-nhung-chua-du-188260621084234235.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đồng Nai sẽ giảm hơn 1.170 thôn, ấp, khu phố sau sắp xếp",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044285.545531,
+        "link": "https://cafef.vn/dong-nai-se-giam-hon-1170-thon-ap-khu-pho-sau-sap-xep-188260621073017578.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "\"Siêu công trình\" điện gió 16.500 tỷ đồng, lớn bậc nhất Việt Nam",
+        "time": "Sun, 21 Jun 2026 12:18:34",
+        "timestamp": 1782044284.545531,
+        "link": "https://cafef.vn/sieu-cong-trinh-dien-gio-16500-ty-dong-lon-bac-nhat-viet-nam-188260621072618586.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Ngân hàng",
         "title": "Ngăn chặn tình trạng mua bán trái phép hóa đơn, chứng từ",
         "time": "Sun, 21 Jun 2026 07:05:28",
@@ -7040,160 +7350,5 @@
         "title": "Mua nhà nhận ngay gói hoàn thiện nội thất cao cấp lên tới 1,5 tỷ đồng tại Sunshine Legend City",
         "time": "Tue, 16 Jun 26 08:00:00",
         "link": "https://cafef.vn/mua-nha-nhan-ngay-goi-hoan-thien-noi-that-cao-cap-len-toi-15-ty-dong-tai-sunshine-legend-city-188260615180441148.chn"
-    },
-    {
-        "title": "BĐS Đà Nẵng 2026: Phân hóa mạnh để thanh lọc thị trường",
-        "time": "Tue, 16 Jun 26 08:00:00",
-        "link": "https://cafef.vn/bds-da-nang-2026-phan-hoa-manh-de-thanh-loc-thi-truong-188260615112835053.chn"
-    },
-    {
-        "title": "Siêu tổ hợp 132.600ha, hạt nhân là dự án lấn biển Trần Đề - Cù Lao Dung do đại gia Ninh Bình đề xuất được lãnh đạo tỉnh đặc biệt quan tâm",
-        "time": "Tue, 16 Jun 26 07:14:00",
-        "link": "https://cafef.vn/sieu-to-hop-132600ha-hat-nhan-la-du-an-lan-bien-tran-de-cu-lao-dung-do-dai-gia-ninh-binh-de-xuat-duoc-lanh-dao-tinh-dac-biet-quan-tam-188260615175800213.chn"
-    },
-    {
-        "title": "Chủ tịch FLC Trịnh Văn Quyết bàn chuyện hợp tác đầu tư với tập đoàn Top 500 thế giới",
-        "time": "Tue, 16 Jun 26 06:32:00",
-        "link": "https://cafef.vn/chu-tich-flc-trinh-van-quyet-ban-chuyen-hop-tac-dau-tu-voi-tap-doan-top-500-the-gioi-188260616063235487.chn"
-    },
-    {
-        "title": "Tập đoàn T&T của Bầu Hiển đề xuất làm 2 khu đô thị hơn 64.000 tỷ tại tỉnh ven biển miền Trung có diện tích rộng thứ 3 cả nước",
-        "time": "Tue, 16 Jun 26 06:30:00",
-        "link": "https://cafef.vn/tap-doan-tt-cua-bau-hien-de-xuat-lam-2-khu-do-thi-hon-64000-ty-tai-tinh-ven-bien-mien-trung-co-dien-tich-rong-thu-3-ca-nuoc-188260616063040757.chn"
-    },
-    {
-        "title": "Tỉnh có diện tích rộng nhất Việt Nam sẽ thu hồi đất của 1.200 hộ dân để triển khai tuyến đường hơn 4.700 tỷ đồng, dài 12 km",
-        "time": "Tue, 16 Jun 26 06:28:00",
-        "link": "https://cafef.vn/tinh-co-dien-tich-rong-nhat-viet-nam-se-thu-hoi-dat-cua-1200-ho-dan-de-trien-khai-tuyen-duong-hon-4700-ty-dong-dai-12-km-188260616062844233.chn"
-    },
-    {
-        "title": "Thị trường bất động sản cuối năm 2026: Giai đoạn phát triển nóng như trước đây chắc chắn sẽ không còn, nhưng mặt bằng giá khó giảm sâu",
-        "time": "Tue, 16 Jun 26 06:26:00",
-        "link": "https://cafef.vn/thi-truong-bat-dong-san-cuoi-nam-2026-giai-doan-phat-trien-nong-nhu-truoc-day-chac-chan-se-khong-con-nhung-mat-bang-gia-kho-giam-sau-188260616062701361.chn"
-    },
-    {
-        "title": "Quy định mới về xây dựng công trình trên đất lúa: Xây 1 tầng, không hầm",
-        "time": "Mon, 15 Jun 26 21:33:00",
-        "link": "https://cafef.vn/quy-dinh-moi-ve-xay-dung-cong-trinh-tren-dat-lua-xay-1-tang-khong-ham-188260615182414001.chn"
-    },
-    {
-        "title": "Hàng chục dự án căn hộ đua nhau 'mọc' lên dọc đoạn Quốc lộ",
-        "time": "Mon, 15 Jun 26 21:11:00",
-        "link": "https://cafef.vn/hang-chuc-du-an-can-ho-dua-nhau-moc-len-doc-doan-quoc-lo-188260615182537089.chn"
-    },
-    {
-        "title": "Sếp OneHousing dự báo bất ngờ về diễn biến thị trường bất động sản nửa cuối năm 2026",
-        "time": "Mon, 15 Jun 26 18:31:00",
-        "link": "https://cafef.vn/sep-onehousing-du-bao-bat-ngo-ve-dien-bien-thi-truong-bat-dong-san-nua-cuoi-nam-2026-188260615180400087.chn"
-    },
-    {
-        "title": "Đang huy động máy móc thi công sân bay 4.000 tỷ đồng do Sun Group đầu tư tại tại tỉnh rộng nhất Việt Nam, khu vực từng \"sôi sục\" vì sốt đất",
-        "time": "Mon, 15 Jun 26 18:00:00",
-        "link": "https://cafef.vn/dang-huy-dong-may-moc-thi-cong-san-bay-4000-ty-dong-do-sun-group-dau-tu-tai-tai-tinh-rong-nhat-viet-nam-khu-vuc-tung-soi-suc-vi-sot-dat-188260615180106793.chn"
-    },
-    {
-        "title": "Nhiều cửa hàng 'ngang nhiên' chiếm dụng lòng đường Hà Nội",
-        "time": "Mon, 15 Jun 26 16:32:00",
-        "link": "https://cafef.vn/nhieu-cua-hang-ngang-nhien-chiem-dung-long-duong-ha-noi-188260615153727299.chn"
-    },
-    {
-        "title": "Nhà phố khác lạ với những đường cong đan xen",
-        "time": "Mon, 15 Jun 26 16:01:00",
-        "link": "https://cafef.vn/nha-pho-khac-la-voi-nhung-duong-cong-dan-xen-188260615160206267.chn"
-    },
-    {
-        "title": "Bất động sản đô thị - nghỉ dưỡng tích hợp: “bến đỗ” mới của nhà đầu tư",
-        "time": "Mon, 15 Jun 26 15:30:00",
-        "link": "https://cafef.vn/bat-dong-san-do-thi-nghi-duong-tich-hop-ben-do-moi-cua-nha-dau-tu-188260615151359822.chn"
-    },
-    {
-        "title": "SLP và J&T Express hợp tác xây dựng trung tâm logistics tự động hóa tại miền Nam",
-        "time": "Mon, 15 Jun 26 15:30:00",
-        "link": "https://cafef.vn/slp-va-jt-express-hop-tac-xay-dung-trung-tam-logistics-tu-dong-hoa-tai-mien-nam-188260615151255693.chn"
-    },
-    {
-        "title": "Bộ trưởng Bộ Xây dựng nói về hệ lụy khi người lao động \"nhảy\" việc liên tục",
-        "time": "Mon, 15 Jun 26 15:21:00",
-        "link": "https://cafef.vn/bo-truong-bo-xay-dung-noi-ve-he-luy-khi-nguoi-lao-dong-nhay-viec-lien-tuc-188260615133717799.chn"
-    },
-    {
-        "title": "Thu hồi đất của hàng nghìn hộ dân tại một xã để làm siêu dự án lớn nhất lịch sử 34 tỷ USD",
-        "time": "Mon, 15 Jun 26 15:20:00",
-        "link": "https://cafef.vn/thu-hoi-dat-cua-hon-9000-ho-dan-tai-mot-xa-de-lam-sieu-du-an-lon-nhat-lich-su-34-ty-usd-18826061515143191.chn"
-    },
-    {
-        "title": "Bị “nhắc tên” vì chậm đóng bảo hiểm, Delta E&C đang sở hữu tiềm lực ra sao?",
-        "time": "Mon, 15 Jun 26 14:46:00",
-        "link": "https://cafef.vn/bi-nhac-ten-vi-cham-dong-bao-hiem-delta-ec-dang-so-huu-tiem-luc-ra-sao-188260615135318367.chn"
-    },
-    {
-        "title": "Bất động sản 4–5 sao lõi đô thị: Lớp tài sản nổi lên trong giai đoạn sàng lọc",
-        "time": "Mon, 15 Jun 26 13:30:00",
-        "link": "https://cafef.vn/bat-dong-san-45-sao-loi-do-thi-lop-tai-san-noi-len-trong-giai-doan-sang-loc-188260615113215824.chn"
-    },
-    {
-        "title": "Bùng nổ ra mắt Festival Island, hé mở tương lai một \"Downtown không ngủ\" của Nha Trang",
-        "time": "Mon, 15 Jun 26 13:30:00",
-        "link": "https://cafef.vn/bung-no-ra-mat-festival-island-he-mo-tuong-lai-mot-downtown-khong-ngu-cua-nha-trang-188260615112926433.chn"
-    },
-    {
-        "title": "Sol Garden: Khi mô hình Compound chuẩn quốc tế tiên phong giữa lòng Đất Cảng",
-        "time": "Mon, 15 Jun 26 13:30:00",
-        "link": "https://cafef.vn/sol-garden-khi-mo-hinh-compound-chuan-quoc-te-tien-phong-giua-long-dat-cang-188260615094917345.chn"
-    },
-    {
-        "title": "Dragon Capital hạ sở hữu tại Taseco Land (TAL) xuống dưới ngưỡng 10%",
-        "time": "Mon, 15 Jun 26 12:51:00",
-        "link": "https://cafef.vn/dragon-capital-ha-so-huu-tai-taseco-land-tal-xuong-duoi-nguong-10-188260615111823918.chn"
-    },
-    {
-        "title": "Giá đất vẫn chưa được thể chế hóa đầy đủ theo chủ trương của Nghị quyết 18",
-        "time": "Mon, 15 Jun 26 12:17:00",
-        "link": "https://cafef.vn/gia-dat-van-chua-duoc-the-che-hoa-day-du-theo-chu-truong-cua-nghi-quyet-18-188260615111534141.chn"
-    },
-    {
-        "title": "Ông Trịnh Văn Quyết còn \"vấn vương\" một điều",
-        "time": "Mon, 15 Jun 26 11:58:00",
-        "link": "https://cafef.vn/ong-trinh-van-quyet-con-van-vuong-mot-dieu-188260615114102981.chn"
-    },
-    {
-        "title": "Cần giải pháp đột phá để giải bài toán “chốn an cư khởi đầu” cho người trẻ Việt Nam",
-        "time": "Mon, 15 Jun 26 11:41:00",
-        "link": "https://cafef.vn/can-giai-phap-dot-pha-de-giai-bai-toan-chon-an-cu-khoi-dau-cho-nguoi-tre-viet-nam-188260227144242228.chn"
-    },
-    {
-        "title": "Tập đoàn xây dựng hàng đầu Trung Quốc từng tham gia xây cầu Tứ Liên nay muốn ứng vốn làm hạ tầng tại thành phố giàu nhất Việt Nam, tự triển khai từ A–Z, nói không với chia thầu",
-        "time": "Mon, 15 Jun 26 11:37:00",
-        "link": "https://cafef.vn/tap-doan-xay-dung-hang-dau-trung-quoc-tung-tham-gia-xay-cau-tu-lien-nay-muon-ung-von-lam-ha-tang-tai-thanh-pho-giau-nhat-viet-nam-tu-trien-khai-tu-az-noi-khong-voi-chia-thau-188260615111411392.chn"
-    },
-    {
-        "title": "Tất cả người cho thuê nhà có doanh thu dưới 1 tỷ đồng/năm vẫn phải làm một việc quan trọng dù không phải nộp thuế GTGT và thuế TNCN",
-        "time": "Mon, 15 Jun 26 11:26:00",
-        "link": "https://cafef.vn/tat-ca-nguoi-cho-thue-nha-co-doanh-thu-duoi-1-ty-dong-nam-van-phai-lam-mot-viec-quan-trong-du-khong-phai-nop-thue-gtgt-va-thue-tncn-188260615112635213.chn"
-    },
-    {
-        "title": "Liên doanh Keppel & Khang Điền chính thức ra mắt khu căn hộ Gladia Heights kề cận Thủ Thiêm",
-        "time": "Mon, 15 Jun 26 11:00:00",
-        "link": "https://cafef.vn/lien-doanh-keppel-khang-dien-chinh-thuc-ra-mat-khu-can-ho-gladia-heights-ke-can-thu-thiem-188260615094838784.chn"
-    },
-    {
-        "title": "Tấp nập thi công siêu dự án gần 30.000 tỷ đồng giữa khu đất vàng TP.HCM",
-        "time": "Mon, 15 Jun 26 10:52:00",
-        "link": "https://cafef.vn/tap-nap-thi-cong-sieu-du-an-gan-30000-ty-dong-giua-khu-dat-vang-tphcm-188250930071838341.chn"
-    },
-    {
-        "title": "Lại nóng về định giá đất: các chuyên gia cho rằng cần kiên định nguyên tắc định giá theo cơ chế thị trường",
-        "time": "Mon, 15 Jun 26 10:40:00",
-        "link": "https://cafef.vn/lai-nong-ve-dinh-gia-dat-cac-chuyen-gia-cho-rang-can-kien-dinh-nguyen-tac-dinh-gia-theo-co-che-thi-truong-188260612135032154.chn"
-    },
-    {
-        "title": "Đẩy nhanh tiến độ mở rộng tuyến cao tốc huyết mạch",
-        "time": "Mon, 15 Jun 26 10:38:00",
-        "link": "https://cafef.vn/day-nhanh-tien-do-mo-rong-tuyen-cao-toc-huyet-mach-188260612135033221.chn"
-    },
-    {
-        "title": "Vỡ hồ trên núi Tân Lai: Người dân mòn mỏi chờ đền bù",
-        "time": "Mon, 15 Jun 26 10:33:00",
-        "link": "https://cafef.vn/vo-ho-tren-nui-tan-lai-nguoi-dan-mon-moi-cho-den-bu-188260615103319832.chn"
     }
 ]
