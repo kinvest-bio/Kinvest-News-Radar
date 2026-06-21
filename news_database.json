@@ -1,6 +1,46 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Chứng khoán ngắt chuỗi giảm 4 tuần, chuyên gia vẫn cảnh báo 'xanh vỏ đỏ lòng'",
+        "time": "Sun, 21 Jun 2026 21:13:33",
+        "timestamp": 1782076413.517321,
+        "link": "https://cafef.vn/chung-khoan-ngat-chuoi-giam-4-tuan-chuyen-gia-van-canh-bao-xanh-vo-do-long-188260621192344.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hòa Phát lần đầu tiên chế tạo được 1 loại thép đặc chủng cho ô tô, thiết bị công nghiệp hạng nặng",
+        "time": "Sun, 21 Jun 2026 21:13:33",
+        "timestamp": 1782076412.517321,
+        "link": "https://cafef.vn/hoa-phat-lan-dau-tien-che-tao-duoc-1-loai-thep-dac-chung-cho-o-to-thiet-bi-cong-nghiep-hang-nang-188260621203350799.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Loạt ngân hàng tăng vốn điều lệ cả chục nghìn tỷ đồng",
+        "time": "Sun, 21 Jun 2026 21:13:33",
+        "timestamp": 1782076411.517321,
+        "link": "https://cafef.vn/loat-ngan-hang-tang-von-dieu-le-ca-chuc-nghin-ty-dong-188260621195733385.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất tiết kiệm biến động trái chiều",
+        "time": "Sun, 21 Jun 2026 21:13:33",
+        "timestamp": 1782076410.517321,
+        "link": "https://cafef.vn/lai-suat-tiet-kiem-bien-dong-trai-chieu-18826062119464995.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Cổ đông liên quan lãnh đạo Vinasun không bán hết lượng cổ phiếu VNS đã đăng ký",
         "time": "Sun, 21 Jun 2026 18:55:52",
         "timestamp": 1782068152.216112,
@@ -7448,33 +7488,5 @@
         "time": "Mon, 15 Jun 26 20:45:00",
         "timestamp": 1781531100.0,
         "link": "https://cafef.vn/ra-lenh-bat-tam-giam-trinh-thi-nhu-quynh-va-4-nguoi-trong-can-nha-188260615204555309.chn"
-    },
-    {
-        "category": "Kinh tế số",
-        "title": "Từ hôm nay, khoảng 18 triệu thuê bao di động ở Việt Nam sẽ không thực hiện được việc này",
-        "time": "Mon, 15 Jun 26 20:45:00",
-        "timestamp": 1781531100.0,
-        "link": "https://cafef.vn/tu-hom-nay-khoang-18-trieu-thue-bao-di-dong-o-viet-nam-se-khong-thuc-hien-duoc-viec-nay-188260615204540243.chn"
-    },
-    {
-        "category": "Smart Money",
-        "title": "Vì sao nhiều người mua vàng nhưng không bao giờ chốt lời?",
-        "time": "Mon, 15 Jun 26 20:10:00",
-        "timestamp": 1781529000.0,
-        "link": "https://cafef.vn/vi-sao-nhieu-nguoi-mua-vang-nhung-khong-bao-gio-chot-loi-188260615171138338.chn"
-    },
-    {
-        "category": "Xã hội",
-        "title": "VNeID đã tích hợp thêm một tiện ích mới, người dùng cần biết để tránh lỡ quyền lợi",
-        "time": "Mon, 15 Jun 26 19:58:00",
-        "timestamp": 1781528280.0,
-        "link": "https://cafef.vn/vneid-da-tich-hop-them-mot-tien-ich-moi-nguoi-dung-can-biet-de-tranh-lo-quyen-loi-188260615141655895.chn"
-    },
-    {
-        "category": "Kinh tế số",
-        "title": "Kỹ sư Đức: Không thể tin được công nghệ này của Trung Quốc!",
-        "time": "Mon, 15 Jun 26 19:14:00",
-        "timestamp": 1781525640.0,
-        "link": "https://cafef.vn/ky-su-duc-khong-the-tin-duoc-cong-nghe-nay-cua-trung-quoc-188260615143635739.chn"
     }
 ]
