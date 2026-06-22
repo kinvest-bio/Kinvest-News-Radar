@@ -1,6 +1,76 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Một doanh nghiệp Việt nhắm đến hàng loạt dự án dầu khí, điện gió tỷ USD tại Đông Nam Á",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782180002.749527,
+        "link": "https://cafef.vn/mot-doanh-nghiep-viet-nham-den-hang-loat-du-an-dau-khi-dien-gio-ty-usd-tai-dong-nam-a-188260623005421097.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Cổ phiếu Hóa chất Đức Giang tăng sát trần sau khi công bố tài liệu quan trọng",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782180001.749527,
+        "link": "https://cafef.vn/co-phieu-hoa-chat-duc-giang-tang-sat-tran-sau-khi-cong-bo-tai-lieu-quan-trong-188260622221214795.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Giá dầu giảm sâu kéo MXV-Index lùi về mức thấp nhất 4 tháng, một mặt hàng bất ngờ hút dòng tiền",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782180000.749527,
+        "link": "https://cafef.vn/gia-dau-giam-sau-keo-mxv-index-lui-ve-muc-thap-nhat-4-thang-mot-mat-hang-bat-ngo-hut-dong-tien-188260622221008084.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Hãng bay Việt tuyển tiếp viên, ghi thẳng mức thu nhập đáng mơ ước",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782179999.749527,
+        "link": "https://cafef.vn/hang-bay-viet-tuyen-tiep-vien-ghi-thang-muc-thu-nhap-dang-mo-uoc-188260622221348703.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bom tấn: \"Kỳ lân\" công nghệ của Việt Nam chào bán cổ phần, công ty Mỹ 1.300 tỷ USD và ngân hàng lớn nhất Nhật Bản vào cuộc?",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782179998.749527,
+        "link": "https://cafef.vn/bom-tan-ky-lan-cong-nghe-cua-viet-nam-chao-ban-co-phan-cong-ty-my-1300-ty-usd-va-ngan-hang-lon-nhat-nhat-ban-vao-cuoc-188260623004858453.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Cung cấp mặt hàng không thể thiếu cho hơn 11 triệu người, một DN 5 năm liền lãi nghìn tỷ, nắm gần 15.000 tỷ đồng tài sản",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782179997.749527,
+        "link": "https://cafef.vn/cung-cap-mat-hang-khong-the-thieu-cho-hon-11-trieu-nguoi-mot-dn-5-nam-lien-lai-nghin-ty-nam-gan-15000-ty-dong-tai-san-188260623004747137.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Khám phá gia tộc giàu có và đông con cháu bậc nhất Việt Nam",
+        "time": "Tue, 23 Jun 2026 02:00:02",
+        "timestamp": 1782179996.749527,
+        "link": "https://cafef.vn/kham-pha-gia-toc-giau-co-va-dong-con-chau-bac-nhat-viet-nam-188260622235320295.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Thị trường tiền số hôm nay, 22-6: Bitcoin bật tăng",
         "time": "Mon, 22 Jun 2026 22:35:34",
         "timestamp": 1782167734.39792,
@@ -7739,54 +7809,5 @@
         "time": "Tue, 16 Jun 2026 13:12:38",
         "timestamp": 1781615496.889438,
         "link": "https://cafef.vn/hon-5-trieu-thue-bao-viettel-da-bi-chan-mot-chieu-188260615085206272.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Nam sinh đỗ ĐH danh tiếng được gia đình mở tiệc ăn mừng, mấy ngày sau đòi thi lại, thừa nhận: “Trường rất tốt nhưng vẫn thấy hụt hẫng”",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615495.889438,
-        "link": "https://cafef.vn/nam-sinh-do-dh-danh-tieng-duoc-gia-dinh-mo-tiec-an-mung-may-ngay-sau-doi-thi-lai-thua-nhan-truong-rat-tot-nhung-van-thay-hut-hang-188260614055132268.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Người EQ thấp thường có 3 câu cửa miệng rất quen thuộc",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615494.889438,
-        "link": "https://cafef.vn/nguoi-eq-thap-thuong-co-3-cau-cua-mieng-rat-quen-thuoc-188260613180600268.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Có cần tắt aptomat sau khi tắt điều hòa không? EVN đưa ra câu trả lời",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615493.889438,
-        "link": "https://cafef.vn/co-can-tat-aptomat-sau-khi-tat-dieu-hoa-khong-evn-dua-ra-cau-tra-loi-188260615151906065.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Vì sao nhiều gia đình vẫn chuộng dùng bếp gas hơn bếp từ?",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615492.889438,
-        "link": "https://cafef.vn/vi-sao-nhieu-gia-dinh-van-chuong-dung-bep-gas-hon-bep-tu-188260613135856073.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Phát hiện 147 xe tải Trung Quốc không người lái, tích hợp công nghệ cao: Âm thầm hoạt động 24/7 tại kho báu lộ thiên rộng hơn 102 km2",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615491.889438,
-        "link": "https://cafef.vn/phat-hien-147-xe-tai-trung-quoc-khong-nguoi-lai-tich-hop-cong-nghe-cao-am-tham-hoat-dong-24-7-tai-kho-bau-lo-thien-rong-hon-102-km2-188260613213554732.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "362 chủ phương tiện vi phạm mang biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615490.889438,
-        "link": "https://cafef.vn/362-chu-phuong-tien-vi-pham-mang-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-188260615043832631.chn"
-    },
-    {
-        "category": "Sống",
-        "title": "Trong tiếng Việt có một từ có nghĩa là \"mẹ\", bỏ một nửa từ đi vẫn là \"mẹ\"",
-        "time": "Tue, 16 Jun 2026 13:12:38",
-        "timestamp": 1781615489.889438,
-        "link": "https://cafef.vn/trong-tieng-viet-co-mot-tu-co-nghia-la-me-bo-mot-nua-tu-di-van-la-me-188260615061415284.chn"
     }
 ]
