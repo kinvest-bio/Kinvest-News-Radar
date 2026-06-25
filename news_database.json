@@ -1,6 +1,96 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "PC1 bị phạt vì vi phạm công bố thông tin liên quan trái phiếu",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425580.91529,
+        "link": "https://cafef.vn/pc1-bi-phat-vi-vi-pham-cong-bo-thong-tin-lien-quan-trai-phieu-18826062520295101.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Chứng khoán VietinBank duyệt phương án vay Vietbank 2.100 tỷ đồng",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425579.91529,
+        "link": "https://cafef.vn/chung-khoan-vietinbank-duyet-phuong-an-vay-vietbank-2100-ty-dong-188260625203257932.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Giá bạc về mức thấp nhất 6 tháng, đã đến lúc “bắt đáy”?",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425578.91529,
+        "link": "https://cafef.vn/gia-bac-ve-muc-thap-nhat-6-thang-da-den-luc-bat-day-188260625203148705.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "50 năm từ “Khoai và Bột”: Cách Tài Ký trở thành thương hiệu quen thuộc trong hàng triệu căn bếp Việt",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425577.91529,
+        "link": "https://cafef.vn/50-nam-tu-khoai-va-bot-cach-tai-ky-tro-thanh-thuong-hieu-quen-thuoc-trong-hang-trieu-can-bep-viet-188260625201251387.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Ngày mai, “thủ phủ cà phê” Việt Nam là nơi bàn kế hoạch hơn 1 triệu tỷ đồng, Vingroup, FLC… sẽ góp mặt",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425576.91529,
+        "link": "https://cafef.vn/ngay-mai-thu-phu-ca-phe-viet-nam-la-noi-ban-ke-hoach-hon-1-trieu-ty-dong-vingroup-flc-se-gop-mat-188260625195336881.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Một công trình có kỳ tích 12.000 tấn “made in Vietnam” gấp rút thi công, sẽ lập kỷ lục lớn nhất thế giới",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425575.91529,
+        "link": "https://cafef.vn/mot-cong-trinh-co-ky-tich-12000-tan-made-in-vietnam-gap-rut-thi-cong-se-lap-ky-luc-lon-nhat-the-gioi-188260625194944366.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Nam A Bank kết nối, thúc đẩy, phát triển kinh tế trục Đông - Tây",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425574.91529,
+        "link": "https://cafef.vn/nam-a-bank-ket-noi-thuc-day-phat-trien-kinh-te-truc-dong-tay-188260625215929368.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng Nhà nước áp dụng cơ chế đặc biệt cho 18 dự án của Vingroup, Sun Group và Masterise: Ứng biến của hệ thống ngân hàng?",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425573.91529,
+        "link": "https://cafef.vn/ngan-hang-nha-nuoc-ap-dung-co-che-dac-biet-cho-18-du-an-cua-vingroup-sun-group-va-masterise-ung-bien-cua-he-thong-ngan-hang-188260625144712858.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Dự báo mới nhất sau khi giá vàng miếng SJC, vàng nhẫn giảm hơn 15 triệu đồng/lượng",
+        "time": "Thu, 25 Jun 2026 22:13:00",
+        "timestamp": 1782425572.91529,
+        "link": "https://cafef.vn/du-bao-moi-nhat-sau-khi-gia-vang-mieng-sjc-vang-nhan-giam-hon-15-trieu-dong-luong-188260625193332524.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Tài sản của Elon Musk 'bốc hơi'",
         "time": "Thu, 25 Jun 2026 19:07:47",
         "timestamp": 1782414467.649435,
@@ -7905,96 +7995,6 @@
         "time": "Fri, 19 Jun 2026 09:17:13",
         "timestamp": 1781860625.160643,
         "link": "https://cafef.vn/tphcm-se-chot-loat-du-an-duong-vuot-bien-can-gio-khu-ma-lang-mien-ve-xe-buyt-188260619075028019.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Nhà đầu tư dồn sự chú ý về phía Nam, chung cư Hà Nội giảm giá",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860624.160643,
-        "link": "https://cafef.vn/nha-dau-tu-don-su-chu-y-ve-phia-nam-chung-cu-ha-noi-giam-gia-188260619020007692.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hãng mỳ gói “hai con tôm” lên kế hoạch doanh thu cao nhất lịch sử, đầu tư 900 tỷ đồng xây nhà máy mới",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860623.160643,
-        "link": "https://cafef.vn/hang-my-goi-hai-con-tom-len-ke-hoach-doanh-thu-cao-nhat-lich-su-dau-tu-900-ty-dong-xay-nha-may-moi-188260619080329928.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Lộ diện khối tài sản trị giá gần 12.000 tỷ do con trai và con gái ông Nguyễn Đức Thụy nắm giữ tại một công ty sắp lên sàn",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860622.160643,
-        "link": "https://cafef.vn/lo-dien-khoi-tai-san-tri-gia-gan-12000-ty-do-con-trai-va-con-gai-ong-nguyen-duc-thuy-nam-giu-tai-mot-cong-ty-sap-len-san-188260619075734451.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Bắt tay đối tác Nga kinh doanh ở nơi âm 50 độ và giữa biển khơi, một doanh nghiệp Việt thu về hơn 40.000 tỷ lợi nhuận chỉ trong 5 năm",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860621.160643,
-        "link": "https://cafef.vn/bat-tay-doi-tac-nga-kinh-doanh-o-noi-am-50-do-va-giua-bien-khoi-mot-doanh-nghiep-viet-thu-ve-hon-40000-ty-loi-nhuan-chi-trong-5-nam-188260619075939525.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cực hiếm: Chủ nhân Jackpot hơn 83 tỷ đồng lại trúng thêm gần 1 tỷ đồng chỉ sau ít ngày",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860620.160643,
-        "link": "https://cafef.vn/cuc-hiem-chu-nhan-jackpot-hon-83-ty-dong-lai-trung-them-gan-1-ty-dong-chi-sau-it-ngay-188260619084913112.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Becamex ITC tất toán lô trái phiếu phát hành năm 2019",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860619.160643,
-        "link": "https://cafef.vn/becamex-itc-tat-toan-lo-trai-phieu-phat-hanh-nam-2019-188260619081904327.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Xuân Thiện muốn sản xuất xe tải điện tại Ninh Bình: Công suất 30.000 xe/năm, dự kiến có sản phẩm đầu tiên vào 2027",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860618.160643,
-        "link": "https://cafef.vn/xuan-thien-muon-san-xuat-xe-tai-dien-tai-ninh-binh-cong-suat-30000-xe-nam-du-kien-co-san-pham-dau-tien-vao-2027-188260619082839494.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "ACV dự kiến bầu bổ sung phó tổng giám đốc vào hội đồng quản trị",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860617.160643,
-        "link": "https://cafef.vn/acv-du-kien-bau-bo-sung-pho-tong-giam-doc-vao-hoi-dong-quan-tri-188260619080829454.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cao su Sao Vàng tăng vốn lên gần 365 tỷ đồng sau đợt thưởng cổ phiếu",
-        "time": "Fri, 19 Jun 2026 09:17:13",
-        "timestamp": 1781860616.160643,
-        "link": "https://cafef.vn/cao-su-sao-vang-tang-von-len-gan-365-ty-dong-sau-dot-thuong-co-phieu-188260619081649275.chn",
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
