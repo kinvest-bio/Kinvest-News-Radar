@@ -1,5 +1,85 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Chung cư 'đất vàng' Hà Nội nhiều lần trễ hẹn bàn giao nhà bất ngờ hoạt động 'chui'",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020731.628634,
+        "link": "https://cafef.vn/chung-cu-dat-vang-ha-noi-nhieu-lan-tre-hen-ban-giao-nha-bat-ngo-hoat-dong-chui-188260702180846372.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Biệt thự nội đô bước vào chu kỳ khan hiếm mang tính cấu trúc",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020730.628634,
+        "link": "https://cafef.vn/biet-thu-noi-do-buoc-vao-chu-ky-khan-hiem-mang-tinh-cau-truc-188260702174149838.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Newstarland ghi dấu ấn tại VARS Awards 2026, khẳng định vị thế tiên phong",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020729.628634,
+        "link": "https://cafef.vn/newstarland-ghi-dau-an-tai-vars-awards-2026-khang-dinh-vi-the-tien-phong-188260702190554322.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vingroup đề xuất 6 đột phá AI quốc gia, tiết lộ mô hình tới 420 tỷ tham số tại hội nghị toàn quốc về Nghị quyết 57",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020728.628634,
+        "link": "https://cafef.vn/vingroup-de-xuat-6-dot-pha-ai-quoc-gia-tiet-lo-mo-hinh-toi-420-ty-tham-so-tai-hoi-nghi-toan-quoc-ve-nghi-quyet-57-188260702182816207.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Dự án mỏ sắt lớn nhất Đông Nam Á bị chấm dứt, Hòa Phát vừa đề xuất liên danh với THACO để nghiên cứu khai thác",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020727.628634,
+        "link": "https://cafef.vn/du-an-mo-sat-lon-nhat-dong-nam-a-bi-cham-dut-hoa-phat-vua-de-xuat-lien-danh-voi-thaco-de-nghien-cuu-khai-thac-188260702182555827.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "VPBank đứng đầu nhóm ngân hàng tư nhân Việt Nam trong bảng xếp hạng Forbes Global 2000",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020726.628634,
+        "link": "https://cafef.vn/vpbank-dung-dau-nhom-ngan-hang-tu-nhan-viet-nam-trong-bang-xep-hang-forbes-global-2000-188260702175105852.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 2/7",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020725.628634,
+        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-2-7-188260702101759201.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "SCEX hoàn thiện hạ tầng công nghệ từ ngày 16/06, sẵn sàng cho thị trường tài sản mã hóa tại Việt Nam",
+        "time": "Thu, 02 Jul 2026 19:32:11",
+        "timestamp": 1783020724.628634,
+        "link": "https://cafef.vn/scex-hoan-thien-ha-tang-cong-nghe-tu-ngay-16-06-san-sang-cho-thi-truong-tai-san-ma-hoa-tai-viet-nam-188260702174657035.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Phiên 2/7: Khối ngoại \"quay xe\" bán ròng, ngược chiều tung hơn 200 tỷ gom cổ phiếu Vingroup",
         "time": "Thu, 02 Jul 2026 17:38:52",
@@ -7918,85 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Giá vàng rơi xuống thấp nhất 7 tháng, chuyên gia phát thông báo nóng",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392797.700269,
-        "link": "https://cafef.vn/gia-vang-roi-xuong-thap-nhat-7-thang-chuyen-gia-phat-thong-bao-nong-188260625115337871.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cổ phiếu nhà sản xuất “Anh trai vượt ngàn chông gai” bất ngờ cháy hàng trước giờ G",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392796.700269,
-        "link": "https://cafef.vn/co-phieu-nha-san-xuat-anh-trai-vuot-ngan-chong-gai-bat-ngo-chay-hang-truoc-gio-g-188260625114113615.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một doanh nhân Việt Nam bị phạt vì làm sếp quá nhiều công ty",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392795.700269,
-        "link": "https://cafef.vn/mot-doanh-nhan-viet-nam-bi-phat-vi-lam-sep-qua-nhieu-cong-ty-188260625113055678.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "PV Drilling chốt quyền phân bổ gần 372 triệu cổ phiếu thưởng",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392794.700269,
-        "link": "https://cafef.vn/pv-drilling-chot-quyen-phan-bo-gan-372-trieu-co-phieu-thuong-188260625101714651.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Bitcoin rơi xuống thấp nhất 20 tháng, các cá voi ồ ạt \"xả hàng\"",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392793.700269,
-        "link": "https://cafef.vn/bitcoin-roi-xuong-thap-nhat-20-thang-cac-ca-voi-o-at-xa-hang-188260625105637956.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Bầu Đức có động thái mới",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392792.700269,
-        "link": "https://cafef.vn/bau-duc-co-dong-thai-moi-188260625102617824.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Quỹ bạc lớn nhất thế giới liên tục \"xả hàng\" khi giá lao dốc",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392791.700269,
-        "link": "https://cafef.vn/quy-bac-lon-nhat-the-gioi-lien-tuc-xa-hang-khi-gia-lao-doc-188260625102017367.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Bộ Tài chính làm việc với Petrovietnam, EVN và TKV bàn nhiệm vụ tăng trưởng năm 2026",
-        "time": "Thu, 25 Jun 2026 13:06:37",
-        "timestamp": 1782392790.700269,
-        "link": "https://cafef.vn/bo-tai-chinh-lam-viec-voi-petrovietnam-evn-va-tkv-ban-nhiem-vu-tang-truong-nam-2026-188260625095509425.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
