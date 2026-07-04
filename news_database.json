@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Crystal Bay thông tin nóng: Phó Giám đốc Phan Hoàng Phong Thu đã về nhà, không bị khởi tố vụ hợp đồng kỳ nghỉ",
+        "time": "Sat, 04 Jul 2026 19:18:12",
+        "timestamp": 1783192692.88463,
+        "link": "https://cafef.vn/crystal-bay-thong-tin-nong-pho-giam-doc-phan-hoang-phong-thu-da-ve-nha-khong-bi-khoi-to-vu-hop-dong-ky-nghi-188260704183928891.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Tỷ phú Johnathan Hạnh Nguyễn: Ký ức không bao giờ quên về những lãnh đạo đầu Đổi mới và kỳ vọng vào Việt Nam \"nói và làm, làm là tới cùng\"",
+        "time": "Sat, 04 Jul 2026 19:18:12",
+        "timestamp": 1783192691.88463,
+        "link": "https://cafef.vn/ty-phu-johnathan-hanh-nguyen-ky-uc-khong-bao-gio-quen-ve-nhung-lanh-dao-dau-doi-moi-va-ky-vong-vao-viet-nam-noi-va-lam-lam-la-toi-cung-188260613223648265.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Vụ án Mr Pips: Số bị can tăng từ 75 lên 188 người, tiền lừa đảo xác định hơn 1.568 tỷ đồng",
+        "time": "Sat, 04 Jul 2026 19:18:12",
+        "timestamp": 1783192690.88463,
+        "link": "https://cafef.vn/vu-an-mr-pips-so-bi-can-tang-tu-75-len-188-nguoi-tien-lua-dao-xac-dinh-hon-1568-ty-dong-18826070418592182.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Chủ tịch Đỗ Quý Hải đăng ký mua 10 triệu cổ phiếu HPX",
         "time": "Sat, 04 Jul 2026 18:10:58",
@@ -7965,36 +7995,6 @@
         "time": "Sat, 27 Jun 2026 13:41:54",
         "timestamp": 1782567710.326572,
         "link": "https://cafef.vn/ho-dieu-hoa-nghin-ty-phia-tay-ha-noi-dan-lo-dien-188260627112944964.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vingroup chuyển quyền sở hữu hơn 15,2 triệu cổ phiếu Vinhomes, chưa công bố bên nhận",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567709.326572,
-        "link": "https://cafef.vn/vingroup-chuyen-quyen-so-huu-hon-152-trieu-co-phieu-vinhomes-chua-cong-bo-ben-nhan-188260627133407806.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Siêu dự án 1.100ha của tỷ phú Phạm Nhật Vượng tăng vốn lên 145.000 tỷ đồng",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567708.326572,
-        "link": "https://cafef.vn/sieu-du-an-1100ha-cua-ty-phu-pham-nhat-vuong-tang-von-len-145000-ty-dong-188260627133205637.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "FPT thu về nửa tỷ USD từ \"gã khổng lồ\" chiếm hơn 70% thị phần mua bán ô tô Mỹ",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567707.326572,
-        "link": "https://cafef.vn/fpt-thu-ve-nua-ty-usd-tu-ga-khong-lo-chiem-hon-70-thi-phan-mua-ban-o-to-my-188260627094132831.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
