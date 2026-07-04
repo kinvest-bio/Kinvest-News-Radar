@@ -1,6 +1,46 @@
 [
     {
         "category": "CF - Doanh nghiệp",
+        "title": "Những kẽ hở trong thế giới kim cương",
+        "time": "Sat, 04 Jul 2026 21:08:42",
+        "timestamp": 1783199322.131037,
+        "link": "https://cafef.vn/nhung-ke-ho-trong-the-gioi-kim-cuong-188260704204222898.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Doanh nghiệp 'ngộp thở' vì chi phí logistics tăng sốc",
+        "time": "Sat, 04 Jul 2026 21:08:42",
+        "timestamp": 1783199321.131037,
+        "link": "https://cafef.vn/doanh-nghiep-ngop-tho-vi-chi-phi-logistics-tang-soc-188260704204109316.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Long Châu - Chuỗi nhà thuốc Việt có danh mục thuốc thế hệ mới lớn bậc nhất",
+        "time": "Sat, 04 Jul 2026 21:08:42",
+        "timestamp": 1783199320.131037,
+        "link": "https://cafef.vn/long-chau-chuoi-nha-thuoc-viet-co-danh-muc-thuoc-the-he-moi-lon-bac-nhat-188260704191744097.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Việt Nam vào nhóm các nền kinh tế có tốc độ tăng trưởng GDP hàng đầu thế giới",
+        "time": "Sat, 04 Jul 2026 21:08:42",
+        "timestamp": 1783199319.131037,
+        "link": "https://cafef.vn/viet-nam-vao-nhom-cac-nen-kinh-te-co-toc-do-tang-truong-gdp-hang-dau-the-gioi-188260704203551563.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
         "title": "Crystal Bay thông tin nóng: Phó Giám đốc Phan Hoàng Phong Thu đã về nhà, không bị khởi tố vụ hợp đồng kỳ nghỉ",
         "time": "Sat, 04 Jul 2026 19:18:12",
         "timestamp": 1783192692.88463,
@@ -7958,45 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một công ty có 128 nghìn cổ đông nhưng không có cổ đông lớn, họp Đại hội chỉ 56 người tham dự",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567713.326572,
-        "link": "https://cafef.vn/mot-cong-ty-co-128-nghin-co-dong-nhung-khong-co-co-dong-lon-hop-dai-hoi-chi-56-nguoi-tham-du-188260627103428677.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Giám đốc OneHousing: Thị trường bất động sản không còn chấp nhận những dự án chỉ dựa trên các cam kết hay \"bánh vẽ\" để bán hàng",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567712.326572,
-        "link": "https://cafef.vn/giam-doc-onehousing-thi-truong-bat-dong-san-khong-con-chap-nhan-nhung-du-an-chi-dua-tren-cac-cam-ket-hay-banh-ve-de-ban-hang-188260627124233798.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Lý do Bệnh viện Quốc tế chất lượng cao gần 5.000 tỷ ở Đà Nẵng chậm triển khai?",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567711.326572,
-        "link": "https://cafef.vn/ly-do-benh-vien-quoc-te-chat-luong-cao-gan-5000-ty-o-da-nang-cham-trien-khai-188260627112625858.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hồ điều hòa nghìn tỷ phía Tây Hà Nội dần lộ diện",
-        "time": "Sat, 27 Jun 2026 13:41:54",
-        "timestamp": 1782567710.326572,
-        "link": "https://cafef.vn/ho-dieu-hoa-nghin-ty-phia-tay-ha-noi-dan-lo-dien-188260627112944964.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
