@@ -1,5 +1,65 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Sóng gió ngành kim cương, PNJ mất 2.200 tỷ vốn hoá: Chứng khoán tuần tới ra sao?",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291580.1059,
+        "link": "https://cafef.vn/song-gio-nganh-kim-cuong-pnj-mat-2200-ty-von-hoa-chung-khoan-tuan-toi-ra-sao-188260705211845818.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "PC1 bị buộc thu hồi trái phiếu đã chào bán",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291579.1059,
+        "link": "https://cafef.vn/pc1-bi-buoc-thu-hoi-trai-phieu-da-chao-ban-188260705212025062.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Quy hoạch bô-xít điều chỉnh: Dự án 57.000 tỷ đồng của Hóa chất Đức Giang ở Đắk Nông sẽ ra sao?",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291578.1059,
+        "link": "https://cafef.vn/quy-hoach-bo-xit-dieu-chinh-du-an-57000-ty-dong-cua-hoa-chat-duc-giang-o-dak-nong-se-ra-sao-188260705212407014.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Thu hồi các khoản thu, chi, chuyển nguồn không đúng quy định theo kiến nghị kiểm toán",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291577.1059,
+        "link": "https://cafef.vn/thu-hoi-cac-khoan-thu-chi-chuyen-nguon-khong-dung-quy-dinh-theo-kien-nghi-kiem-toan-188260705213624835.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Nghịch lý: Giá xăng giảm liên tiếp, giá thực phẩm vẫn 'giậm chân tại chỗ'",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291576.1059,
+        "link": "https://cafef.vn/nghich-ly-gia-xang-giam-lien-tiep-gia-thuc-pham-van-giam-chan-tai-cho-188260705204510696.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Chi phí logistics tăng cao đột biến, 'nóng' hơn thời COVID-19",
+        "time": "Sun, 05 Jul 2026 22:46:20",
+        "timestamp": 1783291575.1059,
+        "link": "https://cafef.vn/chi-phi-logistics-tang-cao-dot-bien-nong-hon-thoi-covid-19-188260705212815685.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Doanh nghiệp",
         "title": "Gần 2 tháng sau khi Chủ tịch HĐQT bị khởi tố, TV2 có Chủ tịch HĐQT mới",
         "time": "Sun, 05 Jul 2026 21:15:43",
@@ -7938,65 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Lộ diện \"ông lớn\" tài trợ vốn cho Phát Đạt tham gia siêu dự án 60.000 tỷ đồng tại thành phố giàu nhất Việt Nam",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668368.385686,
-        "link": "https://cafef.vn/lo-dien-ong-lon-tai-tro-von-cho-phat-dat-tham-gia-sieu-du-an-60000-ty-dong-tai-thanh-pho-giau-nhat-viet-nam-188260628152334214.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Tỉnh được mệnh danh là “'thủ phủ cà phê” của Việt Nam đón 147 dự án với tổng mức đầu tư hơn 1 triệu tỷ",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668367.385686,
-        "link": "https://cafef.vn/tinh-duoc-menh-danh-la-thu-phu-ca-phe-cua-viet-nam-don-147-du-an-voi-tong-muc-dau-tu-hon-1-trieu-ty-188260628152241288.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Vì sao Bệnh viện Quốc tế gần 5.000 tỷ đồng ở Đà Nẵng chậm triển khai?",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668366.385686,
-        "link": "https://cafef.vn/vi-sao-benh-vien-quoc-te-gan-5000-ty-dong-o-da-nang-cham-trien-khai-188260628113054045.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Dự án chung cư “hot” bậc nhất Hà Nội, 1.000 căn hộ được giao dịch chỉ sau 10 ngày mở bán, đang đẩy các sản phẩm cuối cùng ra thị trường",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668365.385686,
-        "link": "https://cafef.vn/du-an-chung-cu-hot-bac-nhat-ha-noi-1000-can-ho-duoc-giao-dich-chi-sau-10-ngay-mo-ban-dang-day-cac-san-pham-cuoi-cung-ra-thi-truong-18826062815215116.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sắp triển khai siêu dự án 175.000 tỷ nối thẳng Thủ Thiêm đến sân bay Long Thành do THACO của tỷ phú Trần Bá Dương đầu tư",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668364.385686,
-        "link": "https://cafef.vn/sap-trien-khai-sieu-du-an-175000-ty-noi-thang-thu-thiem-den-san-bay-long-thanh-do-thaco-cua-ty-phu-tran-ba-duong-dau-tu-188260628151939433.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất ngân hàng 28/6 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668363.385686,
-        "link": "https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
