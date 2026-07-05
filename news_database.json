@@ -1,5 +1,45 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Gần 2 tháng sau khi Chủ tịch HĐQT bị khởi tố, TV2 có Chủ tịch HĐQT mới",
+        "time": "Sun, 05 Jul 2026 21:15:43",
+        "timestamp": 1783286143.20747,
+        "link": "https://cafef.vn/gan-2-thang-sau-khi-chu-tich-hdqt-bi-khoi-to-tv2-co-chu-tich-hdqt-moi-188260705210140837.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Phá đường dây rửa tiền 67 nghìn tỷ đồng, có sự tiếp tay của nhân viên ngân hàng",
+        "time": "Sun, 05 Jul 2026 21:15:43",
+        "timestamp": 1783286142.20747,
+        "link": "https://cafef.vn/pha-duong-day-rua-tien-67-nghin-ty-dong-co-su-tiep-tay-cua-nhan-vien-ngan-hang-18826070519290947.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng phải cung cấp những dữ liệu khách hàng gì cho cơ quan thuế?",
+        "time": "Sun, 05 Jul 2026 21:15:43",
+        "timestamp": 1783286141.20747,
+        "link": "https://cafef.vn/ngan-hang-phai-cung-cap-nhung-du-lieu-khach-hang-gi-cho-co-quan-thue-188260705193708974.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Gần 19.000 tỷ đồng 'rót' vào Thái Nguyên",
+        "time": "Sun, 05 Jul 2026 21:15:43",
+        "timestamp": 1783286140.20747,
+        "link": "https://cafef.vn/gan-19000-ty-dong-rot-vao-thai-nguyen-188260705204655246.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "‘Vượt mưa’ đưa cầu hơn 3.800 tỷ đồng vượt sông Hậu về đích đúng hạn",
         "time": "Sun, 05 Jul 2026 19:15:26",
@@ -7955,46 +7995,6 @@
         "time": "Sun, 28 Jun 2026 17:39:30",
         "timestamp": 1782668363.385686,
         "link": "https://cafef.vn/lai-suat-ngan-hang-28-6-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260628172606577.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Cảnh báo mới nhất tới người dùng loa thanh toán",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668362.385686,
-        "link": "https://cafef.vn/canh-bao-moi-nhat-toi-nguoi-dung-loa-thanh-toan-188260628152653319.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Lương hưu tăng mạnh, người rút BHXH một lần giảm hơn 24%",
-        "time": "Sun, 28 Jun 2026 17:39:30",
-        "timestamp": 1782668361.385686,
-        "link": "https://cafef.vn/luong-huu-tang-manh-nguoi-rut-bhxh-mot-lan-giam-hon-24-188260628131224223.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chủ tịch Đèo Cả: Doanh nghiệp Việt phải 'mượn' hồ sơ đối tác ngoại để tham gia các dự án lớn",
-        "time": "Sun, 28 Jun 2026 15:20:59",
-        "timestamp": 1782660059.872051,
-        "link": "https://cafef.vn/chu-tich-deo-ca-doanh-nghiep-viet-phai-muon-ho-so-doi-tac-ngoai-de-tham-gia-cac-du-an-lon-188260628150956491.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Giá vàng Việt Nam 'vượt mặt' thế giới",
-        "time": "Sun, 28 Jun 2026 15:20:59",
-        "timestamp": 1782660058.872051,
-        "link": "https://cafef.vn/gia-vang-viet-nam-vuot-mat-the-gioi-188260628150754746.chn",
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
