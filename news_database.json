@@ -1,6 +1,126 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Công ty phát triển trạm sạc xe điện VinFast phát cảnh báo",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550450.388583,
+        "link": "https://cafef.vn/cong-ty-phat-trien-tram-sac-xe-dien-vinfast-phat-canh-bao-188260708214234184.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Quản lý của đường dây lừa đảo đầu tư chứng khoán khai 'cấp trên của cấp trên' là Mr Pips",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550449.388583,
+        "link": "https://cafef.vn/quan-ly-cua-duong-day-lua-dao-dau-tu-chung-khoan-khai-cap-tren-cua-cap-tren-la-mr-pips-188260708212230145.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Sau khi Thủy Tiên \"thoát hàng\", một cổ phiếu bất ngờ trần cứng hai phiên, chuyện gì đang diễn ra?",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550448.388583,
+        "link": "https://cafef.vn/sau-khi-thuy-tien-thoat-hang-mot-co-phieu-bat-ngo-tran-cung-hai-phien-chuyen-gi-dang-dien-ra-188260708210710389.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Hơn nghìn tỷ 'cứu' cổ phiếu PNJ",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550447.388583,
+        "link": "https://cafef.vn/hon-nghin-ty-cuu-co-phieu-pnj-188260708205821786.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bảo đảm dữ liệu đất đai được cập nhật thường xuyên",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550446.388583,
+        "link": "https://cafef.vn/bao-dam-du-lieu-dat-dai-duoc-cap-nhat-thuong-xuyen-188260708200919544.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đổi tên dự án \"Luật Đô thị đặc biệt\" thành \"Luật Phát triển đô thị\"",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550445.388583,
+        "link": "https://cafef.vn/doi-ten-du-an-luat-do-thi-dac-biet-thanh-luat-phat-trien-do-thi-188260708200421317.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Thủ tướng chủ trì họp về thu hồi tài sản bị thất thoát trong các vụ án",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550444.388583,
+        "link": "https://cafef.vn/thu-tuong-chu-tri-hop-ve-thu-hoi-tai-san-bi-that-thoat-trong-cac-vu-an-188260708195833896.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội: Phát triển đê điều đồng bộ với Trục đại lộ cảnh quan sông Hồng",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550443.388583,
+        "link": "https://cafef.vn/ha-noi-phat-trien-de-dieu-dong-bo-voi-truc-dai-lo-canh-quan-song-hong-188260708193858397.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Cần cân nhắc việc phân cấp cho UBND cấp xã quản lý kiến trúc",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550442.388583,
+        "link": "https://cafef.vn/can-can-nhac-viec-phan-cap-cho-ubnd-cap-xa-quan-ly-kien-truc-188260708201428532.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "V-Green của tỷ phú Phạm Nhật Vượng thông báo khẩn",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550441.388583,
+        "link": "https://cafef.vn/v-green-cua-ty-phu-pham-nhat-vuong-thong-bao-khan-188260708213821434.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hoàn thành chọn nhà thầu EPC cho nâng cấp mở rộng NMLD Dung Quất",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550440.388583,
+        "link": "https://cafef.vn/hoan-thanh-chon-nha-thau-epc-cho-nang-cap-mo-rong-nmld-dung-quat-188260708201646258.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng Quân đội (MB) tháng 7/2026: Mức cao nhất 7%/năm, gửi online vẫn hấp dẫn hơn tại quầy",
+        "time": "Wed, 08 Jul 2026 22:40:50",
+        "timestamp": 1783550439.388583,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-quan-doi-mb-thang-7-2026-muc-cao-nhat-7-nam-gui-online-van-hap-dan-hon-tai-quay-188260708204503024.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "F88 mở đăng ký mua cổ phiếu PO từ ngày 06/07/2026",
         "time": "Wed, 08 Jul 2026 20:15:32",
         "timestamp": 1783541732.694456,
@@ -7875,126 +7995,6 @@
         "time": "Thu, 02 Jul 2026 21:58:26",
         "timestamp": 1783029503.2019,
         "link": "https://cafef.vn/vu-triet-pha-duong-day-buon-lau-kim-cuong-xuyen-quoc-gia-bat-giam-doc-giam-dinh-thuoc-pnj-188260702203843497.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Bộ Công an thông tin thêm về vụ án xảy ra tại Tổng công ty Cảng hàng không Việt Nam (ACV)",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029502.2019,
-        "link": "https://cafef.vn/bo-cong-an-thong-tin-them-ve-vu-an-xay-ra-tai-tong-cong-ty-cang-hang-khong-viet-nam-acv-188260702203257602.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Vụ án tại Tổng Công ty truyền tải điện Quốc gia: Đã khởi tố 47 bị can",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029501.2019,
-        "link": "https://cafef.vn/vu-an-tai-tong-cong-ty-truyen-tai-dien-quoc-gia-da-khoi-to-47-bi-can-188260702203105819.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Tự doanh CTCK bán ròng hơn 300 tỷ đồng phiên 2/7, cổ phiếu nào là tâm điểm?",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029500.2019,
-        "link": "https://cafef.vn/tu-doanh-ctck-ban-rong-hon-300-ty-dong-phien-2-7-co-phieu-nao-la-tam-diem-188260702202835401.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Một giám đốc của PNJ bị điều tra trong đường dây buôn lậu hơn 28.000 viên kim cương",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029499.2019,
-        "link": "https://cafef.vn/mot-giam-doc-cua-pnj-bi-dieu-tra-trong-duong-day-buon-lau-hon-28000-vien-kim-cuong-188260702202924277.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Khởi tố 47 bị can trong vụ án tại Tổng công ty Truyền tải điện Quốc gia",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029498.2019,
-        "link": "https://cafef.vn/khoi-to-47-bi-can-trong-vu-an-tai-tong-cong-ty-truyen-tai-dien-quoc-gia-188260702202436528.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Khởi tố 31 bị can trong vụ án xảy ra tại ACV",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029497.2019,
-        "link": "https://cafef.vn/khoi-to-31-bi-can-trong-vu-an-xay-ra-tai-acv-188260702203507389.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Công an hé lộ \"chiêu bài\" phù phép kim cương giả hàng trăm tỷ đồng: Mua kim cương nhập lậu giá rẻ từ Hồng Kông, mài bỏ mã GIA, cấp giấy kiểm định mới rồi bán kiếm lời",
-        "time": "Thu, 02 Jul 2026 21:58:26",
-        "timestamp": 1783029496.2019,
-        "link": "https://cafef.vn/cong-an-he-lo-chieu-bai-phu-phep-kim-cuong-gia-hang-tram-ty-dong-mua-kim-cuong-nhap-lau-gia-re-tu-hong-kong-mai-bo-ma-gia-cap-giay-kiem-dinh-moi-roi-ban-kiem-loi-18826070220232268.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chung cư 'đất vàng' Hà Nội nhiều lần trễ hẹn bàn giao nhà bất ngờ hoạt động 'chui'",
-        "time": "Thu, 02 Jul 2026 19:32:11",
-        "timestamp": 1783020731.628634,
-        "link": "https://cafef.vn/chung-cu-dat-vang-ha-noi-nhieu-lan-tre-hen-ban-giao-nha-bat-ngo-hoat-dong-chui-188260702180846372.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Biệt thự nội đô bước vào chu kỳ khan hiếm mang tính cấu trúc",
-        "time": "Thu, 02 Jul 2026 19:32:11",
-        "timestamp": 1783020730.628634,
-        "link": "https://cafef.vn/biet-thu-noi-do-buoc-vao-chu-ky-khan-hiem-mang-tinh-cau-truc-188260702174149838.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Newstarland ghi dấu ấn tại VARS Awards 2026, khẳng định vị thế tiên phong",
-        "time": "Thu, 02 Jul 2026 19:32:11",
-        "timestamp": 1783020729.628634,
-        "link": "https://cafef.vn/newstarland-ghi-dau-an-tai-vars-awards-2026-khang-dinh-vi-the-tien-phong-188260702190554322.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vingroup đề xuất 6 đột phá AI quốc gia, tiết lộ mô hình tới 420 tỷ tham số tại hội nghị toàn quốc về Nghị quyết 57",
-        "time": "Thu, 02 Jul 2026 19:32:11",
-        "timestamp": 1783020728.628634,
-        "link": "https://cafef.vn/vingroup-de-xuat-6-dot-pha-ai-quoc-gia-tiet-lo-mo-hinh-toi-420-ty-tham-so-tai-hoi-nghi-toan-quoc-ve-nghi-quyet-57-188260702182816207.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Dự án mỏ sắt lớn nhất Đông Nam Á bị chấm dứt, Hòa Phát vừa đề xuất liên danh với THACO để nghiên cứu khai thác",
-        "time": "Thu, 02 Jul 2026 19:32:11",
-        "timestamp": 1783020727.628634,
-        "link": "https://cafef.vn/du-an-mo-sat-lon-nhat-dong-nam-a-bi-cham-dut-hoa-phat-vua-de-xuat-lien-danh-voi-thaco-de-nghien-cuu-khai-thac-188260702182555827.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
