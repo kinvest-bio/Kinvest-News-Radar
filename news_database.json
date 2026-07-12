@@ -1,5 +1,95 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Dragon Capital gọi tên ba nhóm cổ phiếu sáng cửa nửa cuối năm, một nhóm được kỳ vọng lợi nhuận tăng 100%",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901435.594188,
+        "link": "https://cafef.vn/dragon-capital-goi-ten-ba-nhom-co-phieu-sang-cua-nua-cuoi-nam-mot-nhom-duoc-ky-vong-loi-nhuan-tang-100-188260712222147764.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Điều gì khiến làn sóng IPO tại Việt Nam không bùng nổ như kỳ vọng?",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901434.594188,
+        "link": "https://cafef.vn/dieu-gi-khien-lan-song-ipo-tai-viet-nam-khong-bung-no-nhu-ky-vong-188260712222402645.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Một doanh nghiệp chốt ngày trả cổ tức tiền mặt kỷ lục, EPS \"khủng\" hơn 48.000 đồng/cp",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901433.594188,
+        "link": "https://cafef.vn/mot-doanh-nghiep-chot-ngay-tra-co-tuc-tien-mat-ky-luc-eps-khung-hon-48000-dong-cp-188260712222014995.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Toàn cảnh cầu Vân Phúc sau gần 1 năm thi công",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901432.594188,
+        "link": "https://cafef.vn/toan-canh-cau-van-phuc-sau-gan-1-nam-thi-cong-188260712194640776.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Sau 17 năm 'rón rén', AEON tăng tốc tại Việt Nam với tham vọng chưa từng có",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901431.594188,
+        "link": "https://cafef.vn/sau-17-nam-ron-ren-aeon-tang-toc-tai-viet-nam-voi-tham-vong-chua-tung-co-188260713000653632.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bà Mai Thanh xúc động kể về 44 năm tại REE",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901430.594188,
+        "link": "https://cafef.vn/ba-mai-thanh-xuc-dong-ke-ve-44-nam-tai-ree-18826071300061005.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Cập nhật BCTC quý 2/2026 ngày 13/7: ACV ước lãi 6 tháng gần 5.900 tỷ đồng, một CTCK ước lãi gấp 4 lần cùng kỳ",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901429.594188,
+        "link": "https://cafef.vn/cap-nhat-bctc-quy-2-2026-ngay-13-7-acv-uoc-lai-6-thang-gan-5900-ty-dong-mot-ctck-uoc-lai-gap-4-lan-cung-ky-18826071300045725.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Kiện Amazon đòi 280 triệu USD nhưng bị Tòa án Mỹ bác đơn, Công ty dệt may Việt Nam tuyên bố tiếp tục kháng cáo",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901428.594188,
+        "link": "https://cafef.vn/kien-amazon-doi-280-trieu-usd-nhung-bi-toa-an-my-bac-don-cong-ty-det-may-viet-nam-tuyen-bo-tiep-tuc-khang-cao-188260713000349922.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "'Chiếc trực thăng' độc nhất vô nhị của Việt Nam: Kiếm hơn 3.000 tỷ/năm, nắm 'kho báu' 16.000 tỷ từ Ngân hàng MB",
+        "time": "Mon, 13 Jul 2026 00:10:35",
+        "timestamp": 1783901427.594188,
+        "link": "https://cafef.vn/chiec-truc-thang-doc-nhat-vo-nhi-cua-viet-nam-kiem-hon-3000-ty-nam-nam-kho-bau-16000-ty-tu-ngan-hang-mb-18826071222402171.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Đường Nguyễn Tuân thay đổi diện mạo sau nhiều năm thi công dang dở",
         "time": "Sun, 12 Jul 2026 22:59:14",
@@ -7905,96 +7995,6 @@
         "time": "Tue, 07 Jul 2026 08:23:45",
         "timestamp": 1783412625.643629,
         "link": "https://cafef.vn/vietcap-du-bao-vn-index-co-co-hoi-tro-lai-dinh-cu-goi-ten-4-co-phieu-tiem-nang-188260707072407112.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "24 giờ giữa phố biển Sunshine Bay Retreat: Khi mỗi khoảnh khắc là một tầng trải nghiệm “thăng hoa”",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412624.643629,
-        "link": "https://cafef.vn/24-gio-giua-pho-bien-sunshine-bay-retreat-khi-moi-khoanh-khac-la-mot-tang-trai-nghiem-thang-hoa-188260707065830788.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Dự án càng vận hành càng đắt giá: chiến lược \"giá trị thật\" đang giúp một ông lớn BĐS đi ngược số đông",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412623.643629,
-        "link": "https://cafef.vn/du-an-cang-van-hanh-cang-dat-gia-chien-luoc-gia-tri-that-dang-giup-mot-ong-lon-bds-di-nguoc-so-dong-188260707063335823.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Khi chuẩn sống đô thị được nâng cấp thành đô thị nghỉ dưỡng",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412622.643629,
-        "link": "https://cafef.vn/khi-chuan-song-do-thi-duoc-nang-cap-thanh-do-thi-nghi-duong-18826070611030919.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Diễn biến mới tại \"siêu\" dự án cao tốc hơn 25.000 tỷ đồng kết nối tới “Đà Lạt thứ 2” do Tập đoàn Sun Group đề xuất",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412621.643629,
-        "link": "https://cafef.vn/dien-bien-moi-tai-sieu-du-an-cao-toc-hon-25000-ty-dong-ket-noi-toi-da-lat-thu-2-do-tap-doan-sun-group-de-xuat-188260707063123895.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Việt Nam sắp có trung tâm kinh tế biển rộng hơn 12.000 ha",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412620.643629,
-        "link": "https://cafef.vn/viet-nam-sap-co-trung-tam-kinh-te-bien-rong-hon-12000-ha-188260707063512131.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "'Miếng bánh' giám định kim cương chia cho những ai trước khi xảy ra biến cố tại công ty của PNJ với 28.000 viên kim cương buôn lậu?",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412619.643629,
-        "link": "https://cafef.vn/mieng-banh-giam-dinh-kim-cuong-chia-cho-nhung-ai-truoc-khi-xay-ra-bien-co-tai-cong-ty-cua-pnj-voi-28000-vien-kim-cuong-buon-lau-188260707072301437.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Phút 'cân não' chưa từng có trên chuyến bay từ Việt Nam tới Venezuela sau thảm họa động đất",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412618.643629,
-        "link": "https://cafef.vn/phut-can-nao-chua-tung-co-tren-chuyen-bay-tu-viet-nam-toi-venezuela-sau-tham-hoa-dong-dat-188260707071118371.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Khởi tố nhóm đối tượng thu thập, mua bán trái phép 117 tài khoản ngân hàng của học sinh",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412617.643629,
-        "link": "https://cafef.vn/khoi-to-nhom-doi-tuong-thu-thap-mua-ban-trai-phep-117-tai-khoan-ngan-hang-cua-hoc-sinh-188260707063830516.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "VIB Up: Đăng ký một lần, giảm lãi trọn đời khoản vay",
-        "time": "Tue, 07 Jul 2026 08:23:45",
-        "timestamp": 1783412616.643629,
-        "link": "https://cafef.vn/vib-up-dang-ky-mot-lan-giam-lai-tron-doi-khoan-vay-188260706145531796.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
