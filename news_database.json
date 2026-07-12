@@ -1,6 +1,106 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Góc nhìn chuyên gia: Kịch bản VN-Index thủng 1.800 điểm cần được tính đến, nhà đầu tư hạn chế mua đuổi",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873561.260915,
+        "link": "https://cafef.vn/goc-nhin-chuyen-gia-kich-ban-vn-index-thung-1800-diem-can-duoc-tinh-den-nha-dau-tu-han-che-mua-duoi-188260712142422488.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Nhà mặt phố Hà Nội rao nhiều tháng vẫn không có khách thuê mua",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873560.260915,
+        "link": "https://cafef.vn/nha-mat-pho-ha-noi-rao-nhieu-thang-van-khong-co-khach-thue-mua-188260712124251302.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Toàn cảnh 53km Vành đai 3,5 Hà Nội với loạt dự án nghìn tỷ đang thành hình",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873559.260915,
+        "link": "https://cafef.vn/toan-canh-53km-vanh-dai-35-ha-noi-voi-loat-du-an-nghin-ty-dang-thanh-hinh-188260712124034625.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bộ Nội vụ đề xuất chưa xem xét, giảm nhẹ kỷ luật với một số vi phạm đất đai cũ",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873558.260915,
+        "link": "https://cafef.vn/bo-noi-vu-de-xuat-chua-xem-xet-giam-nhe-ky-luat-voi-mot-so-vi-pham-dat-dai-cu-188260712123827684.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Chuyện lạ: Công ty xổ số bán hơn 3 triệu vé mỗi năm vẫn lỗ liên tục 4 năm liền vì khách trúng thưởng quá nhiều",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873557.260915,
+        "link": "https://cafef.vn/chuyen-la-cong-ty-xo-so-ban-hon-3-trieu-ve-moi-nam-van-lo-lien-tuc-4-nam-lien-vi-khach-trung-thuong-qua-nhieu-188260712155555261.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Chủ đầu tư sân bay Long Thành ước lãi trước thuế 6 tháng đầu năm gần 5.900 tỷ đồng",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873556.260915,
+        "link": "https://cafef.vn/chu-dau-tu-san-bay-long-thanh-uoc-lai-truoc-thue-6-thang-dau-nam-gan-5900-ty-dong-188260712154933554.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cựu Phó Thủ tướng Đức gốc Việt đảm nhận vai trò gì tại trung tâm giúp Việt Nam hút hàng tỷ USD?",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873555.260915,
+        "link": "https://cafef.vn/cuu-pho-thu-tuong-duc-goc-viet-dam-nhan-vai-tro-gi-tai-trung-tam-giup-viet-nam-hut-hang-ty-usd-188260712154034125.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Sau gần một năm khởi công, cây cầu hơn 11.800 tỷ đồng vượt sông Hồng, kết nối Hà Nội đến Hưng Yên có tiến độ ra sao?",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873554.260915,
+        "link": "https://cafef.vn/sau-gan-mot-nam-khoi-cong-cay-cau-hon-11800-ty-dong-vuot-song-hong-ket-noi-ha-noi-den-hung-yen-co-tien-do-ra-sao-188260712150119934.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Bài 3: Làm chủ điện hạt nhân: Xây dựng hệ sinh thái cho một ngành công nghệ chiến lược",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873553.260915,
+        "link": "https://cafef.vn/bai-3-lam-chu-dien-hat-nhan-xay-dung-he-sinh-thai-cho-mot-nganh-cong-nghe-chien-luoc-188260712144731621.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Siết tiến độ, giải ngân các dự án hạ tầng giao thông",
+        "time": "Sun, 12 Jul 2026 16:26:01",
+        "timestamp": 1783873552.260915,
+        "link": "https://cafef.vn/siet-tien-do-giai-ngan-cac-du-an-ha-tang-giao-thong-188260712134928786.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Chuyên gia dự báo bất ngờ về giá vàng trong năm 2026",
         "time": "Sun, 12 Jul 2026 14:16:17",
         "timestamp": 1783865777.229764,
@@ -7898,105 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Lãi vay cao, cảnh báo nguy cơ nợ xấu tăng",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783370004.358107,
-        "link": "https://cafef.vn/lai-vay-cao-canh-bao-nguy-co-no-xau-tang-188260706193742515.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Vụ buôn lậu kim cương phơi bày 'lỗ hổng' giám sát hoạt động doanh nghiệp kiểm định",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783370003.358107,
-        "link": "https://cafef.vn/vu-buon-lau-kim-cuong-phoi-bay-lo-hong-giam-sat-hoat-dong-doanh-nghiep-kiem-dinh-188260706193619555.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một thế lực vừa \"xả\" ròng nửa nghìn tỷ đồng cổ phiếu Việt Nam trong phiên đầu tuần",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783370002.358107,
-        "link": "https://cafef.vn/mot-the-luc-vua-xa-rong-nua-nghin-ty-dong-co-phieu-viet-nam-trong-phien-dau-tuan-188260706183805388.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Lãnh đạo PNJ nói gì về mối quan hệ gia đình với cựu Giám đốc P-Lab trong vụ 28.000 viên kim cương?",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783370001.358107,
-        "link": "https://cafef.vn/lanh-dao-pnj-noi-gi-ve-moi-quan-he-gia-dinh-voi-cuu-giam-doc-p-lab-trong-vu-28000-vien-kim-cuong-188260706183709181.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Ai từng mua đồng tiền ảo này liên hệ công an gấp",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783370000.358107,
-        "link": "https://cafef.vn/ai-tung-mua-dong-tien-ao-nay-lien-he-cong-an-gap-188260706182914966.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "“Đại gia” Việt bán điều hòa, máy lạnh kiếm hơn 14 tỷ mỗi giờ trong mùa nắng nóng",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783369999.358107,
-        "link": "https://cafef.vn/dai-gia-viet-ban-dieu-hoa-may-lanh-kiem-hon-14-ty-moi-gio-trong-mua-nang-nong-188260706180123308.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Thị phần môi giới HoSE quý 2/2026: VPS xuống thấp nhất 22 quý, SSI và TCBS áp sát",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783369998.358107,
-        "link": "https://cafef.vn/thi-phan-moi-gioi-hose-quy-2-2026-vps-xuong-thap-nhat-22-quy-ssi-va-tcbs-ap-sat-188260706171935801.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Novaland (NVL) dự kiến phát hành thêm hơn 1,7 tỷ cổ phiếu, quy mô vốn điều lệ có thể vượt 41.000 tỷ đồng",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783369997.358107,
-        "link": "https://cafef.vn/novaland-nvl-du-kien-phat-hanh-them-hon-17-ty-co-phieu-quy-mo-von-dieu-le-co-the-vuot-41000-ty-dong-188260706165235604.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Bổ sung nhà cho thuê, nhà giá phù hợp và mã định danh điện tử vào luật",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783369996.358107,
-        "link": "https://cafef.vn/bo-sung-nha-cho-thue-nha-gia-phu-hop-va-ma-dinh-danh-dien-tu-vao-luat-188260706195516163.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "TPHCM kiến nghị tháo gỡ vướng mắc cho các dự án trọng điểm",
-        "time": "Mon, 06 Jul 2026 20:33:24",
-        "timestamp": 1783369995.358107,
-        "link": "https://cafef.vn/tphcm-kien-nghi-thao-go-vuong-mac-cho-cac-du-an-trong-diem-188260706201510918.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
