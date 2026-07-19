@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Người TP.HCM ‘toát mồ hôi’ đi bán kim cương",
+        "time": "Sun, 19 Jul 2026 18:57:02",
+        "timestamp": 1784487422.091082,
+        "link": "https://cafef.vn/nguoi-tphcm-toat-mo-hoi-di-ban-kim-cuong-188260719184954564.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bị tố làm khách bị ngộ độc, PHẢI ĐI CẤP CỨU vì NHIỄM TRÙNG ĐƯỜNG RUỘT: Đại diện Nollowa Chicken Thụy Khuê (Hà Nội) nói gì?",
+        "time": "Sun, 19 Jul 2026 18:57:02",
+        "timestamp": 1784487421.091082,
+        "link": "https://cafef.vn/bi-to-lam-khach-bi-ngo-doc-phai-di-cap-cuu-vi-nhiem-trung-duong-ruot-dai-dien-nollowa-chicken-thuy-khue-ha-noi-noi-gi-188260719175731034.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng 19/7 tại MB, Agribank, Vietcombank, BIDV, VietinBank, Sacombank, HDBank,...",
+        "time": "Sun, 19 Jul 2026 18:57:02",
+        "timestamp": 1784487420.091082,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-19-7-tai-mb-agribank-vietcombank-bidv-vietinbank-sacombank-hdbank-188260719171059549.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Đại hội đồng cổ đông ấn tượng: SHB và câu chuyện phía sau một kỳ AGM “đậm chất thương hiệu”",
         "time": "Sun, 19 Jul 2026 17:52:32",
@@ -7968,35 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Phản ánh về xăng E10 giảm dần sau hơn một tháng triển khai",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967831.633259,
-        "link": "https://cafef.vn/phan-anh-ve-xang-e10-giam-dan-sau-hon-mot-thang-trien-khai-188260713163735713.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Bộ Xây dựng yêu cầu đẩy nhanh tiến độ giải ngân dự án giao thông",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967830.633259,
-        "link": "https://cafef.vn/bo-xay-dung-yeu-cau-day-nhanh-tien-do-giai-ngan-du-an-giao-thong-188260713143307385.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "WB: Chất lượng tăng trưởng sẽ quyết định con đường Việt Nam trở thành quốc gia thu nhập cao",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967829.633259,
-        "link": "https://cafef.vn/wb-chat-luong-tang-truong-se-quyet-dinh-con-duong-viet-nam-tro-thanh-quoc-gia-thu-nhap-cao-188260713143700226.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
