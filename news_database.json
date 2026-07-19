@@ -1,5 +1,65 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Transimex không mua được cổ phiếu VNF nào như đăng ký",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497116.729275,
+        "link": "https://cafef.vn/transimex-khong-mua-duoc-co-phieu-vnf-nao-nhu-dang-ky-18826071920342251.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Công ty nào lớn nhất thế giới hiện nay?",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497115.729275,
+        "link": "https://cafef.vn/cong-ty-nao-lon-nhat-the-gioi-hien-nay-18826071920294621.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Diễn biến mới tại khu công nghiệp hơn 5.600 tỷ ở thành phố có diện tích nhỏ nhất Việt Nam",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497114.729275,
+        "link": "https://cafef.vn/dien-bien-moi-tai-khu-cong-nghiep-hon-5600-ty-o-thanh-pho-co-dien-tich-nho-nhat-viet-nam-18826071919251324.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hai tuyến cao tốc của Liên danh T&T, Tập đoàn Sơn Hải tại tỉnh rộng nhất Việt Nam nhận chỉ đạo từ Bộ Xây dựng",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497113.729275,
+        "link": "https://cafef.vn/hai-tuyen-cao-toc-cua-lien-danh-tt-tap-doan-son-hai-tai-tinh-rong-nhat-viet-nam-nhan-chi-dao-tu-bo-xay-dung-188260719192430473.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Khởi tố một loạt Giám đốc, chủ doanh nghiệp",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497112.729275,
+        "link": "https://cafef.vn/khoi-to-mot-loat-giam-doc-chu-doanh-nghiep-188260719210914161.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hành khách đi Nhật Bản, Hàn Quốc và Đài Loan có tin vui",
+        "time": "Sun, 19 Jul 2026 21:38:36",
+        "timestamp": 1784497111.729275,
+        "link": "https://cafef.vn/hanh-khach-di-nhat-ban-han-quoc-va-dai-loan-co-tin-vui-188260716150018723.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Doanh nghiệp",
         "title": "Công ty do con trai tỷ phú Phạm Nhật Vượng điều hành: Tăng vốn lần đầu tiên lên hơn 9.000 tỷ đồng",
         "time": "Sun, 19 Jul 2026 20:26:05",
@@ -7935,66 +7995,6 @@
         "time": "Mon, 13 Jul 2026 18:37:39",
         "timestamp": 1783967841.633259,
         "link": "https://cafef.vn/aeon-viet-nam-mo-dot-tuyen-dung-lon-toi-1000-lao-dong-188260713183001324.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Sun PhuQuoc Airways đón tàu bay thứ 13, mang diện mạo thương hiệu mới",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967840.633259,
-        "link": "https://cafef.vn/sun-phuquoc-airways-don-tau-bay-thu-13-mang-dien-mao-thuong-hieu-moi-188260713162521538.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Bắt tạm giam người phụ nữ “hô biến” bột sắn, bột ngô thành tinh bột nghệ: Thu giữ gần 4,7 tấn",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967839.633259,
-        "link": "https://cafef.vn/bat-tam-giam-nguoi-phu-nu-ho-bien-bot-san-bot-ngo-thanh-tinh-bot-nghe-thu-giu-gan-47-tan-188260713161420898.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Phái đoàn Liên minh châu Âu (EU) tại Việt Nam khép lại một chiến dịch trong chiến lược huy động 300 tỷ euro",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967838.633259,
-        "link": "https://cafef.vn/phai-doan-lien-minh-chau-au-eu-tai-viet-nam-khep-lai-mot-chien-dich-trong-chien-luoc-huy-dong-300-ty-euro-188260713153523795.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hơn cả một sự kế thừa: Điều gì đang định hình \"tính cách\" hệ bất động sản mang thương hiệu T&T Group",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967837.633259,
-        "link": "https://cafef.vn/hon-ca-mot-su-ke-thua-dieu-gi-dang-dinh-hinh-tinh-cach-he-bat-dong-san-mang-thuong-hieu-tt-group-188260607215439447.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Fitch Ratings lần đầu xếp hạng HDBank, ghi nhận nền tảng tài chính vững mạnh top đầu Việt Nam",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967836.633259,
-        "link": "https://cafef.vn/fitch-ratings-lan-dau-xep-hang-hdbank-ghi-nhan-nen-tang-tai-chinh-vung-manh-top-dau-viet-nam-188260713182849403.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Một cổ phiếu ngân hàng sẽ chính thức giao dịch trên HoSE từ 21/7",
-        "time": "Mon, 13 Jul 2026 18:37:39",
-        "timestamp": 1783967835.633259,
-        "link": "https://cafef.vn/mot-co-phieu-ngan-hang-se-chinh-thuc-giao-dich-tren-hose-tu-21-7-188260713165719551.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
