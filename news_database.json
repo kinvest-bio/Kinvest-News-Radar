@@ -1,5 +1,75 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Thắng kiện sau nhiều năm tranh chấp, công ty thành viên Novaland (NVL) vẫn \"mắc kẹt\" với dự án Khu dân cư 7/5",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674489.968577,
+        "link": "https://cafef.vn/thang-kien-sau-nhieu-nam-tranh-chap-cong-ty-thanh-vien-novaland-nvl-van-mac-ket-voi-du-an-khu-dan-cu-7-5-188260721222422732.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội gia hạn sử dụng đất cho Công ty cổ phần Giầy Thuỵ Khuê",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674488.968577,
+        "link": "https://cafef.vn/ha-noi-gia-han-su-dung-dat-cho-cong-ty-co-phan-giay-thuy-khue-188260721213343845.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội: Đôn đốc triển khai 8 cây cầu lớn bắc qua sông",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674487.968577,
+        "link": "https://cafef.vn/ha-noi-don-doc-trien-khai-8-cay-cau-lon-bac-qua-song-188260721213059123.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "'Sập bẫy' mua đất giá rẻ, 3 người ở Đà Nẵng bị chiếm đoạt 7,7 tỷ đồng",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674486.968577,
+        "link": "https://cafef.vn/sap-bay-mua-dat-gia-re-3-nguoi-o-da-nang-bi-chiem-doat-77-ty-dong-188260721212701311.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Chủ doanh nghiệp tạm ứng tiền thi công tại dự án trường học ở vùng cao rồi bỏ trốn",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674485.968577,
+        "link": "https://cafef.vn/chu-doanh-nghiep-tam-ung-tien-thi-cong-tai-du-an-truong-hoc-o-vung-cao-roi-bo-tron-188260721212229025.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khánh Hòa đầu tư hơn 2.240 tỷ đồng xây dựng đường Vành đai 3",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674484.968577,
+        "link": "https://cafef.vn/khanh-hoa-dau-tu-hon-2240-ty-dong-xay-dung-duong-vanh-dai-3-188260721211748705.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Các ngân hàng mở rộng tài sản nhanh chưa từng thấy: Xuất hiện nhà băng tăng 12 lần sau 10 năm, HDBank, MB và TPBank thuộc nhóm dẫn dầu",
+        "time": "Tue, 21 Jul 2026 22:54:49",
+        "timestamp": 1784674483.968577,
+        "link": "https://cafef.vn/cac-ngan-hang-mo-rong-tai-san-nhanh-chua-tung-thay-xuat-hien-nha-bang-tang-12-lan-sau-10-nam-hdbank-mb-va-tpbank-thuoc-nhom-dan-dau-188260709151254788.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Dabaco lên tiếng về tai nạn lao động tại Thanh Hóa",
         "time": "Tue, 21 Jul 2026 21:13:39",
@@ -7928,75 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Bổ sung 5.000 tỷ đồng vốn điều lệ cho Ngân hàng Hợp tác xã Việt Nam",
-        "time": "Wed, 15 Jul 2026 21:08:49",
-        "timestamp": 1784149722.566627,
-        "link": "https://cafef.vn/bo-sung-5000-ty-dong-von-dieu-le-cho-ngan-hang-hop-tac-xa-viet-nam-188260715171040358.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Chủ tịch KBC Đặng Thành Tâm: Ngân hàng không thể gánh mọi dòng vốn",
-        "time": "Wed, 15 Jul 2026 21:08:49",
-        "timestamp": 1784149721.566627,
-        "link": "https://cafef.vn/chu-tich-kbc-dang-thanh-tam-ngan-hang-khong-the-ganh-moi-dong-von-188260715174545768.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Khi bảo mật cũng được cá nhân hoá trên MSB Digital Bank",
-        "time": "Wed, 15 Jul 2026 21:08:49",
-        "timestamp": 1784149720.566627,
-        "link": "https://cafef.vn/khi-bao-mat-cung-duoc-ca-nhan-hoa-tren-msb-digital-bank-188260715182851556.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lợi nhuận bán niên vượt 4.668 tỷ đồng: TPBank định hình đường ray tăng trưởng chất lượng cao",
-        "time": "Wed, 15 Jul 2026 21:08:49",
-        "timestamp": 1784149719.566627,
-        "link": "https://cafef.vn/loi-nhuan-ban-nien-vuot-4668-ty-dong-tpbank-dinh-hinh-duong-ray-tang-truong-chat-luong-cao-188260715182808687.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "\"Bom tấn\" 100.000 tỷ chính thức nộp hồ sơ lên HoSE",
-        "time": "Wed, 15 Jul 2026 19:02:41",
-        "timestamp": 1784142161.637978,
-        "link": "https://cafef.vn/bom-tan-100000-ty-chinh-thuc-nop-ho-so-len-hose-188260715183315177.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Bắt nhóm quản lý cao cấp của hệ thống cá độ bóng đá nghìn tỷ có hơn 30.000 thành viên",
-        "time": "Wed, 15 Jul 2026 19:02:41",
-        "timestamp": 1784142160.637978,
-        "link": "https://cafef.vn/bat-nhom-quan-ly-cao-cap-cua-he-thong-ca-do-bong-da-nghin-ty-co-hon-30000-thanh-vien-188260715175240407.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Cận cảnh đại công trường Trung tâm Hội nghị APEC trước ngày về đích",
-        "time": "Wed, 15 Jul 2026 19:02:41",
-        "timestamp": 1784142159.637978,
-        "link": "https://cafef.vn/can-canh-dai-cong-truong-trung-tam-hoi-nghi-apec-truoc-ngay-ve-dich-188260715162555993.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
