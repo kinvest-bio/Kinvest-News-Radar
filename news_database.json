@@ -1,6 +1,96 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Cổ phiếu PNJ được “giải cứu” hơn 1.270 tỷ đồng nhưng vẫn nằm sàn, VN-Index đỏ lửa phiên cuối tuần",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918480.836641,
+        "link": "https://cafef.vn/co-phieu-pnj-duoc-giai-cuu-hon-1270-ty-dong-nhung-van-nam-san-vn-index-do-lua-phien-cuoi-tuan-188260724183238563.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Cẩn trọng với lời mời đầu tư tài chính, tiền ảo từ người lạ trên mạng xã hội",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918479.836641,
+        "link": "https://cafef.vn/can-trong-voi-loi-moi-dau-tu-tai-chinh-tien-ao-tu-nguoi-la-tren-mang-xa-hoi-188260724164727225.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "PC1 có Chủ tịch HĐQT mới",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918478.836641,
+        "link": "https://cafef.vn/pc1-co-chu-tich-hdqt-moi-188260724142001954.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hodeco Hub \"bắt tay\" Vinhomes Cần Giờ, đón đầu hạ tầng cầu vượt biển",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918477.836641,
+        "link": "https://cafef.vn/hodeco-hub-bat-tay-vinhomes-can-gio-don-dau-ha-tang-cau-vuot-bien-188260724160720971.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "VIMID động thổ nhà máy VMASS - Đánh dấu mốc chuyển mình chiến lược",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918476.836641,
+        "link": "https://cafef.vn/vimid-dong-tho-nha-may-vmass-danh-dau-moc-chuyen-minh-chien-luoc-188260724172643111.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Trung ương thông qua chủ trương thành lập thành phố Quảng Ninh và Bắc Ninh",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918475.836641,
+        "link": "https://cafef.vn/trung-uong-thong-qua-chu-truong-thanh-lap-thanh-pho-quang-ninh-va-bac-ninh-188260724175650048.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Một doanh nghiệp Đức chốt xây khu phức hợp logistics hạng A lớn nhất Đông Nam Á tại Việt Nam",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918474.836641,
+        "link": "https://cafef.vn/mot-doanh-nghiep-duc-chot-xay-khu-phuc-hop-logistics-hang-a-lon-nhat-dong-nam-a-tai-viet-nam-188260724173115124.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "TP.HCM thành lập Khu thương mại tự do Cái Mép Hạ 4.100 ha",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918473.836641,
+        "link": "https://cafef.vn/tphcm-thanh-lap-khu-thuong-mai-tu-do-cai-mep-ha-4100-ha-18826072415293721.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Tất cả người dân đang đi xe máy chú ý thông tin mới nhất về bảo hiểm bắt buộc",
+        "time": "Fri, 24 Jul 2026 18:41:20",
+        "timestamp": 1784918472.836641,
+        "link": "https://cafef.vn/tat-ca-nguoi-dan-dang-di-xe-may-chu-y-thong-tin-moi-nhat-ve-bao-hiem-bat-buoc-188260723160119308.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Cô gái 27 tuổi  vừa trở thành tân Chủ tịch HĐQT PC1 chỉ sau 3 tháng làm việc, đại diện khối cổ phiếu trị giá gần 1.950 tỷ đồng",
         "time": "Fri, 24 Jul 2026 16:53:52",
         "timestamp": 1784912032.622649,
@@ -7905,96 +7995,6 @@
         "time": "Sun, 19 Jul 2026 16:20:13",
         "timestamp": 1784478001.015279,
         "link": "https://cafef.vn/triet-pha-duong-day-lua-dao-hon-3000-nguoi-dau-tu-tien-so-cvx-188260719161239349.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng giảm mạnh, chuyên gia phố Wall dự báo tuần tới gây bất ngờ",
-        "time": "Sun, 19 Jul 2026 16:20:13",
-        "timestamp": 1784478000.015279,
-        "link": "https://cafef.vn/gia-vang-giam-manh-chuyen-gia-pho-wall-du-bao-tuan-toi-gay-bat-ngo-188260719153650597.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Tăng tốc metro, kiến tạo không gian phát triển mới",
-        "time": "Sun, 19 Jul 2026 16:20:13",
-        "timestamp": 1784477999.015279,
-        "link": "https://cafef.vn/tang-toc-metro-kien-tao-khong-gian-phat-trien-moi-18826071916004426.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Tăng tốc thi công cầu trên cao tốc Bến Lức - Long Thành nối TP.HCM với Đồng Nai",
-        "time": "Sun, 19 Jul 2026 16:20:13",
-        "timestamp": 1784477998.015279,
-        "link": "https://cafef.vn/tang-toc-thi-cong-cau-tren-cao-toc-ben-luc-long-thanh-noi-tphcm-voi-dong-nai-188260719144621017.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Thêm một chuỗi cửa hàng bán kim cương, vàng lớn thông báo dừng kinh doanh 2 tháng để tái cấu trúc toàn diện",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470505.159336,
-        "link": "https://cafef.vn/them-mot-chuoi-cua-hang-ban-kim-cuong-vang-lon-thong-bao-dung-kinh-doanh-2-thang-de-tai-cau-truc-toan-dien-188260719132027408.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chứng khoán Rồng Việt sắp phát hành 500 tỷ đồng trái phiếu",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470504.159336,
-        "link": "https://cafef.vn/chung-khoan-rong-viet-sap-phat-hanh-500-ty-dong-trai-phieu-188260719104335425.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hưng Thịnh Incons dự kiến phát hành cổ phiếu thưởng tỷ lệ 50%",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470503.159336,
-        "link": "https://cafef.vn/hung-thinh-incons-du-kien-phat-hanh-co-phieu-thuong-ty-le-50-188260719132553431.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Thêm nạn nhân tử vong trong vụ tai nạn tại trại nuôi lợn ở Thanh Hóa",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470502.159336,
-        "link": "https://cafef.vn/them-nan-nhan-tu-vong-trong-vu-tai-nan-tai-trai-nuoi-lon-o-thanh-hoa-188260719121358623.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Ba người tử vong do tai nạn ở trang trại nuôi lợn tại Thanh Hóa",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470501.159336,
-        "link": "https://cafef.vn/ba-nguoi-tu-vong-do-tai-nan-o-trang-trai-nuoi-lon-tai-thanh-hoa-188260719120713342.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Thực hư chuyện California  đóng cửa phòng tập thứ 5 ở Vũng Tàu?",
-        "time": "Sun, 19 Jul 2026 14:15:05",
-        "timestamp": 1784470500.159336,
-        "link": "https://cafef.vn/thuc-hu-chuyen-california-dong-cua-phong-tap-thu-5-o-vung-tau-188260719095628164.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
