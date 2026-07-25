@@ -1,5 +1,85 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Chủ tịch Nguyễn Như Hoàng Tuấn bị bắt, doanh nghiệp kinh doanh ra sao trong quý 2?",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027500.240997,
+        "link": "https://cafef.vn/chu-tich-nguyen-nhu-hoang-tuan-bi-bat-doanh-nghiep-kinh-doanh-ra-sao-trong-quy-2-188260725224946792.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Quỹ vàng khổng lồ \"gom\" cả chục tấn vàng khi giá bật tăng từ đáy",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027499.240997,
+        "link": "https://cafef.vn/quy-vang-khong-lo-gom-ca-chuc-tan-vang-khi-gia-bat-tang-tu-day-188260725225030902.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Lịch cổ tức tuần cuối tháng 7: Nhiều doanh nghiệp trả cổ tức tiền mặt kỷ lục, cao nhất 8.000 đồng/cp",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027498.240997,
+        "link": "https://cafef.vn/lich-co-tuc-tuan-cuoi-thang-7-nhieu-doanh-nghiep-tra-co-tuc-tien-mat-ky-luc-cao-nhat-8000-dong-cp-188260725224306323.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Bắt tạm giam Bùi Chân Phương, \"ông trùm\" đứng sau loạt doanh nghiệp y tế có tiếng",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027497.240997,
+        "link": "https://cafef.vn/bat-tam-giam-bui-chan-phuong-ong-trum-dung-sau-loat-doanh-nghiep-y-te-co-tieng-188260725232243284.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Ba \"ghế nóng\" đổi chủ trong một tuần: PC1 có nữ Chủ tịch SN1999, Eximbank đón cựu CEO Techcombank, doanh nghiệp còn lại thì sao?",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027496.240997,
+        "link": "https://cafef.vn/ba-ghe-nong-doi-chu-trong-mot-tuan-pc1-co-nu-chu-tich-sn1999-eximbank-don-cuu-ceo-techcombank-doanh-nghiep-con-lai-thi-sao-188260725225041185.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Tập đoàn 110 năm tuổi của Foxconn thâu tóm hoàn toàn DN điện mặt trời tại Việt Nam, lấn sân sang pin lưu trữ",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027495.240997,
+        "link": "https://cafef.vn/tap-doan-110-nam-tuoi-cua-foxconn-thau-tom-hoan-toan-dn-dien-mat-troi-tai-viet-nam-lan-san-sang-pin-luu-tru-188260725225206622.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Khám phá nhà máy bí ẩn bậc nhất Việt Nam: Nơi tạo ra những tờ tiền lưu thông khắp cả nước",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027494.240997,
+        "link": "https://cafef.vn/kham-pha-nha-may-bi-an-bac-nhat-viet-nam-noi-tao-ra-nhung-to-tien-luu-thong-khap-ca-nuoc-188260725150617925.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng đầu tiên báo lỗ trong quý 2/2026",
+        "time": "Sun, 26 Jul 2026 00:58:20",
+        "timestamp": 1785027493.240997,
+        "link": "https://cafef.vn/ngan-hang-dau-tien-bao-lo-trong-quy-2-2026-188260725212731733.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Thận trọng, đánh giá tác động đầy đủ của các chính sách mới trong dự án Luật Nhà ở (sửa đổi)",
         "time": "Sat, 25 Jul 2026 23:55:46",
@@ -7918,85 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Ông Lý Tuấn Kiệt, con trai ông Lý Điền Sơn Phó Chủ tịch HĐQT đăng ký mua vào 20 triệu cổ phiếu KDH",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565907.551031,
-        "link": "https://cafef.vn/ong-ly-tuan-kiet-con-trai-ong-ly-dien-son-pho-chu-tich-hdqt-dang-ky-mua-vao-20-trieu-co-phieu-kdh-188260720143507357.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "1 hãng xe điện lắp hàng nghìn trụ sạc khắp Việt Nam, giá sạc mỗi lần chỉ bằng cốc trà đá",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565906.551031,
-        "link": "https://cafef.vn/1-hang-xe-dien-lap-hang-nghin-tru-sac-khap-viet-nam-gia-sac-moi-lan-chi-bang-coc-tra-da-188260720142735407.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sao Mai Central Point – Kiến tạo biểu tượng sống mới, tri ân đặc biệt người dân Triệu Sơn",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565905.551031,
-        "link": "https://cafef.vn/sao-mai-central-point-kien-tao-bieu-tuong-song-moi-tri-an-dac-biet-nguoi-dan-trieu-son-188260720152748233.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Bên trong khu tập thể Trương Định sau hơn 50 năm sử dụng",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565904.551031,
-        "link": "https://cafef.vn/ben-trong-khu-tap-the-truong-dinh-sau-hon-50-nam-su-dung-188260720154100138.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Quy định đăng ký tạm trú",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565903.551031,
-        "link": "https://cafef.vn/quy-dinh-dang-ky-tam-tru-188260720145916481.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chỉ ít ngày nữa, siêu cầu vượt biển dài nhất miền Trung sẽ chính thức khai thác, lần đầu nối liền đôi bờ cửa biển Thuận An",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565902.551031,
-        "link": "https://cafef.vn/chi-it-ngay-nua-sieu-cau-vuot-bien-dai-nhat-mien-trung-se-chinh-thuc-khai-thac-lan-dau-noi-lien-doi-bo-cua-bien-thuan-an-188260720145301823.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sun Group muốn xây 4 cây cầu vượt sông để kết nối siêu dự án gần 100.000 tỷ đồng tại thành phố giàu nhất Việt Nam",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565901.551031,
-        "link": "https://cafef.vn/sun-group-muon-xay-4-cay-cau-vuot-song-de-ket-noi-sieu-du-an-gan-100000-ty-dong-tai-thanh-pho-giau-nhat-viet-nam-188260720134334285.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Một doanh nghiệp 8 nhân sự báo lãi quý 2/2026 tăng 158 lần",
-        "time": "Mon, 20 Jul 2026 16:45:15",
-        "timestamp": 1784565900.551031,
-        "link": "https://cafef.vn/mot-doanh-nghiep-8-nhan-su-bao-lai-quy-2-2026-tang-158-lan-188260720160741928.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
