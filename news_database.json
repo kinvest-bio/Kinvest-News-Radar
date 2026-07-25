@@ -1,6 +1,96 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Thị trường chứng khoán",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000377.017512,
+        "link": "https://cafef.vn/thi-truong-chung-khoan.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Người dân xếp hàng bán vàng, chịu lỗ cả chục triệu đồng/lượng: Khi nào kết thúc?",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000376.017512,
+        "link": "https://cafef.vn/nguoi-dan-xep-hang-ban-vang-chiu-lo-ca-chuc-trieu-dong-luong-khi-nao-ket-thuc-188260725155847601.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "“Trái ngọt” cho những cư dân tiên phong tại Vinhomes Royal Island",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000375.017512,
+        "link": "https://cafef.vn/trai-ngot-cho-nhung-cu-dan-tien-phong-tai-vinhomes-royal-island-188260725170813922.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Sau khi sập 7 triệu đồng/lượng, giá vàng hôm nay diễn biến bất ngờ",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000374.017512,
+        "link": "https://cafef.vn/sau-khi-sap-7-trieu-dong-luong-gia-vang-hom-nay-dien-bien-bat-ngo-188260725150034184.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Hơn 9,4 triệu tỷ đồng của người dân và doanh nghiệp chảy vào 27 ngân hàng trong 10 năm qua: Ngân hàng nào hút được nhiều tiền gửi nhất?",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000373.017512,
+        "link": "https://cafef.vn/hon-94-trieu-ty-dong-cua-nguoi-dan-va-doanh-nghiep-chay-vao-27-ngan-hang-trong-10-nam-qua-ngan-hang-nao-hut-duoc-nhieu-tien-gui-nhat-188260714080501681.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cục Thuế vừa có thông báo mới, hộ kinh doanh có doanh thu dưới 1 tỷ đồng/năm cần biết",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000372.017512,
+        "link": "https://cafef.vn/cuc-thue-vua-co-thong-bao-moi-ho-kinh-doanh-co-doanh-thu-duoi-1-ty-dong-nam-can-biet-188260725161957554.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Chỉ vài tuần nữa, Việt Nam sẽ đón một sân bay quốc tế hoạt động trở lại sau hơn 5 tháng tạm đóng cửa",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000371.017512,
+        "link": "https://cafef.vn/chi-vai-tuan-nua-viet-nam-se-don-mot-san-bay-quoc-te-hoat-dong-tro-lai-sau-hon-5-thang-tam-dong-cua-188260725154925703.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cơ quan Thuế yêu cầu MBBank, Vietinbank, BIDV trích tiền từ tài khoản ngân hàng của những công ty có tên trong danh sách sau",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000370.017512,
+        "link": "https://cafef.vn/co-quan-thue-yeu-cau-mbbank-vietinbank-bidv-trich-tien-tu-tai-khoan-ngan-hang-cua-nhung-cong-ty-co-ten-trong-danh-sach-sau-188260725155408334.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hà Nội giao nhiệm vụ cụ thể cho từng ngành để đạt mục tiêu tăng trưởng hai con số",
+        "time": "Sat, 25 Jul 2026 17:26:17",
+        "timestamp": 1785000369.017512,
+        "link": "https://cafef.vn/ha-noi-giao-nhiem-vu-cu-the-cho-tung-nganh-de-dat-muc-tieu-tang-truong-hai-con-so-188260725140440241.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Thay đổi nhân sự cấp cao tại một số ngân hàng",
         "time": "Sat, 25 Jul 2026 15:50:45",
         "timestamp": 1784994645.480214,
@@ -7908,95 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Thiết kế 'vừa đủ' cho ngôi nhà hạn chế về cả vị trí, diện tích và ngân sách",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554303.714158,
-        "link": "https://cafef.vn/thiet-ke-vua-du-cho-ngoi-nha-han-che-ve-ca-vi-tri-dien-tich-va-ngan-sach-188260720110147242.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Giá nhà Thượng Hải tăng 13 lần sau 25 năm tái quy hoạch: Cơ hội nào cho bất động sản Hà Nội sau 'đại phẫu' đô thị?",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554302.714158,
-        "link": "https://cafef.vn/gia-nha-thuong-hai-tang-13-lan-sau-25-nam-tai-quy-hoach-co-hoi-nao-cho-bat-dong-san-ha-noi-sau-dai-phau-do-thi-188260720105817621.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Bắc Ninh tìm chủ đầu tư dự án nhà ở xã hội hơn 1.300 tỷ đồng",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554301.714158,
-        "link": "https://cafef.vn/bac-ninh-tim-chu-dau-tu-du-an-nha-o-xa-hoi-hon-1300-ty-dong-188260720095649873.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Nguồn cung căn hộ cao cấp áp đảo, chủ đầu tư bước vào “cuộc đua” mới",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554300.714158,
-        "link": "https://cafef.vn/nguon-cung-can-ho-cao-cap-ap-dao-chu-dau-tu-buoc-vao-cuoc-dua-moi-188260720104655857.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Tây Hồ Tây vẫn là \"thủ phủ\" căn hộ cho thuê cao cấp, dự án nào là tâm điểm của BĐS dòng tiền?",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554299.714158,
-        "link": "https://cafef.vn/tay-ho-tay-van-la-thu-phu-can-ho-cho-thue-cao-cap-du-an-nao-la-tam-diem-cua-bds-dong-tien-188260707192115935.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Novaland dự kiến phát hành hơn 800 triệu cổ phiếu giá 10.000 đồng/cp cho cổ đông để trả nợ",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554298.714158,
-        "link": "https://cafef.vn/novaland-du-kien-phat-hanh-hon-800-trieu-co-phieu-gia-10000-dong-cp-cho-co-dong-de-tra-no-188260720112918413.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Tỉnh Quảng Ngãi chỉ đạo mới cho 2 dự án 95.000 tỷ đồng của Tập đoàn Hòa Phát",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554297.714158,
-        "link": "https://cafef.vn/tinh-quang-ngai-chi-dao-moi-cho-2-du-an-95000-ty-dong-cua-tap-doan-hoa-phat-188260720104050367.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Triệt phá ổ nhóm chuyên lừa bán vàng giả",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554296.714158,
-        "link": "https://cafef.vn/triet-pha-o-nhom-chuyen-lua-ban-vang-gia-18826072010192107.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "SCB đóng cửa một loạt chi nhánh",
-        "time": "Mon, 20 Jul 2026 13:31:49",
-        "timestamp": 1784554295.714158,
-        "link": "https://cafef.vn/scb-dong-cua-mot-loat-chi-nhanh-188260720133106955.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
