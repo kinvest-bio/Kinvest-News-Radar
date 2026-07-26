@@ -1,5 +1,85 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lâm Đồng: Công bố sản phẩm nhôm thỏi đầu tiên của Việt Nam",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089906.699178,
+        "link": "https://cafef.vn/lam-dong-cong-bo-san-pham-nhom-thoi-dau-tien-cua-viet-nam-188260726170553993.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lãnh đạo Dệt may Thành Công bị bán giải chấp cổ phiếu",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089905.699178,
+        "link": "https://cafef.vn/lanh-dao-det-may-thanh-cong-bi-ban-giai-chap-co-phieu-188260726165708695.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "100 ngày tăng tốc chuyển đổi số của ngành ngân hàng",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089904.699178,
+        "link": "https://cafef.vn/100-ngay-tang-toc-chuyen-doi-so-cua-nganh-ngan-hang-18826072616011742.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Chân dung tân Chủ tịch Eximbank: Là tiến sĩ kỹ thuật hạt nhân tại Mỹ, ghi dấu ấn tại Techcombank trong giai đoạn tăng trưởng bùng nổ",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089903.699178,
+        "link": "https://cafef.vn/chan-dung-tan-chu-tich-eximbank-la-tien-si-ky-thuat-hat-nhan-tai-my-ghi-dau-an-tai-techcombank-trong-giai-doan-tang-truong-bung-no-188260726175155725.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Đang diễn ra việc 'đi đêm' lãi suất huy động",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089902.699178,
+        "link": "https://cafef.vn/dang-dien-ra-viec-di-dem-lai-suat-huy-dong-18826072615580761.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Tất cả chủ xe máy, ô tô vi phạm giao thông có biển số sau nhanh chóng nộp phạt nguội theo Nghị định 168",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089901.699178,
+        "link": "https://cafef.vn/tat-ca-chu-xe-may-o-to-vi-pham-giao-thong-co-bien-so-sau-nhanh-chong-nop-phat-nguoi-theo-nghi-dinh-168-188260726165240343.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Trường hợp không thành lập Hội đồng kiểm tra khi tiếp nhận công chức",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089900.699178,
+        "link": "https://cafef.vn/truong-hop-khong-thanh-lap-hoi-dong-kiem-tra-khi-tiep-nhan-cong-chuc-18826072615441356.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Phó Bí thư Thành ủy Đà Nẵng Lê Trí Thanh giữ chức Phó Bí thư Thành ủy Huế",
+        "time": "Sun, 26 Jul 2026 18:18:26",
+        "timestamp": 1785089899.699178,
+        "link": "https://cafef.vn/pho-bi-thu-thanh-uy-da-nang-le-tri-thanh-giu-chuc-pho-bi-thu-thanh-uy-hue-188260726154258262.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Góc nhìn chuyên gia: Làn sóng bán giải chấp diện rộng chưa xuất hiện, rủi ro margin vẫn còn",
         "time": "Sun, 26 Jul 2026 16:45:58",
@@ -7918,85 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "BAOVIET Bank ghi nhận kết quả kinh doanh khả quan trong 6 tháng đầu năm",
-        "time": "Tue, 21 Jul 2026 08:09:19",
-        "timestamp": 1784621345.248974,
-        "link": "https://cafef.vn/baoviet-bank-ghi-nhan-ket-qua-kinh-doanh-kha-quan-trong-6-thang-dau-nam-188260720181205094.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Từ AI-enabled đến AI-native banking: bước tiến tiếp theo của ngành ngân hàng",
-        "time": "Tue, 21 Jul 2026 08:09:19",
-        "timestamp": 1784621344.248974,
-        "link": "https://cafef.vn/tu-ai-enabled-den-ai-native-banking-buoc-tien-tiep-theo-cua-nganh-ngan-hang-188260720181103007.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Từ hôm qua - 19/7, dịch vụ miễn phí cho toàn bộ người dân Việt Nam có thay đổi nếu muốn đăng ký",
-        "time": "Tue, 21 Jul 2026 08:09:19",
-        "timestamp": 1784621343.248974,
-        "link": "https://cafef.vn/tu-hom-qua-19-7-dich-vu-mien-phi-cho-toan-bo-nguoi-dan-viet-nam-co-thay-doi-neu-muon-dang-ky-188260720164657613.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Đề xuất mới về việc lập hóa đơn",
-        "time": "Tue, 21 Jul 2026 08:09:19",
-        "timestamp": 1784621342.248974,
-        "link": "https://cafef.vn/de-xuat-moi-ve-viec-lap-hoa-don-188260720194906055.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Tin vui cho người muốn mua nhà ở xã hội tại Hà Nội: Hàng chục nghìn căn hộ sắp được mở bán trong năm nay",
-        "time": "Tue, 21 Jul 2026 06:40:21",
-        "timestamp": 1784616021.153881,
-        "link": "https://cafef.vn/tin-vui-cho-nguoi-muon-mua-nha-o-xa-hoi-tai-ha-noi-hang-chuc-nghin-can-ho-sap-duoc-mo-ban-trong-nam-nay-188260721054601734.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "VN-Index \"bốc hơi\" 44 điểm, chuyên gia nhắc nhà đầu tư một điều quan trọng",
-        "time": "Tue, 21 Jul 2026 01:22:34",
-        "timestamp": 1784596954.115962,
-        "link": "https://cafef.vn/vn-index-boc-hoi-44-diem-chuyen-gia-nhac-nha-dau-tu-mot-dieu-quan-trong-188260721001558477.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cập nhật số liệu CTCK ngày 21/7: 6 công ty báo lãi nghìn tỷ, “ngôi vương” bất ngờ đổi chủ, một tên tuổi lớn giảm lãi 95%",
-        "time": "Tue, 21 Jul 2026 01:22:34",
-        "timestamp": 1784596953.115962,
-        "link": "https://cafef.vn/cap-nhat-so-lieu-ctck-ngay-21-7-6-cong-ty-bao-lai-nghin-ty-ngoi-vuong-bat-ngo-doi-chu-mot-ten-tuoi-lon-giam-lai-95-188260721003315674.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Công ty chứng khoán \"họ\" Sunshine báo lãi đột biến 800 tỷ trong quý 2",
-        "time": "Tue, 21 Jul 2026 01:22:34",
-        "timestamp": 1784596952.115962,
-        "link": "https://cafef.vn/cong-ty-chung-khoan-ho-sunshine-bao-lai-dot-bien-800-ty-trong-quy-2-188260721005840932.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
