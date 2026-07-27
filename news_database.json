@@ -1,6 +1,106 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Giá bạc dự báo biến động mạnh do quyết định lãi suất của FED và họp báo FOMC",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185592.813538,
+        "link": "https://cafef.vn/gia-bac-du-bao-bien-dong-manh-do-quyet-dinh-lai-suat-cua-fed-va-hop-bao-fomc-188260727205154658.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Một cổ phiếu chứng khoán bất ngờ được tự doanh CTCK \"gom\" hơn 500 tỷ trong phiên Index giảm 17 điểm",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185591.813538,
+        "link": "https://cafef.vn/mot-co-phieu-chung-khoan-bat-ngo-duoc-tu-doanh-ctck-gom-hon-500-ty-trong-phien-index-giam-17-diem-188260727182802785.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khởi tố nguyên Giám đốc BQL dự án đầu tư xây dựng công trình dân dụng Hải Phòng",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185590.813538,
+        "link": "https://cafef.vn/khoi-to-nguyen-giam-doc-bql-du-an-dau-tu-xay-dung-cong-trinh-dan-dung-hai-phong-188260727204729302.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bất động sản Đức Hòa - Hậu Nghĩa “đổi vận” nhờ cú hích kép từ hạ tầng và quy hoạch",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185589.813538,
+        "link": "https://cafef.vn/bat-dong-san-duc-hoa-hau-nghia-doi-van-nho-cu-hich-kep-tu-ha-tang-va-quy-hoach-188260727202450243.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "TPBank và hành trình gìn giữ những điều không thể quên",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185588.813538,
+        "link": "https://cafef.vn/tpbank-va-hanh-trinh-gin-giu-nhung-dieu-khong-the-quen-188260727193718304.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng 27/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185587.813538,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-27-7-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260727201143421.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Techcom Life củng cố vốn điều lệ lên 4.300 tỷ đồng và tăng tốc chiến lược AI-First",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185586.813538,
+        "link": "https://cafef.vn/techcom-life-cung-co-von-dieu-le-len-4300-ty-dong-va-tang-toc-chien-luoc-ai-first-188260727192937423.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "AI tái định hình nhân sự ngành Tài chính",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185585.813538,
+        "link": "https://cafef.vn/ai-tai-dinh-hinh-nhan-su-nganh-tai-chinh-188260727174103112.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá USD ngân hàng vượt 26.500 đồng",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185584.813538,
+        "link": "https://cafef.vn/gia-usd-ngan-hang-vuot-26500-dong-188260727171706109.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hàng loạt thay đổi lớn trong dự thảo Nghị định kinh doanh xăng dầu",
+        "time": "Mon, 27 Jul 2026 20:53:12",
+        "timestamp": 1785185583.813538,
+        "link": "https://cafef.vn/hang-loat-thay-doi-lon-trong-du-thao-nghi-dinh-kinh-doanh-xang-dau-188260727191138077.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "\"Cá mập\" Nguyễn Văn Nghĩa liên tục bị giải chấp cổ phiếu",
         "time": "Mon, 27 Jul 2026 18:19:48",
         "timestamp": 1785176388.055953,
@@ -7898,105 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Khối ngoại càng bán, dư nợ margin càng tăng: Điều gì ẩn sau sự trùng hợp này?",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679497.020643,
-        "link": "https://cafef.vn/khoi-ngoai-cang-ban-du-no-margin-cang-tang-dieu-gi-an-sau-su-trung-hop-nay-188260721230119931.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Không phải Mỹ, Hàn Quốc: Vì sao Tập đoàn 180 tỷ USD trao \"tấm vé 6G\" đầu tiên thế giới cho Việt Nam?",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679496.020643,
-        "link": "https://cafef.vn/khong-phai-my-han-quoc-vi-sao-tap-doan-180-ty-usd-trao-tam-ve-6g-dau-tien-the-gioi-cho-viet-nam-188260721235151042.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sân vận động lớn nhất thế giới dần thành hình sau hơn nửa năm thi công, khán đài 135.000 chỗ lộ diện",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679495.020643,
-        "link": "https://cafef.vn/qua-nhanh-san-van-dong-lon-nhat-the-gioi-dan-thanh-hinh-sau-hon-nua-nam-thi-cong-khan-dai-135000-cho-lo-dien-ket-noi-bang-dai-lo-rong-gap-ba-duong-bang-san-bay-188260720221855642.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Cuộc chơi “lướt sóng” hạ màn: Ai còn ở lại trên thị trường căn hộ?",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679494.020643,
-        "link": "https://cafef.vn/cuoc-choi-luot-song-ha-man-ai-con-o-lai-tren-thi-truong-can-ho-188260721231425543.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Một “ông lớn” xăng dầu sắp chi hơn 1.500 tỷ đồng trả cổ tức, cổ phiếu giảm 1 nửa từ đỉnh",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679493.020643,
-        "link": "https://cafef.vn/mot-ong-lon-xang-dau-sap-chi-hon-1500-ty-dong-tra-co-tuc-co-phieu-giam-1-nua-tu-dinh-188260722001806469.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Doanh thu một quý chỉ 140 triệu đồng, công ty ô tô của đại gia Nguyễn Duy Kiên kỳ vọng xoay chuyển bằng đơn hàng 1.000 xe điện",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679492.020643,
-        "link": "https://cafef.vn/doanh-thu-mot-quy-chi-140-trieu-dong-cong-ty-o-to-cua-dai-gia-nguyen-duy-kien-ky-vong-xoay-chuyen-bang-don-hang-1000-xe-dien-188260722000854195.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cổ phiếu tăng 40% trong 1 ngày, gia đình doanh nhân gốc Hoa sở hữu khối tài sản gần 5.000 tỷ đồng",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679491.020643,
-        "link": "https://cafef.vn/co-phieu-tang-40-trong-1-ngay-gia-dinh-doanh-nhan-goc-hoa-so-huu-khoi-tai-san-gan-5000-ty-dong-188260722000613944.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hòa Phát đã cung ứng gần 7.000 tấn sản phẩm cho các siêu dự án APEC tại Phú Quốc",
-        "time": "Wed, 22 Jul 2026 00:18:19",
-        "timestamp": 1784679490.020643,
-        "link": "https://cafef.vn/hoa-phat-da-cung-ung-gan-7000-tan-san-pham-cho-cac-sieu-du-an-apec-tai-phu-quoc-188260722000445883.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Thắng kiện sau nhiều năm tranh chấp, công ty thành viên Novaland (NVL) vẫn \"mắc kẹt\" với dự án Khu dân cư 7/5",
-        "time": "Tue, 21 Jul 2026 22:54:49",
-        "timestamp": 1784674489.968577,
-        "link": "https://cafef.vn/thang-kien-sau-nhieu-nam-tranh-chap-cong-ty-thanh-vien-novaland-nvl-van-mac-ket-voi-du-an-khu-dan-cu-7-5-188260721222422732.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hà Nội gia hạn sử dụng đất cho Công ty cổ phần Giầy Thuỵ Khuê",
-        "time": "Tue, 21 Jul 2026 22:54:49",
-        "timestamp": 1784674488.968577,
-        "link": "https://cafef.vn/ha-noi-gia-han-su-dung-dat-cho-cong-ty-co-phan-giay-thuy-khue-188260721213343845.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
