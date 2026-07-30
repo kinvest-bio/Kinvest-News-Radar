@@ -1,5 +1,105 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "VN-Index bật tăng gần 80 điểm sau 3 phiên, chuyên gia nói gì về khả năng thị trường tạo đáy?",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461088.2237,
+        "link": "https://cafef.vn/vn-index-bat-tang-gan-80-diem-sau-3-phien-chuyen-gia-noi-gi-ve-kha-nang-thi-truong-tao-day-18826073022252631.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Hơn 13.000 tỷ đổ vào tài khoản của “đại gia” bán lẻ hàng đầu Việt Nam, chuyện gì đang xảy ra?",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461087.2237,
+        "link": "https://cafef.vn/hon-13000-ty-do-vao-tai-khoan-cua-dai-gia-ban-le-hang-dau-viet-nam-chuyen-gi-dang-xay-ra-18826073022452682.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Thua lỗ tiền ảo, một bác sĩ đi trộm vàng và nhận án 11 năm tù",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461086.2237,
+        "link": "https://cafef.vn/thua-lo-tien-ao-mot-bac-si-di-trom-vang-va-nhan-an-11-nam-tu-188260731004215225.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Sếp FPT nói gì về đột phá máy quang khắc DUV từ Trung Quốc?",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461085.2237,
+        "link": "https://cafef.vn/sep-fpt-noi-gi-ve-dot-pha-may-quang-khac-duv-tu-trung-quoc-188260730222653892.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Chứng khoán Việt Nam sẽ ra sao sau phiên bứt phá 40 điểm?",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461084.2237,
+        "link": "https://cafef.vn/chung-khoan-viet-nam-se-ra-sao-sau-phien-but-pha-40-diem-188260730223239842.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Cập nhật BCTC quý 2/2026 sáng ngày 30/7: Vingroup, Vietcombank, Vietjet, Thế giới di động và loạt ông lớn dồn dập công bố, PNJ báo lỗ",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461083.2237,
+        "link": "https://cafef.vn/cap-nhat-bctc-quy-2-2026-sang-ngay-30-7-vingroup-vietcombank-vietjet-the-gioi-di-dong-va-loat-ong-lon-don-dap-cong-bo-pnj-bao-lo-188260731001224918.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "THACO của ông Trần Bá Dương báo lãi gấp đôi lên hơn 7.000 tỷ, tổng tài sản tiến sát 235.000 tỷ đồng, xếp sau Sovico và bằng 1/5 Vingroup",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461082.2237,
+        "link": "https://cafef.vn/thaco-cua-ong-tran-ba-duong-bao-lai-gap-doi-len-hon-7000-ty-tong-tai-san-tien-sat-235000-ty-dong-xep-sau-sovico-va-bang-1-5-vingroup-18826073022582747.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vingroup lãi sau thuế 20.375 tỷ đồng trong 6T2026, gấp 4,5 lần cùng kỳ",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461081.2237,
+        "link": "https://cafef.vn/vingroup-lai-sau-thue-20375-ty-dong-trong-6t2026-gap-45-lan-cung-ky-188260731000021474.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "\"Đại gia\" thứ 3 ở Việt Nam cán mốc tài sản 1 triệu tỷ đồng đang nắm gì trong tay: Tiền nhiều chưa từng có",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461080.2237,
+        "link": "https://cafef.vn/dai-gia-thu-3-o-viet-nam-can-moc-tai-san-1-trieu-ty-dong-dang-nam-gi-trong-tay-tien-nhieu-chua-tung-co-1882607302301045.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Sau Nghệ An, Tiền Giang, 'gã khổng lồ' sản xuất thép từ Trung Quốc hé lộ kế hoạch rót tiếp hơn 9.000 tỷ đồng: Phía Việt Nam hồi đáp ra sao?",
+        "time": "Fri, 31 Jul 2026 01:24:48",
+        "timestamp": 1785461079.2237,
+        "link": "https://cafef.vn/sau-nghe-an-tien-giang-ga-khong-lo-san-xuat-thep-tu-trung-quoc-he-lo-ke-hoach-rot-tiep-hon-9000-ty-dong-phia-viet-nam-hoi-dap-ra-sao-188260730234603082.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Ngân hàng",
         "title": "Tài chính - ngân hàng",
         "time": "Fri, 31 Jul 2026 00:00:07",
@@ -7898,105 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Toàn cảnh 4 tuyến đường trị giá gần 8.300 tỷ ở bán đảo Thủ Thiêm: Dang dở 12 năm, phấn đấu hoàn thành trong vài tháng nữa",
-        "time": "Sat, 25 Jul 2026 05:17:31",
-        "timestamp": 1784956651.120691,
-        "link": "https://cafef.vn/toan-canh-4-tuyen-duong-tri-gia-gan-8300-ty-o-ban-dao-thu-thiem-dang-do-12-nam-phan-dau-hoan-thanh-trong-vai-thang-nua-18826072201253673.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Đại hội đồng cổ đông ấn tượng: SHB và câu chuyện phía sau một kỳ AGM “đậm chất thương hiệu”",
-        "time": "Sat, 25 Jul 2026 02:54:47",
-        "timestamp": 1784948087.989747,
-        "link": "https://cafef.vn/dai-hoi-dong-co-dong-an-tuong-shb-va-cau-chuyen-phia-sau-mot-ky-agm-dam-chat-thuong-hieu-18826060208093784.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "\"Cá mập\" Nguyễn Văn Nghĩa bị giải chấp cổ phiếu",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942516.327558,
-        "link": "https://cafef.vn/ca-map-nguyen-van-nghia-bi-giai-chap-co-phieu-188260725004948531.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Doanh nghiệp của ông Johnathan Hạnh Nguyễn \"chơi lớn\" chi hơn 500 tỷ đồng trả cổ tức",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942515.327558,
-        "link": "https://cafef.vn/doanh-nghiep-cua-ong-johnathan-hanh-nguyen-choi-lon-chi-hon-500-ty-dong-tra-co-tuc-188260724232512584.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Khối ngoại bán ròng gần 4.000 tỷ đồng tuần VN-Index bay 100 điểm, cổ phiếu nào là tâm điểm xả hàng?",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942514.327558,
-        "link": "https://cafef.vn/khoi-ngoai-ban-rong-gan-4000-ty-dong-tuan-vn-index-bay-100-diem-co-phieu-nao-la-tam-diem-xa-hang-188260725002938646.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Biến căng: Chỉ trong 3 tuần, cổ phiếu PNJ 2 lần lập kỷ lục thanh khoản, 'trao tay' hơn 13% cổ phần",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942513.327558,
-        "link": "https://cafef.vn/bien-cang-chi-trong-3-tuan-co-phieu-pnj-2-lan-lap-ky-luc-thanh-khoan-trao-tay-hon-13-co-phan-188260725003720261.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chứng khoán VIX sắp trả cổ tức",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942512.327558,
-        "link": "https://cafef.vn/chung-khoan-vix-sap-tra-co-tuc-188260725003656591.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Profile đỉnh của chuyên viên tài chính vừa trở thành Chủ tịch PC1 ở tuổi 27: Tốt nghiệp đại học tại Mỹ, từng làm tại KPMG và Vietcap",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942511.327558,
-        "link": "https://cafef.vn/profile-dinh-cua-chuyen-vien-tai-chinh-vua-tro-thanh-chu-tich-pc1-o-tuoi-27-tot-nghiep-dai-hoc-tai-my-tung-lam-tai-kpmg-va-vietcap-18826072500202868.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Tổng Giám đốc Mai Kiều Liên nhận Huân chương Độc lập hạng Ba",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942510.327558,
-        "link": "https://cafef.vn/tong-giam-doc-mai-kieu-lien-nhan-huan-chuong-doc-lap-hang-ba-188260725001852263.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cập nhật BCTC quý 2/2026 ngày 25/7: DN cao su, dược phẩm báo lãi tăng bằng lần, DN phân bón báo lãi giảm 87%",
-        "time": "Sat, 25 Jul 2026 01:21:56",
-        "timestamp": 1784942509.327558,
-        "link": "https://cafef.vn/cap-nhat-bctc-quy-2-2026-ngay-25-7-dn-cao-su-duoc-pham-bao-lai-tang-bang-lan-dn-phan-bon-bao-lai-giam-87-188260725005728275.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
