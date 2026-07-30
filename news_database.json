@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "PNJ bất ngờ lỗ gần 300 tỷ quý 2, nắm 4.000 tỷ tiền mặt trước biến cố kim cương",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442495.951425,
+        "link": "https://cafef.vn/pnj-bat-ngo-lo-gan-300-ty-quy-2-nam-4000-ty-tien-mat-truoc-bien-co-kim-cuong-188260730194423193.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Vinpearl báo lãi nửa đầu năm cao gấp 8 lần cùng kỳ",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442494.951425,
+        "link": "https://cafef.vn/vinpearl-bao-lai-nua-dau-nam-cao-gap-8-lan-cung-ky-188260730182718246.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khởi công The Westique Residences: Tín hiệu mới cho dòng căn hộ boutique khu Tây",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442493.951425,
+        "link": "https://cafef.vn/khoi-cong-the-westique-residences-tin-hieu-moi-cho-dong-can-ho-boutique-khu-tay-188260730091955568.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Thung lũng Mường Hoa: Nơi \"bất động sản di sản\" được kiến tạo",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442492.951425,
+        "link": "https://cafef.vn/thung-lung-muong-hoa-noi-bat-dong-san-di-san-duoc-kien-tao-188260724144501858.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Quá nhanh: Hãng taxi của tỷ phú Phạm Nhật Vượng chính thức có mặt tại châu Âu",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442491.951425,
+        "link": "https://cafef.vn/qua-nhanh-hang-taxi-cua-ty-phu-pham-nhat-vuong-chinh-thuc-co-mat-tai-chau-au-188260730200912227.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vinpearl báo lãi sau thuế 6T2026 đạt 2.100 tỷ đồng, gấp 8 lần cùng kỳ",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442490.951425,
+        "link": "https://cafef.vn/vinpearl-bao-lai-sau-thue-6t2026-dat-2100-ty-dong-gap-8-lan-cung-ky-188260730183721335.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026: Vietcombank gây bất ngờ lớn",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442489.951425,
+        "link": "https://cafef.vn/toan-canh-loi-nhuan-cua-27-ngan-hang-trong-6-thang-dau-nam-2026-vietcombank-gay-bat-ngo-lon-188260730152540587.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Moody’s nâng triển vọng TPBank lên “Tích cực” giữa đà tăng trưởng bán niên",
+        "time": "Thu, 30 Jul 2026 20:14:55",
+        "timestamp": 1785442488.951425,
+        "link": "https://cafef.vn/moodys-nang-trien-vong-tpbank-len-tich-cuc-giua-da-tang-truong-ban-nien-188260730180623705.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Một thế lực vừa \"xả\" gần 200 tỷ đồng trong phiên Index tăng 40 điểm",
         "time": "Thu, 30 Jul 2026 18:33:42",
         "timestamp": 1785436422.530512,
@@ -7918,85 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "MSB bổ nhiệm thêm một Phó Tổng Giám đốc, tiếp tục kiện toàn nhân sự cấp cao",
-        "time": "Fri, 24 Jul 2026 20:06:27",
-        "timestamp": 1784923584.031575,
-        "link": "https://cafef.vn/msb-bo-nhiem-them-mot-pho-tong-giam-doc-tiep-tuc-kien-toan-nhan-su-cap-cao-188260724180805959.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Cảnh tượng lạ tại tiệm vàng Mi Hồng ở TP.HCM sau nhiều phiên giá vàng giảm mạnh",
-        "time": "Fri, 24 Jul 2026 20:06:27",
-        "timestamp": 1784923583.031575,
-        "link": "https://cafef.vn/canh-tuong-la-tai-tiem-vang-mi-hong-o-tphcm-sau-nhieu-phien-gia-vang-giam-manh-188260724154543832.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cổ phiếu PNJ được “giải cứu” hơn 1.270 tỷ đồng nhưng vẫn nằm sàn, VN-Index đỏ lửa phiên cuối tuần",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918480.836641,
-        "link": "https://cafef.vn/co-phieu-pnj-duoc-giai-cuu-hon-1270-ty-dong-nhung-van-nam-san-vn-index-do-lua-phien-cuoi-tuan-188260724183238563.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cẩn trọng với lời mời đầu tư tài chính, tiền ảo từ người lạ trên mạng xã hội",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918479.836641,
-        "link": "https://cafef.vn/can-trong-voi-loi-moi-dau-tu-tai-chinh-tien-ao-tu-nguoi-la-tren-mang-xa-hoi-188260724164727225.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "PC1 có Chủ tịch HĐQT mới",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918478.836641,
-        "link": "https://cafef.vn/pc1-co-chu-tich-hdqt-moi-188260724142001954.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hodeco Hub \"bắt tay\" Vinhomes Cần Giờ, đón đầu hạ tầng cầu vượt biển",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918477.836641,
-        "link": "https://cafef.vn/hodeco-hub-bat-tay-vinhomes-can-gio-don-dau-ha-tang-cau-vuot-bien-188260724160720971.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "VIMID động thổ nhà máy VMASS - Đánh dấu mốc chuyển mình chiến lược",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918476.836641,
-        "link": "https://cafef.vn/vimid-dong-tho-nha-may-vmass-danh-dau-moc-chuyen-minh-chien-luoc-188260724172643111.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Trung ương thông qua chủ trương thành lập thành phố Quảng Ninh và Bắc Ninh",
-        "time": "Fri, 24 Jul 2026 18:41:20",
-        "timestamp": 1784918475.836641,
-        "link": "https://cafef.vn/trung-uong-thong-qua-chu-truong-thanh-lap-thanh-pho-quang-ninh-va-bac-ninh-188260724175650048.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
