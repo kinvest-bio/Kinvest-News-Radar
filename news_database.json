@@ -1,5 +1,45 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Xuất hiện nhà ở xã hội giá từ 1,1 tỷ đồng/căn tại Hà Nội",
+        "time": "Sun, 02 Aug 2026 18:41:52",
+        "timestamp": 1785696112.291093,
+        "link": "https://cafef.vn/xuat-hien-nha-o-xa-hoi-gia-tu-11-ty-dong-can-tai-ha-noi-188260802161009014.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+        "time": "Sun, 02 Aug 2026 18:41:52",
+        "timestamp": 1785696111.291093,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-2-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260802182229327.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Một ngân hàng chấm dứt hoạt động 10 Phòng giao dịch",
+        "time": "Sun, 02 Aug 2026 18:41:52",
+        "timestamp": 1785696110.291093,
+        "link": "https://cafef.vn/mot-ngan-hang-cham-dut-hoat-dong-10-phong-giao-dich-188260802175101372.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Vành đai 1 Hà Nội tăng tốc về đích, tuyến đường nghìn tỷ dần lộ diện",
+        "time": "Sun, 02 Aug 2026 18:41:52",
+        "timestamp": 1785696109.291093,
+        "link": "https://cafef.vn/vanh-dai-1-ha-noi-tang-toc-ve-dich-tuyen-duong-nghin-ty-dan-lo-dien-188260802163935238.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Một cổ phiếu \"quốc dân\" bất ngờ bị 19 quỹ cùng \"xả hàng\"",
         "time": "Sun, 02 Aug 2026 17:21:01",
@@ -7955,46 +7995,6 @@
         "time": "Mon, 27 Jul 2026 20:53:12",
         "timestamp": 1785185585.813538,
         "link": "https://cafef.vn/ai-tai-dinh-hinh-nhan-su-nganh-tai-chinh-188260727174103112.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá USD ngân hàng vượt 26.500 đồng",
-        "time": "Mon, 27 Jul 2026 20:53:12",
-        "timestamp": 1785185584.813538,
-        "link": "https://cafef.vn/gia-usd-ngan-hang-vuot-26500-dong-188260727171706109.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Hàng loạt thay đổi lớn trong dự thảo Nghị định kinh doanh xăng dầu",
-        "time": "Mon, 27 Jul 2026 20:53:12",
-        "timestamp": 1785185583.813538,
-        "link": "https://cafef.vn/hang-loat-thay-doi-lon-trong-du-thao-nghi-dinh-kinh-doanh-xang-dau-188260727191138077.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "\"Cá mập\" Nguyễn Văn Nghĩa liên tục bị giải chấp cổ phiếu",
-        "time": "Mon, 27 Jul 2026 18:19:48",
-        "timestamp": 1785176388.055953,
-        "link": "https://cafef.vn/ca-map-nguyen-van-nghia-lien-tuc-bi-giai-chap-co-phieu-188260727153117443.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "VietinBank Capital nâng sở hữu tại Petrosetco lên hơn 17%",
-        "time": "Mon, 27 Jul 2026 18:19:48",
-        "timestamp": 1785176387.055953,
-        "link": "https://cafef.vn/vietinbank-capital-nang-so-huu-tai-petrosetco-len-hon-17-18826072716511241.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
