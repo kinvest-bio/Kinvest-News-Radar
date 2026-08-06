@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Một doanh nghiệp sắp trả cổ tức 3.000 đồng/cp, duy trì “mưa tiền mặt” suốt 15 năm qua",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053183.967566,
+        "link": "https://cafef.vn/mot-doanh-nghiep-sap-tra-co-tuc-3000-dong-cp-duy-tri-mua-tien-mat-suot-15-nam-qua-188260806210848211.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Thu chục nghìn tỷ từ bán vé số, công ty xổ số chi trả thưởng thế nào?",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053182.967566,
+        "link": "https://cafef.vn/thu-chuc-nghin-ty-tu-ban-ve-so-cong-ty-xo-so-chi-tra-thuong-the-nao-188260806215217539.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Thế hệ “hoàng tử”, “công chúa” ngồi ghế nóng doanh nghiệp gia đình: Đằng sau ánh hào quang",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053181.967566,
+        "link": "https://cafef.vn/the-he-hoang-tu-cong-chua-ngoi-ghe-nong-doanh-nghiep-gia-dinh-dang-sau-anh-hao-quang-188260806192710977.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "MobiWifi 5G – Giải pháp Internet thế hệ mới: Lắp đặt siêu nhanh, kết nối linh hoạt",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053180.967566,
+        "link": "https://cafef.vn/mobiwifi-5g-giai-phap-internet-the-he-moi-lap-dat-sieu-nhanh-ket-noi-linh-hoat-188260806194131382.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hãng xe của tỷ phú Phạm Nhật Vượng cán mốc 60 đại lý tại quốc gia 1,4 tỷ dân",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053179.967566,
+        "link": "https://cafef.vn/hang-xe-cua-ty-phu-pham-nhat-vuong-can-moc-60-dai-ly-tai-quoc-gia-14-ty-dan-188260806192556508.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Cuộc đua ngầm lãi suất tiết kiệm: Có ngân hàng lớn niêm yết 6% nhưng thực trả tới 9%/năm",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053178.967566,
+        "link": "https://cafef.vn/cuoc-dua-ngam-lai-suat-tiet-kiem-co-ngan-hang-lon-niem-yet-63-nhung-thuc-tra-toi-9-nam-188260806201859441.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lan ‘đột biến’, cây cảnh trăm tỷ: Có dấu hiệu rửa tiền không?",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053177.967566,
+        "link": "https://cafef.vn/lan-dot-bien-cay-canh-tram-ty-co-dau-hieu-rua-tien-khong-188260806194115486.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "VPBank \"cảnh báo đỏ\" về rủi ro lừa đảo gắn mác \"vé nội bộ\"",
+        "time": "Thu, 06 Aug 2026 21:53:03",
+        "timestamp": 1786053176.967566,
+        "link": "https://cafef.vn/vpbank-canh-bao-do-ve-rui-ro-lua-dao-gan-mac-ve-noi-bo-18826080618294547.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Công ty con của HAGL chốt thời gian IPO 18,8 triệu cổ phiếu",
         "time": "Thu, 06 Aug 2026 19:18:45",
         "timestamp": 1786043925.988828,
@@ -7915,86 +7995,6 @@
         "time": "Fri, 31 Jul 2026 16:33:03",
         "timestamp": 1785515558.099384,
         "link": "https://cafef.vn/chu-nhan-ngua-vang-10-luong-sjc-lo-dien-vikki-digital-bank-tiep-tuc-khai-cuoc-mua-bong-vang-ky-188260731151435283.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Chủ tịch MB: Sẵn sàng mở nguồn lực để cùng tri thức Việt toàn cầu kiến tạo giá trị cho Việt Nam",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515557.099384,
-        "link": "https://cafef.vn/chu-tich-mb-san-sang-mo-nguon-luc-de-cung-tri-thuc-viet-toan-cau-kien-tao-gia-tri-cho-viet-nam-188260731151358895.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Phó Thủ tướng chỉ đạo Bộ KH&CN và tỉnh Hưng Yên cần làm ngay việc này trước 5/8",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515556.099384,
-        "link": "https://cafef.vn/pho-thu-tuong-chi-dao-bo-khcn-va-tinh-hung-yen-can-lam-ngay-viec-nay-truoc-5-8-188260731141938817.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Đường hơn 1km ở Hà Nội dang dở gần 10 năm, dân sống mòn mỏi trong vùng quy hoạch",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515555.099384,
-        "link": "https://cafef.vn/duong-hon-1km-o-ha-noi-dang-do-gan-10-nam-dan-song-mon-moi-trong-vung-quy-hoach-188260731151122252.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chấm dứt hợp đồng nhà đầu tư trạm dừng nghỉ chậm tiến độ",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515554.099384,
-        "link": "https://cafef.vn/cham-dut-hop-dong-nha-dau-tu-tram-dung-nghi-cham-tien-do-18826073114232477.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Bộ Nội vụ đang nghiên cứu, tiếp tục đề xuất chính sách tiền lương cho cán bộ, công chức",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515553.099384,
-        "link": "https://cafef.vn/bo-noi-vu-dang-nghien-cuu-tiep-tuc-de-xuat-chinh-sach-tien-luong-cho-can-bo-cong-chuc-188260731144210945.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Đổ xô săn vé máy bay đến tỉnh lớn nhất Việt Nam, chuyện gì đang xảy ra?",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515552.099384,
-        "link": "https://cafef.vn/do-xo-san-ve-may-bay-den-tinh-lon-nhat-viet-nam-chuyen-gi-dang-xay-ra-188260731135220502.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Hội đàm xây cầu đường bộ qua biên giới Việt - Trung tại Lai Châu",
-        "time": "Fri, 31 Jul 2026 16:33:03",
-        "timestamp": 1785515551.099384,
-        "link": "https://cafef.vn/hoi-dam-xay-cau-duong-bo-qua-bien-gioi-viet-trung-tai-lai-chau-188260731135303063.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "ĐHĐCĐ CC1: Mục tiêu doanh thu hơn 18.600 tỷ, hai gương mặt mới vào HĐQT",
-        "time": "Fri, 31 Jul 2026 13:42:52",
-        "timestamp": 1785505372.582853,
-        "link": "https://cafef.vn/dhdcd-cc1-muc-tieu-doanh-thu-hon-18600-ty-hai-guong-mat-moi-vao-hdqt-188260731124630051.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
