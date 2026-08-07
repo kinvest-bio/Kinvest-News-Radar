@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Tịch thu 39 thỏi vàng trị giá 29 tỷ đồng buôn lậu qua biên giới bằng xe máy",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123506.050284,
+        "link": "https://cafef.vn/tich-thu-39-thoi-vang-tri-gia-29-ty-dong-buon-lau-qua-bien-gioi-bang-xe-may-188260807164240729.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "9 trụ cầu Hồng Hà dần lộ diện giữa sông Hồng",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123505.050284,
+        "link": "https://cafef.vn/9-tru-cau-hong-ha-dan-lo-dien-giua-song-hong-18826080715334212.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp có doanh thu đến 10 tỷ đồng",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123504.050284,
+        "link": "https://cafef.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-co-doanh-thu-den-10-ty-dong-188260807154630204.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "2 ngày trước - 5/8, sân bay Tân Sơn Nhất ghi nhận một máy bay lạ cất cánh",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123503.050284,
+        "link": "https://cafef.vn/2-ngay-truoc-5-8-san-bay-tan-son-nhat-ghi-nhan-mot-may-bay-la-cat-canh-188260807164220611.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bài toán giữ chân người tài không chỉ nằm ở lương thưởng",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123502.050284,
+        "link": "https://cafef.vn/bai-toan-giu-chan-nguoi-tai-khong-chi-nam-o-luong-thuong-188260807161503303.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giải mã bộ 3 trụ cột giúp TPBank liên tục trụ vững Top 10 Ngân hàng tư nhân uy tín",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123501.050284,
+        "link": "https://cafef.vn/giai-ma-bo-3-tru-cot-giup-tpbank-lien-tuc-tru-vung-top-10-ngan-hang-tu-nhan-uy-tin-1882608071615404.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "TPHCM chuẩn bị khởi công nhiều dự án dịp Quốc khánh 2/9",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123500.050284,
+        "link": "https://cafef.vn/tphcm-chuan-bi-khoi-cong-nhieu-du-an-dip-quoc-khanh-2-9-188260807144233215.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đề xuất giảm 30% thuế cho hộ kinh doanh, doanh nghiệp thu dưới 10 tỷ đồng",
+        "time": "Fri, 07 Aug 2026 17:25:06",
+        "timestamp": 1786123499.050284,
+        "link": "https://cafef.vn/de-xuat-giam-30-thue-cho-ho-kinh-doanh-doanh-nghiep-thu-duoi-10-ty-dong-188260807160012158.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Một chủ tịch giữ lời, mua hết lượng cổ phiếu đã đăng ký",
         "time": "Fri, 07 Aug 2026 16:16:07",
         "timestamp": 1786119367.713943,
@@ -7915,86 +7995,6 @@
         "time": "Sat, 01 Aug 2026 15:41:16",
         "timestamp": 1785598875.410039,
         "link": "https://cafef.vn/sieu-thap-doi-99-tang-do-thaiholdings-va-cong-ty-thuoc-vingroup-de-xuat-se-nam-o-dau-tren-ban-do-nhung-toa-thap-doi-cao-nhat-the-gioi-188260801153546004.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Một công trình của Việt Nam tiếp tục lọt top kiến trúc đẹp nhất thế giới năm 2026, đứng cùng loạt biểu tượng kinh điển toàn cầu như đền Taj Mahal, Kim tự tháp Giza...",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598874.410039,
-        "link": "https://cafef.vn/mot-cong-trinh-cua-viet-nam-tiep-tuc-lot-top-kien-truc-dep-nhat-the-gioi-nam-2026-dung-cung-loat-bieu-tuong-kinh-dien-toan-cau-nhu-den-taj-mahal-kim-tu-thap-giza-188260801153501776.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hà Nội: Diện mạo công viên An Hòa vừa 'thay tên, đổi họ'",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598873.410039,
-        "link": "https://cafef.vn/ha-noi-dien-mao-cong-vien-an-hoa-vua-thay-ten-doi-ho-188260801115148998.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Lộ diện bộ sưu tập tư dinh độc bản, đón chu kỳ tăng trưởng mới của Quy Nhơn",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598872.410039,
-        "link": "https://cafef.vn/lo-dien-bo-suu-tap-tu-dinh-doc-ban-don-chu-ky-tang-truong-moi-cua-quy-nhon-188260801093824765.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Nguyên Phó Chủ tịch huyện cùng 11 thuộc cấp lĩnh án tù vì đất đai",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598871.410039,
-        "link": "https://cafef.vn/nguyen-pho-chu-tich-huyen-cung-11-thuoc-cap-linh-an-tu-vi-dat-dai-188260801114440391.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Cà Ná New City chính thức bung bảng hàng đợt 1: Tài Sản ven biển chỉ từ 570 triệu",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598870.410039,
-        "link": "https://cafef.vn/ca-na-new-city-chinh-thuc-bung-bang-hang-dot-1-tai-san-ven-bien-chi-tu-570-trieu-188260801121614501.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Bà Phạm Thị Huyền Trang làm Tổng Giám đốc Eximbank từ hôm nay (1/8)",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598869.410039,
-        "link": "https://cafef.vn/ba-pham-thi-huyen-trang-lam-tong-giam-doc-eximbank-tu-hom-ngay-1-8-188260801151516876.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Lâm Đồng quy hoạch đô thị du lịch biển gần 32.000 ha",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598868.410039,
-        "link": "https://cafef.vn/lam-dong-quy-hoach-do-thi-du-lich-bien-gan-32000-ha-188260801133454053.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Khi nào được đóng bù BHXH để hưởng chế độ hưu?",
-        "time": "Sat, 01 Aug 2026 15:41:16",
-        "timestamp": 1785598867.410039,
-        "link": "https://cafef.vn/khi-nao-duoc-dong-bu-bhxh-de-huong-che-do-huu-188260801150105442.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
