@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Giá vàng tăng mạnh, quỹ vàng lớn nhất thế giới có động thái mới",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189197.986422,
+        "link": "https://cafef.vn/gia-vang-tang-manh-quy-vang-lon-nhat-the-gioi-co-dong-thai-moi-188260808112059938.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Giá vàng nhẫn tăng cao hơn vàng miếng",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189196.986422,
+        "link": "https://cafef.vn/gia-vang-nhan-tang-cao-hon-vang-mieng-188260808111711072.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Tuấn Anh Group (V68) báo lãi tăng 200% trước thềm đưa cổ phiếu lên sàn",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189195.986422,
+        "link": "https://cafef.vn/tuan-anh-group-v68-bao-lai-tang-200-truoc-them-dua-co-phieu-len-san-188260808110334298.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khu nghỉ dưỡng \"kỳ lạ\" tựa mình vào dãy núi đá vôi ở Phong Nha: Đường đi bằng tre, nội thất bằng gỗ tái chế, du khách như bước vào vùng đất cổ xưa",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189194.986422,
+        "link": "https://cafef.vn/khu-nghi-duong-ky-la-tua-minh-vao-day-nui-da-voi-o-phong-nha-duong-di-bang-tre-noi-that-bang-go-tai-che-du-khach-nhu-buoc-vao-vung-dat-co-xua-188260808111255307.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Thiết kế nhà tối ưu công năng cho ngân sách hạn chế",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189193.986422,
+        "link": "https://cafef.vn/thiet-ke-nha-toi-uu-cong-nang-cho-ngan-sach-han-che-188260808110926239.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Mưa lớn vượt công suất thiết kế, Hà Nội giải bài toán chống ngập ra sao?",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189192.986422,
+        "link": "https://cafef.vn/mua-lon-vuot-cong-suat-thiet-ke-ha-noi-giai-bai-toan-chong-ngap-ra-sao-188260808110810357.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lợi nhuận “Vua sữa đậu nành” Việt Nam tăng trưởng hơn 34%, công ty mẹ sắp chi gần 368 tỷ đồng trả cổ tức trong tháng 8",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189191.986422,
+        "link": "https://cafef.vn/loi-nhuan-vua-sua-dau-nanh-viet-nam-tang-truong-hon-34-cong-ty-me-sap-chi-gan-368-ty-dong-tra-co-tuc-trong-thang-8-188260808113420348.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cơ quan Thuế thông báo: Tạm hoãn xuất cảnh đối với tất cả những ai nằm trong danh sách sau đây",
+        "time": "Sat, 08 Aug 2026 11:39:57",
+        "timestamp": 1786189190.986422,
+        "link": "https://cafef.vn/co-quan-thue-thong-bao-tam-hoan-xuat-canh-doi-voi-tat-ca-nhung-ai-nam-trong-danh-sach-sau-day-188260808101705073.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Idico tăng vốn điều lệ lên hơn 4.100 tỷ đồng sau trả cổ tức",
         "time": "Sat, 08 Aug 2026 10:42:52",
         "timestamp": 1786185772.410693,
@@ -7918,85 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sửa Luật Đất đai: Đề xuất 2 phương án về quy hoạch, kế hoạch sử dụng đất",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667278.362307,
-        "link": "https://cafef.vn/sua-luat-dat-dai-de-xuat-2-phuong-an-ve-quy-hoach-ke-hoach-su-dung-dat-188260802065542313.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chung cư có thời hạn sử dụng: Người mua nhà và cả chủ đầu tư phải thay đổi",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667277.362307,
-        "link": "https://cafef.vn/chung-cu-co-thoi-han-su-dung-nguoi-mua-nha-va-ca-chu-dau-tu-phai-thay-doi-188260802065443951.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Lý do Bộ Xây dựng 'phải tiêu' hơn 26.000 tỷ trong 5 tháng",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667276.362307,
-        "link": "https://cafef.vn/ly-do-bo-xay-dung-phai-tieu-hon-26000-ty-trong-5-thang-188260802065238724.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Việt Nam sở hữu công trình làm từ vật liệu được nhắc tới nhiều trong truyện cổ tích, có quy mô, độc đáo bậc nhất Đông Nam Á",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667275.362307,
-        "link": "https://cafef.vn/viet-nam-so-huu-cong-trinh-lam-tu-vat-lieu-duoc-nhac-toi-nhieu-trong-truyen-co-tich-co-quy-mo-doc-dao-bac-nhat-dong-nam-a-188260802071638437.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chuẩn bị thu hồi hơn 500 ha đất tại Thành phố nhỏ nhất Việt Nam để triển khai loạt dự án, công trình",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667274.362307,
-        "link": "https://cafef.vn/chuan-bi-thu-hoi-hon-500-ha-dat-tai-thanh-pho-nho-nhat-viet-nam-de-trien-khai-loat-du-an-cong-trinh-188260802070756927.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cuộc đua 'chạm trời' của Vingroup, BRG, Thaiholdings, Sun Group: Loạt siêu tháp cao hơn 500m xô đổ kỷ lục cũ, ai sẽ xây tòa nhà cao nhất Việt Nam?",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667273.362307,
-        "link": "https://cafef.vn/cuoc-dua-cham-troi-cua-vingroup-brg-thaiholdings-sun-group-loat-sieu-thap-cao-hon-500m-xo-do-ky-luc-cu-ai-se-xay-toa-nha-cao-nhat-viet-nam-188260802085119112.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Một công ty BĐS doanh thu lõi bằng 0, lãi đột biến gấp 93 lần cùng kỳ trong quý 2/2026",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667272.362307,
-        "link": "https://cafef.vn/mot-cong-ty-bds-doanh-thu-loi-bang-0-lai-dot-bien-gap-93-lan-cung-ky-trong-quy-2-2026-188260802085812759.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Nhà sách 50 năm tuổi lớn nhất Việt Nam: Doanh thu tăng hơn 1.100%, chiếm 50% thị phần, hiện diện tại Nhật Bản và Hàn Quốc",
-        "time": "Sun, 02 Aug 2026 10:41:24",
-        "timestamp": 1785667271.362307,
-        "link": "https://cafef.vn/nha-sach-50-nam-tuoi-lon-nhat-viet-nam-doanh-thu-tang-hon-1100-chiem-50-thi-phan-hien-dien-tai-nhat-ban-va-han-quoc-188260802085501297.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
