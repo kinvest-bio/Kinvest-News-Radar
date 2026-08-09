@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Một cổ đông lớn muốn tăng sở hữu tại Digiworld",
+        "time": "Sun, 09 Aug 2026 14:08:24",
+        "timestamp": 1786284504.378461,
+        "link": "https://cafef.vn/mot-co-dong-lon-muon-tang-so-huu-tai-digiworld-188260809135436745.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Bảo Tín Mạnh Hải: Có 7 giao dịch nhận đặt cọc vàng miếng là do bị rách vỏ bao bì, phải chuyển đến SJC để đóng lại",
+        "time": "Sun, 09 Aug 2026 14:08:24",
+        "timestamp": 1786284503.378461,
+        "link": "https://cafef.vn/bao-tin-manh-hai-co-7-giao-dich-nhan-dat-coc-vang-mieng-la-do-bi-rach-vo-bao-bi-phai-chuyen-den-sjc-de-dong-lai-188260809131314454.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "ĐBQH: Mở rộng hoạt động của ngân hàng cần phòng ngừa tình trạng 'bia kèm lạc'",
+        "time": "Sun, 09 Aug 2026 14:08:24",
+        "timestamp": 1786284502.378461,
+        "link": "https://cafef.vn/dbqh-mo-rong-hoat-dong-cua-ngan-hang-can-phong-ngua-tinh-trang-bia-kem-lac-188260809133351787.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Hà Nội triển khai tổ hợp chăm sóc sức khỏe người cao tuổi rộng hơn 9ha",
         "time": "Sun, 09 Aug 2026 12:59:28",
@@ -7968,35 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Con trai chủ tịch MSB dự chi hàng trăm tỷ mua vào cổ phiếu",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767380.536689,
-        "link": "https://cafef.vn/con-trai-chu-tich-msb-du-chi-hang-tram-ty-mua-vao-co-phieu-188260803111942123.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hòa Phát nhận hồ sơ đăng ký mua nhà ở xã hội từ tháng 8/2026, giá chỉ từ 20,8 triệu/m2",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767379.536689,
-        "link": "https://cafef.vn/hoa-phat-nhan-ho-so-dang-ky-mua-nha-o-xa-hoi-tai-hung-yen-tu-thang-8-2026-188260803111544841.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Một ngân hàng sắp trả cổ tức 15%",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767378.536689,
-        "link": "https://cafef.vn/mot-ngan-hang-sap-tra-co-tuc-15-18826080313204005.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
