@@ -1,6 +1,106 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Bảo Tín Mạnh Hải lên tiếng",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277580.854078,
+        "link": "https://cafef.vn/bao-tin-manh-hai-len-tieng-188260809120848844.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Đường Quảng Ngãi sắp chi hơn 367 tỷ đồng tạm ứng cổ tức",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277579.854078,
+        "link": "https://cafef.vn/duong-quang-ngai-sap-chi-hon-367-ty-dong-tam-ung-co-tuc-188260809102243001.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bảo Tín Mạnh Hải lên tiếng sau kết luận của Thanh tra Chính phủ",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277578.854078,
+        "link": "https://cafef.vn/bao-tin-manh-hai-len-tieng-sau-ket-luan-cua-thanh-tra-chinh-phu-188260809120813552.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Hai dự án gần 9 tỷ đồng chưa bàn giao, nhiều cây xanh đã chết: Chủ đầu tư nói gì?",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277577.854078,
+        "link": "https://cafef.vn/hai-du-an-gan-9-ty-dong-chua-ban-giao-nhieu-cay-xanh-da-chet-chu-dau-tu-noi-gi-188260809113421831.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Phòng ngừa việc ép khách hàng 'mua bia kèm lạc' khi vay vốn",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277576.854078,
+        "link": "https://cafef.vn/phong-ngua-viec-ep-khach-hang-mua-bia-kem-lac-khi-vay-von-188260809110359307.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng hôm nay (9/8): Bảo Tín Mạnh Hải, Mi Hồng niêm yết khác lạ",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277575.854078,
+        "link": "https://cafef.vn/gia-vang-hom-nay-9-8-bao-tin-manh-hai-mi-hong-niem-yet-khac-la-188260809110547923.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng miếng, vàng nhẫn ngày 9/8: SJC, Bảo Tín Mạnh Hải, DOJI,... đồng loạt tăng từ 4 - 5 triệu đồng/lượng sau 1 tuần",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277574.854078,
+        "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-ngay-9-8-sjc-bao-tin-manh-hai-doji-dong-loat-tang-tu-4-5-trieu-dong-luong-sau-1-tuan-188260809111102126.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đúng 00h20 phút, công an đồng loạt kiểm tra 82 người ở các quán internet và karaoke",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277573.854078,
+        "link": "https://cafef.vn/dung-00h20-phut-cong-an-dong-loat-kiem-tra-82-nguoi-o-cac-quan-internet-va-karaoke-188260809113756604.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hà Nội sắp có Cụm công nghiệp gần 623 tỷ đồng, quy mô 26,8 ha",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277572.854078,
+        "link": "https://cafef.vn/ha-noi-sap-co-cum-cong-nghiep-gan-623-ty-dong-quy-mo-268-ha-188260809103602805.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Chính phủ chỉ đạo khẩn trương hoàn thành sắp xếp trường học",
+        "time": "Sun, 09 Aug 2026 12:13:00",
+        "timestamp": 1786277571.854078,
+        "link": "https://cafef.vn/chinh-phu-chi-dao-khan-truong-hoan-thanh-sap-xep-truong-hoc-188260809112012479.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Cổ phiếu CC1 được đưa ra khỏi diện cảnh báo",
         "time": "Sun, 09 Aug 2026 11:00:07",
         "timestamp": 1786273207.894958,
@@ -7895,106 +7995,6 @@
         "time": "Mon, 03 Aug 2026 14:30:03",
         "timestamp": 1785767372.536689,
         "link": "https://cafef.vn/du-an-apec-vi-sao-lam-truoc-mot-so-cong-trinh-khi-chua-xong-thu-tuc-188260803133304681.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Giá xăng dầu tác động chỉ số CPI tháng 7 ra sao?",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767371.536689,
-        "link": "https://cafef.vn/gia-xang-dau-tac-dong-chi-so-cpi-thang-7-ra-sao-188260803133436282.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Bảo hiểm xã hội Việt Nam phát thông báo quan trọng tới tất cả người dân",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767370.536689,
-        "link": "https://cafef.vn/bao-hiem-xa-hoi-viet-nam-phat-thong-bao-quan-trong-toi-tat-ca-nguoi-dan-188260803094516061.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "TP Hồ Chí Minh rà soát, truy thu thuế nhiều ngành, nghề",
-        "time": "Mon, 03 Aug 2026 14:30:03",
-        "timestamp": 1785767369.536689,
-        "link": "https://cafef.vn/tp-ho-chi-minh-ra-soat-truy-thu-thue-nhieu-nganh-nghe-188260803105428333.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Đại gia Việt kiếm tiền thần tốc: Nhiều doanh nghiệp bỏ túi hàng chục tỷ đồng mỗi giờ",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754588.669486,
-        "link": "https://cafef.vn/dai-gia-viet-kiem-tien-than-toc-nhieu-doanh-nghiep-bo-tui-hang-chuc-ty-dong-moi-gio-188260802233012751.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chủ chuỗi nhà hàng nổi tiếng Golden Gate nói gì sau khi bị hủy tư cách công ty đại chúng?",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754587.669486,
-        "link": "https://cafef.vn/chu-chuoi-nha-hang-noi-tieng-golden-gate-noi-gi-sau-khi-bi-huy-tu-cach-cong-ty-dai-chung-188260803105118324.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Lịch chốt quyền trả cổ tức trong tuần từ ngày 3/8-7/8, tỷ lệ cao nhất 100%",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754586.669486,
-        "link": "https://cafef.vn/lich-chot-quyen-tra-co-tuc-trong-tuan-tu-ngay-3-8-7-8-ty-le-cao-nhat-100-188260803105025407.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Ngay và luôn: Điện Máy Xanh trả cổ tức 4.000 đồng/cp trong tháng 8",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754585.669486,
-        "link": "https://cafef.vn/ngay-va-luon-dien-may-xanh-tra-co-tuc-4000-dong-cp-trong-thang-8-188260803103522745.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Công bố 10 DN ô tô nộp ngân sách lớn nhất Việt Nam 2026: Ai đã tạo nên gần 94.000 tỷ đồng?",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754584.669486,
-        "link": "https://cafef.vn/cong-bo-10-dn-o-to-nop-ngan-sach-lon-nhat-viet-nam-2026-ai-da-tao-nen-gan-94000-ty-dong-188260803080847821.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "The Gió Riverside tung ưu đãi “100% Đặc quyền Priority” cho khách hàng",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754583.669486,
-        "link": "https://cafef.vn/the-gio-riverside-tung-uu-dai-100-dac-quyen-priority-cho-khach-hang-188260731171501505.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "“Từ nay, chung cư không còn là tích sản, mà là tiêu sản”",
-        "time": "Mon, 03 Aug 2026 10:56:28",
-        "timestamp": 1785754582.669486,
-        "link": "https://cafef.vn/tu-nay-chung-cu-khong-con-la-tich-san-ma-la-tieu-san-18826080310444822.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
