@@ -1,6 +1,96 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Thị trường chứng khoán",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644671.552186,
+        "link": "https://cafef.vn/thi-truong-chung-khoan.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Tổng giá trị cổ phần của Masan tại MCH, MSR, MML, WinCommerce và Techcombank lớn cỡ nào?",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644670.552186,
+        "link": "https://cafef.vn/tong-gia-tri-co-phan-cua-masan-tai-mch-msr-mml-wincommerce-va-techcombank-lon-co-nao-188260813171153175.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Lực bán 'dội' mạnh cuối phiên, VN-Index lại rời xa 1.800 điểm",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644669.552186,
+        "link": "https://cafef.vn/luc-ban-doi-manh-cuoi-phien-vn-index-lai-roi-xa-1800-diem-188260813165551732.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hướng Việt Properties khởi động Palm River, công bố loạt đối tác chiến lược phát triển thị trường",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644668.552186,
+        "link": "https://cafef.vn/huong-viet-properties-khoi-dong-palm-river-cong-bo-loat-doi-tac-chien-luoc-phat-trien-thi-truong-188260813174943647.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đồng Văn (Ninh Bình) - Cực tăng trưởng công nghiệp đón làn sóng nhu cầu an cư chất lượng cao",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644667.552186,
+        "link": "https://cafef.vn/dong-van-ninh-binh-cuc-tang-truong-cong-nghiep-don-lan-song-nhu-cau-an-cu-chat-luong-cao-188260813165554773.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "One Central Saigon: Tọa độ gốc của một đô thị đang vươn tầm",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644666.552186,
+        "link": "https://cafef.vn/one-central-saigon-toa-do-goc-cua-mot-do-thi-dang-vuon-tam-188260707125534343.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Thủ tướng Chính phủ làm việc với Ngân hàng Nhà nước và hệ thống các tổ chức tín dụng",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644665.552186,
+        "link": "https://cafef.vn/thu-tuong-chinh-phu-lam-viec-voi-ngan-hang-nha-nuoc-va-he-thong-cac-to-chuc-tin-dung-18826081316174548.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đẩy nhanh tiến độ đầu tư, hoàn thiện hệ thống đường bộ cao tốc theo quy hoạch",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644664.552186,
+        "link": "https://cafef.vn/day-nhanh-tien-do-dau-tu-hoan-thien-he-thong-duong-bo-cao-toc-theo-quy-hoach-188260813162629936.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Tất cả doanh nghiệp, hộ kinh doanh, cá nhân có tên trong danh sách sau nhanh chóng liên hệ với Cơ quan Thuế",
+        "time": "Thu, 13 Aug 2026 18:11:11",
+        "timestamp": 1786644663.552186,
+        "link": "https://cafef.vn/tat-ca-doanh-nghiep-ho-kinh-doanh-ca-nhan-co-ten-trong-danh-sach-sau-nhanh-chong-lien-he-voi-co-quan-thue-188260813163637759.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Vừa báo lãi 6 tháng tăng hơn 500%, một công ty sắp trả cổ tức tiền mặt cao nhất 5 năm",
         "time": "Thu, 13 Aug 2026 17:04:10",
         "timestamp": 1786640650.514763,
@@ -7905,96 +7995,6 @@
         "time": "Fri, 07 Aug 2026 15:12:35",
         "timestamp": 1786115543.25986,
         "link": "https://cafef.vn/tphcm-o-to-luu-thong-mot-chieu-duong-cach-mang-thang-tam-de-thi-cong-metro-so-2-188260807131018597.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Thái Lan muốn tham khảo kinh nghiệm của Việt Nam về tinh gọn bộ máy",
-        "time": "Fri, 07 Aug 2026 15:12:35",
-        "timestamp": 1786115542.25986,
-        "link": "https://cafef.vn/thai-lan-muon-tham-khao-kinh-nghiem-cua-viet-nam-ve-tinh-gon-bo-may-188260807094155791.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một thành viên HĐQT VPBankS xin từ nhiệm",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110324.712647,
-        "link": "https://cafef.vn/mot-thanh-vien-hdqt-vpbanks-xin-tu-nhiem-188260807134008461.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "VIX chốt ngày phát hành hơn 122 triệu cổ phiếu trả cổ tức",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110323.712647,
-        "link": "https://cafef.vn/vix-chot-ngay-phat-hanh-hon-122-trieu-co-phieu-tra-co-tuc-188260807134147518.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Digiworld phát hành 2,2 triệu cổ phiếu ESOP",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110322.712647,
-        "link": "https://cafef.vn/digiworld-phat-hanh-22-trieu-co-phieu-esop-188260807134057107.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "MIC chốt ngày trả cổ tức bằng tiền mặt tỷ lệ 10%",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110321.712647,
-        "link": "https://cafef.vn/mic-chot-ngay-tra-co-tuc-bang-tien-mat-ty-le-10-188260807133920719.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Mới nhất: 9 cổ phiếu \"hot\" có thể lọt rổ FTSE GEIS trong kỳ nâng hạng tháng 9",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110320.712647,
-        "link": "https://cafef.vn/moi-nhat-9-co-phieu-hot-co-the-lot-ro-ftse-geis-trong-ky-nang-hang-thang-9-188260807131753637.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Từng công bố phát triển gần 61.000 căn nhà ở xã hội, doanh nghiệp BĐS \"khủng\" nhất thị trường đang triển khai đến đâu?",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110319.712647,
-        "link": "https://cafef.vn/tung-cong-bo-phat-trien-gan-61000-can-nha-o-xa-hoi-doanh-nghiep-bds-khung-nhat-thi-truong-dang-trien-khai-den-dau-188260807121421767.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Một doanh nghiệp được giao gần 1,2ha đất tại Long Biên để làm dự án nhà ở xã hội và thương mại",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110318.712647,
-        "link": "https://cafef.vn/mot-doanh-nghiep-duoc-giao-gan-12ha-dat-tai-long-bien-de-lam-du-an-nha-o-xa-hoi-va-thuong-mai-188260807133237292.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Capital Square: Khai mở chuẩn sống tích hợp, được vinh danh tại Dot Property Vietnam 2026",
-        "time": "Fri, 07 Aug 2026 13:45:24",
-        "timestamp": 1786110317.712647,
-        "link": "https://cafef.vn/capital-square-khai-mo-chuan-song-tich-hop-duoc-vinh-danh-tai-dot-property-vietnam-2026-188260807105424922.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
