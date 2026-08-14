@@ -1,6 +1,96 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Khối ngoại thẳng tay bán ròng trong phiên VN-Index giảm 36 điểm, \"xả\" gần 500 tỷ một cổ phiếu bluechip",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725875.758413,
+        "link": "https://cafef.vn/khoi-ngoai-thang-tay-ban-rong-trong-phien-vn-index-giam-36-diem-xa-gan-500-ty-mot-co-phieu-bluechip-188260814155113236.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "\"Tội đồ\" nào khiến VN-Index bay gần 37 điểm trong phiên 14/8?",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725874.758413,
+        "link": "https://cafef.vn/toi-do-nao-khien-vn-index-bay-gan-37-diem-trong-phien-14-8-188260814153439097.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Khởi đầu tháng Ngâu: Chứng khoán Việt Nam mất 324.000 tỷ vốn hóa sau 2 phiên",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725873.758413,
+        "link": "https://cafef.vn/khoi-dau-thang-ngau-chung-khoan-viet-nam-mat-324000-ty-von-hoa-sau-2-phien-188260814153413045.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Điều gì đang xảy ra với chứng khoán Việt Nam?",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725872.758413,
+        "link": "https://cafef.vn/dieu-gi-dang-xay-ra-voi-chung-khoan-viet-nam-188260814153729291.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "CII dự kiến mua lại 108 tỷ đồng trái phiếu trước hạn",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725871.758413,
+        "link": "https://cafef.vn/cii-du-kien-mua-lai-108-ty-dong-trai-phieu-truoc-han-188260814154928457.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Cách nào giảm lãi suất thực chất, khơi thông dòng vốn?",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725870.758413,
+        "link": "https://cafef.vn/cach-nao-giam-lai-suat-thuc-chat-khoi-thong-dong-von-188260814152603558.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng Nhà nước sẽ điều hành tỷ giá linh hoạt, phù hợp với điều kiện thị trường",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725869.758413,
+        "link": "https://cafef.vn/ngan-hang-nha-nuoc-se-dieu-hanh-ty-gia-linh-hoat-phu-hop-voi-dieu-kien-thi-truong-188260814151556517.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Việt Nam dự kiến có tuyến đường sắt dài 50km kết nối vùng đất “đệ nhất danh trà” với Thủ đô Hà Nội",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725868.758413,
+        "link": "https://cafef.vn/viet-nam-du-kien-co-tuyen-duong-sat-dai-50km-ket-noi-vung-dat-de-nhat-danh-tra-voi-thu-do-ha-noi-188260814152906978.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Nhập siêu hơn 20 tỷ USD trong 7 tháng, Phó Thủ tướng yêu cầu làm việc với doanh nghiệp chênh lệch lớn giữa nhập khẩu và xuất khẩu",
+        "time": "Fri, 14 Aug 2026 16:44:35",
+        "timestamp": 1786725867.758413,
+        "link": "https://cafef.vn/nhap-sieu-hon-20-ty-usd-trong-7-thang-pho-thu-tuong-yeu-cau-lam-viec-voi-doanh-nghiep-chenh-lech-lon-giua-nhap-khau-va-xuat-khau-188260814142042359.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "FPT lãi ròng gần 6.000 tỷ đồng sau 7 tháng, bắt tay \"gã khổng lồ\" OpenAI khai phá thị trường 240 tỷ USD",
         "time": "Fri, 14 Aug 2026 15:44:19",
         "timestamp": 1786722259.255105,
@@ -7905,96 +7995,6 @@
         "time": "Sat, 08 Aug 2026 18:42:06",
         "timestamp": 1786214526.308277,
         "link": "https://cafef.vn/tuan-toi-mot-ngan-hang-se-chot-quyen-nhan-co-tuc-ty-le-15-co-dong-con-duoc-mua-them-co-phieu-gia-re-188260808180555989.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sunshine Group ký kết các hợp đồng tổng thầu với DELTA Group và Xây dựng Hòa Bình, tổng giá trị gần 80.000 tỷ đồng",
-        "time": "Sat, 08 Aug 2026 18:05:30",
-        "timestamp": 1786212330.931107,
-        "link": "https://cafef.vn/sunshine-group-ky-ket-cac-hop-dong-tong-thau-voi-delta-group-va-xay-dung-hoa-binh-tong-gia-tri-gan-80000-ty-dong-188260721140934902.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Vì sao lãi suất cuối năm dự báo khó giảm?",
-        "time": "Sat, 08 Aug 2026 18:05:30",
-        "timestamp": 1786212329.931107,
-        "link": "https://cafef.vn/vi-sao-lai-suat-cuoi-nam-du-bao-kho-giam-188260808165833206.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "MSB được Vietnam Report vinh danh tại hai bảng xếp hạng uy tín năm 2026",
-        "time": "Sat, 08 Aug 2026 17:31:38",
-        "timestamp": 1786210298.488105,
-        "link": "https://cafef.vn/msb-duoc-vietnam-report-vinh-danh-tai-hai-bang-xep-hang-uy-tin-nam-2026-188260808164925627.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất ngân hàng 8/8 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,...",
-        "time": "Sat, 08 Aug 2026 17:31:38",
-        "timestamp": 1786210297.488105,
-        "link": "https://cafef.vn/lai-suat-ngan-hang-8-8-tai-mb-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260808173031082.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Phó Thủ tướng Nguyễn Văn Thắng: Xử lý đến cùng các vướng mắc, không đẩy doanh nghiệp đi vòng",
-        "time": "Sat, 08 Aug 2026 17:31:38",
-        "timestamp": 1786210296.488105,
-        "link": "https://cafef.vn/pho-thu-tuong-nguyen-van-thang-xu-ly-den-cung-cac-vuong-mac-khong-day-doanh-nghiep-di-vong-188260808154815508.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Toàn cảnh nút giao ùn tắc bậc nhất Quy Nhơn được đề xuất làm cầu vượt",
-        "time": "Sat, 08 Aug 2026 17:31:38",
-        "timestamp": 1786210295.488105,
-        "link": "https://cafef.vn/toan-canh-nut-giao-un-tac-bac-nhat-quy-nhon-duoc-de-xuat-lam-cau-vuot-188260808161247279.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Lãi đột biến, GVR “rót” nghìn tỷ đồng vào quỹ khoa học công nghệ",
-        "time": "Sat, 08 Aug 2026 16:48:09",
-        "timestamp": 1786207689.452726,
-        "link": "https://cafef.vn/lai-dot-bien-gvr-rot-nghin-ty-dong-vao-quy-khoa-hoc-cong-nghe-188260808151454812.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hoàn thành kế hoạch cơ cấu lại vốn Nhà nước tại doanh nghiệp trước ngày 31/8",
-        "time": "Sat, 08 Aug 2026 16:48:09",
-        "timestamp": 1786207688.452726,
-        "link": "https://cafef.vn/hoan-thanh-ke-hoach-co-cau-lai-von-nha-nuoc-tai-doanh-nghiep-truoc-ngay-31-8-188260808160902885.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "EVN hết lỗ lũy kế, nhiều doanh nghiệp Nhà nước báo lãi nghìn tỷ",
-        "time": "Sat, 08 Aug 2026 16:48:09",
-        "timestamp": 1786207687.452726,
-        "link": "https://cafef.vn/evn-het-lo-luy-ke-nhieu-doanh-nghiep-nha-nuoc-bao-lai-nghin-ty-188260808161659236.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
