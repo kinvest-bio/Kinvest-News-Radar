@@ -1,5 +1,55 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Vietjet 'rót' thêm 250 tỷ đồng vào Galaxy Pay",
+        "time": "Sat, 15 Aug 2026 16:02:04",
+        "timestamp": 1786809724.252964,
+        "link": "https://cafef.vn/vietjet-rot-them-250-ty-dong-vao-galaxy-pay-188260815154812123.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Từ 15-8, tích hợp 5 giấy tờ trên VNeID, hưởng nhiều ưu đãi phí, lệ phí",
+        "time": "Sat, 15 Aug 2026 16:02:04",
+        "timestamp": 1786809723.252964,
+        "link": "https://cafef.vn/tu-15-8-tich-hop-5-giay-to-tren-vneid-huong-nhieu-uu-dai-phi-le-phi-188260815144633652.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đề xuất bổ sung 'nhà có mục đích lưu trú' vào luật",
+        "time": "Sat, 15 Aug 2026 16:02:04",
+        "timestamp": 1786809722.252964,
+        "link": "https://cafef.vn/de-xuat-bo-sung-nha-co-muc-dich-luu-tru-vao-luat-188260815141850118.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Tin mới về siêu dự án 10 tỷ USD của Tập đoàn Xuân Thiện tại Cà Mau, riêng nguồn điện đề xuất 5.000 MW",
+        "time": "Sat, 15 Aug 2026 16:02:04",
+        "timestamp": 1786809721.252964,
+        "link": "https://cafef.vn/tin-moi-ve-sieu-du-an-10-ty-usd-cua-tap-doan-xuan-thien-tai-ca-mau-rieng-nguon-dien-de-xuat-5000-mw-188260815155904451.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Phí dịch vụ doanh nghiệp có phải đóng BHXH cho người lao động?",
+        "time": "Sat, 15 Aug 2026 16:02:04",
+        "timestamp": 1786809720.252964,
+        "link": "https://cafef.vn/phi-dich-vu-doanh-nghiep-co-phai-dong-bhxh-cho-nguoi-lao-dong-188260815073915548.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Hàng loạt sai phạm tại khu đất vàng trung tâm Đồng Nai",
         "time": "Sat, 15 Aug 2026 15:37:56",
@@ -7945,56 +7995,6 @@
         "time": "Sun, 09 Aug 2026 21:19:08",
         "timestamp": 1786310347.302751,
         "link": "https://cafef.vn/co-cau-lai-von-nha-nuoc-diem-danh-nhung-ong-lon-co-the-tang-giam-ty-le-so-huu-188260809210851533.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất ngân hàng 9/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-        "time": "Sun, 09 Aug 2026 21:19:08",
-        "timestamp": 1786310346.302751,
-        "link": "https://cafef.vn/lai-suat-ngan-hang-9-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260809210538324.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "TPHCM tính làm 'thành phố ngầm' dưới công viên 23/9",
-        "time": "Sun, 09 Aug 2026 20:30:30",
-        "timestamp": 1786307430.759497,
-        "link": "https://cafef.vn/tphcm-tinh-lam-thanh-pho-ngam-duoi-cong-vien-23-9-188260809194442989.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hà Nội: Cháy cơ sở phế liệu trên đường 25m, huy động máy xúc phá dỡ tôn quây",
-        "time": "Sun, 09 Aug 2026 20:30:30",
-        "timestamp": 1786307429.759497,
-        "link": "https://cafef.vn/ha-noi-chay-co-so-phe-lieu-tren-duong-25m-huy-dong-may-xuc-pha-do-ton-quay-188260809195701376.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Phát hiện nhà thầu dùng vật liệu lót sai thiết kế tại dự án gần 800 tỷ đồng",
-        "time": "Sun, 09 Aug 2026 20:30:30",
-        "timestamp": 1786307428.759497,
-        "link": "https://cafef.vn/phat-hien-nha-thau-dung-vat-lieu-lot-sai-thiet-ke-tai-du-an-gan-800-ty-dong-18826080914303027.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Quảng trường lớn nhất khu vực Tây Nguyên sụt lún và nứt khoảng 700m²",
-        "time": "Sun, 09 Aug 2026 20:30:30",
-        "timestamp": 1786307427.759497,
-        "link": "https://cafef.vn/quang-truong-lon-nhat-khu-vuc-tay-nguyen-sut-lun-va-nut-khoang-700m-18826080914380607.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
