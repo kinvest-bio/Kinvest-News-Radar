@@ -1,5 +1,25 @@
 [
     {
+        "category": "CF - Ngân hàng",
+        "title": "TS. Võ Trí Thành: Tăng trưởng tín dụng phải đi đôi với ổn định kinh tế vĩ mô và sự lành mạnh, an toàn của hệ thống ngân hàng",
+        "time": "Sat, 15 Aug 2026 17:30:02",
+        "timestamp": 1786815002.350891,
+        "link": "https://cafef.vn/ts-vo-tri-thanh-tang-truong-tin-dung-phai-di-doi-voi-on-dinh-kinh-te-vi-mo-va-su-lanh-manh-an-toan-cua-he-thong-ngan-hang-188260815170128302.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Việc cải tạo khu tập thể Trương Định dự kiến hoàn thành vào quý IV-2029",
+        "time": "Sat, 15 Aug 2026 17:30:02",
+        "timestamp": 1786815001.350891,
+        "link": "https://cafef.vn/viec-cai-tao-khu-tap-the-truong-dinh-du-kien-hoan-thanh-vao-quy-iv-2029-188260815152316255.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Quảng Ninh: Khởi tố nhóm đối tượng làm giả hồ sơ chiếm đoạt suất mua nhà ở xã hội",
         "time": "Sat, 15 Aug 2026 16:58:27",
@@ -7978,25 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Tiền lớn rục rịch trở lại trước thềm nâng hạng, chuyên gia chỉ tên nhóm cổ phiếu hưởng lợi",
-        "time": "Mon, 10 Aug 2026 00:13:35",
-        "timestamp": 1786320813.61513,
-        "link": "https://cafef.vn/tien-lon-ruc-rich-tro-lai-truoc-them-nang-hang-chuyen-gia-chi-ten-nhom-co-phieu-huong-loi-188260809220720248.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "VN-Index trước 'cửa ải' 1.800 điểm: Dòng tiền có đủ sức duy trì?",
-        "time": "Mon, 10 Aug 2026 00:13:35",
-        "timestamp": 1786320812.61513,
-        "link": "https://cafef.vn/vn-index-truoc-cua-ai-1800-diem-dong-tien-co-du-suc-duy-tri-188260809164953472.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
