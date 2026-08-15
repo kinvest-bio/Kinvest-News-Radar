@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Chứng khoán tuần qua: Đầu tuần hồi phục, cuối tuần “lao dốc”",
+        "time": "Sat, 15 Aug 2026 18:58:52",
+        "timestamp": 1786820332.607038,
+        "link": "https://cafef.vn/chung-khoan-tuan-qua-dau-tuan-hoi-phuc-cuoi-tuan-lao-doc-188260815184956685.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Điện Máy Xanh hoạt động như 'ngân hàng ngầm'?",
+        "time": "Sat, 15 Aug 2026 18:58:52",
+        "timestamp": 1786820331.607038,
+        "link": "https://cafef.vn/dien-may-xanh-hoat-dong-nhu-ngan-hang-ngam-188260815184527588.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khởi tố giám đốc Ban Quản lý dự án Đầu tư xây dựng và Phát triển đô thị TP Huế",
+        "time": "Sat, 15 Aug 2026 18:58:52",
+        "timestamp": 1786820330.607038,
+        "link": "https://cafef.vn/khoi-to-giam-doc-ban-quan-ly-du-an-dau-tu-xay-dung-va-phat-trien-do-thi-tp-hue-188260815145655692.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Kiến trúc độc đáo của 5 sân bay đẹp nhất thế giới",
         "time": "Sat, 15 Aug 2026 18:44:22",
@@ -7968,35 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Viettel đang tuyển vị trí Giám đốc làm việc tại nước ngoài, yêu cầu biết 2 ngoại ngữ",
-        "time": "Mon, 10 Aug 2026 00:49:13",
-        "timestamp": 1786322953.385661,
-        "link": "https://cafef.vn/viettel-dang-tuyen-vi-tri-giam-doc-lam-viec-tai-nuoc-ngoai-yeu-cau-biet-2-ngoai-ngu-188260810002823258.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hãng xe Việt cạnh tranh VinFast sắp tung 4 mẫu xe máy điện, tham vọng bán 20.000 chiếc và phủ 2.100 trạm sạc",
-        "time": "Mon, 10 Aug 2026 00:49:13",
-        "timestamp": 1786322952.385661,
-        "link": "https://cafef.vn/hang-xe-viet-canh-tranh-vinfast-sap-tung-4-mau-xe-may-dien-tham-vong-ban-20000-chiec-va-phu-2100-tram-sac-188260810002703617.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "9 quỹ của “cá mập” Dragon Capital, SSI và VinaCapital lỗ đầu tư hơn 6.000 tỷ đồng, hàng loạt quỹ bán sạch một cổ phiếu blue chip trong tháng 7",
-        "time": "Mon, 10 Aug 2026 00:49:13",
-        "timestamp": 1786322951.385661,
-        "link": "https://cafef.vn/9-quy-cua-ca-map-dragon-capital-ssi-va-vinacapital-lo-dau-tu-hon-6000-ty-dong-hang-loat-quy-ban-sach-mot-co-phieu-blue-chip-trong-thang-7-188260810002555628.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
     }
 ]
