@@ -1,6 +1,36 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "HOSE cắt margin 3 cổ phiếu do thua lỗ",
+        "time": "Mon, 17 Aug 2026 22:23:35",
+        "timestamp": 1787005415.790375,
+        "link": "https://cafef.vn/hose-cat-margin-3-co-phieu-do-thua-lo-188260817220835178.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Ban Quản lý Khu kinh tế Gia Lai yêu cầu Tổng giám đốc Phát Đạt xử lý dứt điểm tồn tại của dự án đô thị 23.000 tỷ đồng",
+        "time": "Mon, 17 Aug 2026 22:23:35",
+        "timestamp": 1787005414.790375,
+        "link": "https://cafef.vn/ban-quan-ly-khu-kinh-te-gia-lai-yeu-cau-tong-giam-doc-phat-dat-xu-ly-dut-diem-ton-tai-cua-du-an-do-thi-23000-ty-dong-188260817220952097.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng 17/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
+        "time": "Mon, 17 Aug 2026 22:23:35",
+        "timestamp": 1787005413.790375,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-17-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260817220710733.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Hé lộ thu nhập Tổng Giám đốc công ty chứng khoán thị phần số 1 Việt Nam",
         "time": "Mon, 17 Aug 2026 21:53:58",
         "timestamp": 1787003638.140526,
@@ -7968,35 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Cục trưởng Cục Thuế yêu cầu tập trung kiểm tra doanh nghiệp thua lỗ, lãi mỏng, giao dịch liên kết, lĩnh vực rủi ro cao",
-        "time": "Tue, 11 Aug 2026 15:53:38",
-        "timestamp": 1786463603.647554,
-        "link": "https://cafef.vn/cuc-truong-cuc-thue-yeu-cau-tap-trung-kiem-tra-doanh-nghiep-thua-lo-lai-mong-giao-dich-lien-ket-linh-vuc-rui-ro-cao-188260811151755174.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Những trụ cầu vượt đầu tiên tại nút giao gần 786 tỷ đồng ở Hà Nội",
-        "time": "Tue, 11 Aug 2026 15:53:38",
-        "timestamp": 1786463602.647554,
-        "link": "https://cafef.vn/nhung-tru-cau-vuot-dau-tien-tai-nut-giao-gan-786-ty-dong-o-ha-noi-188260811144104576.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "IPA phát hành hơn 32 triệu cổ phiếu thưởng cho cổ đông",
-        "time": "Tue, 11 Aug 2026 14:54:52",
-        "timestamp": 1786460092.637342,
-        "link": "https://cafef.vn/ipa-phat-hanh-hon-32-trieu-co-phieu-thuong-cho-co-dong-188260811141032414.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
