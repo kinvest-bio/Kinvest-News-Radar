@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Đếm ngược 4 ngày đón \"tin lớn\" từ FTSE, CTCK hé lộ nhóm cổ phiếu có thể hưởng lợi nhất",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960701.295015,
+        "link": "https://cafef.vn/dem-nguoc-4-ngay-don-tin-lon-tu-ftse-ctck-he-lo-nhom-co-phieu-co-the-huong-loi-nhat-188260817093612813.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Sổ đỏ tích hợp trên VNeID, giao dịch bất động sản sẽ ra sao?",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960700.295015,
+        "link": "https://cafef.vn/so-do-tich-hop-tren-vneid-giao-dich-bat-dong-san-se-ra-sao-188260817080603421.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Nở rộ kinh doanh căn hộ dịch vụ ở Hà Nội",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960699.295015,
+        "link": "https://cafef.vn/no-ro-kinh-doanh-can-ho-dich-vu-o-ha-noi-188260817080430511.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Gần 100% giỏ hàng “chốt deal” trên sóng livestream, quỹ căn đẹp tại Noble Crystal Riverside đang thu hẹp từng ngày",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960698.295015,
+        "link": "https://cafef.vn/gan-100-gio-hang-chot-deal-tren-song-livestream-quy-can-dep-tai-noble-crystal-riverside-dang-thu-hep-tung-ngay-18826081708364341.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng nhẫn trơn, vàng miếng sáng 17/8 tăng mạnh tại SJC, DOJI, PNJ, Bảo Tín Minh Châu, Bảo Tín Mạnh Hải, Mi Hồng,...",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960697.295015,
+        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-17-8-tang-manh-tai-sjc-doji-pnj-bao-tin-minh-chau-bao-tin-manh-hai-mi-hong-188260817065836574.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất huy động hạ nhiệt",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960696.295015,
+        "link": "https://cafef.vn/lai-suat-huy-dong-ha-nhiet-188260817092749094.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đóng điện 2 mạch đường dây 220 kV Chơn Thành – Bến Cát",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960695.295015,
+        "link": "https://cafef.vn/dong-dien-2-mach-duong-day-220-kv-chon-thanh-ben-cat-188260817084638363.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Vành đai 3 qua Đồng Nai tăng tốc, phấn đấu về đích trong tháng 9",
+        "time": "Mon, 17 Aug 2026 09:58:21",
+        "timestamp": 1786960694.295015,
+        "link": "https://cafef.vn/vanh-dai-3-qua-dong-nai-tang-toc-phan-dau-ve-dich-trong-thang-9-188260817090508547.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Liên tiếp trong nhóm dẫn đầu nộp ngân sách, TCBS khẳng định dấu ấn của một “ông lớn” thị trường vốn",
         "time": "Mon, 17 Aug 2026 08:48:45",
         "timestamp": 1786956525.818853,
@@ -7915,86 +7995,6 @@
         "time": "Mon, 10 Aug 2026 20:34:31",
         "timestamp": 1786394063.162723,
         "link": "https://cafef.vn/can-canh-kham-xet-cong-ty-bien-ly-va-ho-kinh-doanh-quan-lan-188260810143822279.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 10/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-        "time": "Mon, 10 Aug 2026 20:34:31",
-        "timestamp": 1786394062.162723,
-        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-10-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260810073826776.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất ngân hàng 10/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,...",
-        "time": "Mon, 10 Aug 2026 20:34:31",
-        "timestamp": 1786394061.162723,
-        "link": "https://cafef.vn/lai-suat-ngan-hang-10-8-tai-agribank-vietcombank-bidv-vietinbank-mb-sacombank-hdbank-188260810190348653.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "TPBank chính thức ra mắt T’AioX: Chuyên gia Ngân hàng số hỗ trợ khách hàng 24/7",
-        "time": "Mon, 10 Aug 2026 20:34:31",
-        "timestamp": 1786394060.162723,
-        "link": "https://cafef.vn/tpbank-chinh-thuc-ra-mat-taiox-chuyen-gia-ngan-hang-so-ho-tro-khach-hang-24-7-188260810175005861.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "'Doanh nghiệp đang rất thiếu vốn'",
-        "time": "Mon, 10 Aug 2026 18:59:15",
-        "timestamp": 1786388355.033746,
-        "link": "https://cafef.vn/doanh-nghiep-dang-rat-thieu-von-188260810183911532.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cổ phiếu doanh nghiệp nhà nước 'đắt hàng'",
-        "time": "Mon, 10 Aug 2026 18:59:15",
-        "timestamp": 1786388354.033746,
-        "link": "https://cafef.vn/co-phieu-doanh-nghiep-nha-nuoc-dat-hang-188260810183725262.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Vì sao chưa thể nhập khẩu vàng?",
-        "time": "Mon, 10 Aug 2026 18:59:15",
-        "timestamp": 1786388353.033746,
-        "link": "https://cafef.vn/vi-sao-chua-the-nhap-khau-vang-188260810183330129.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Tỷ phú Johnathan Hạnh Nguyễn: Ký ức không bao giờ quên về những lãnh đạo đầu Đổi mới và kỳ vọng vào Việt Nam \"nói và làm, làm là tới cùng\"",
-        "time": "Mon, 10 Aug 2026 18:59:15",
-        "timestamp": 1786388352.033746,
-        "link": "https://cafef.vn/ty-phu-johnathan-hanh-nguyen-ky-uc-khong-bao-gio-quen-ve-nhung-lanh-dao-dau-doi-moi-va-ky-vong-vao-viet-nam-noi-va-lam-lam-la-toi-cung-188260613223648265.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Một ngân hàng lớn vừa điều chỉnh lãi suất tiết kiệm, có kỳ hạn giảm tới 1,4%/năm",
-        "time": "Mon, 10 Aug 2026 18:59:15",
-        "timestamp": 1786388351.033746,
-        "link": "https://cafef.vn/mot-ngan-hang-lon-vua-dieu-chinh-lai-suat-tiet-kiem-co-ky-han-giam-toi-14-nam-188260810175504821.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
