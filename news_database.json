@@ -1,5 +1,105 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Công ty nông nghiệp của bầu Đức chính thức triển khai IPO, điểm sáng trong ngành nông nghiệp Việt Nam",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996754.307571,
+        "link": "https://cafef.vn/cong-ty-nong-nghiep-cua-bau-duc-chinh-thuc-trien-khai-ipo-diem-sang-trong-nganh-nong-nghiep-viet-nam-18826081718222152.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Cú hích nâng hạng: Dòng tiền gọi tên ai?",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996753.307571,
+        "link": "https://cafef.vn/cu-hich-nang-hang-dong-tien-goi-ten-ai-188260817190745835.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Sàn tài sản mã hóa: Vì sao chưa thể hẹn ngày vận hành?",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996752.307571,
+        "link": "https://cafef.vn/san-tai-san-ma-hoa-vi-sao-chua-the-hen-ngay-van-hanh-1882608171906198.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Giá bạc trước cơ hội bứt phá, đà tăng dự báo tiếp tục mở rộng",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996751.307571,
+        "link": "https://cafef.vn/gia-bac-truoc-co-hoi-but-pha-da-tang-du-bao-tiep-tuc-mo-rong-188260817190035969.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khánh thành trường Phổ thông liên cấp FPT Vinh tại đại đô thị Eco Central Park",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996750.307571,
+        "link": "https://cafef.vn/khanh-thanh-truong-pho-thong-lien-cap-fpt-vinh-tai-dai-do-thi-eco-central-park-188260817192205605.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội còn khoảng 2,2 triệu thửa đất chưa được “làm sạch” dữ liệu",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996749.307571,
+        "link": "https://cafef.vn/ha-noi-con-khoang-22-trieu-thua-dat-chua-duoc-lam-sach-du-lieu-188260817154619409.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Siết quản lý nhà 'siêu mỏng, siêu méo' sau GPMB cầu Trần Hưng Đạo, cầu Tứ Liên",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996748.307571,
+        "link": "https://cafef.vn/siet-quan-ly-nha-sieu-mong-sieu-meo-sau-gpmb-cau-tran-hung-dao-cau-tu-lien-188260817152747481.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Sun PhuQuoc Airways đưa Đồng Hới gia nhập mạng bay nội địa, thúc đẩy liên kết Bắc Trung Bộ",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996747.307571,
+        "link": "https://cafef.vn/sun-phuquoc-airways-dua-dong-hoi-gia-nhap-mang-bay-noi-dia-thuc-day-lien-ket-bac-trung-bo-18826081718125285.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Chỉ đạo mới tại tuyến cao tốc hơn 43.700 tỷ đồng đi qua 2 con đèo hiểm trở: Không để tình trạng có mặt bằng nhưng chậm triển khai",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996746.307571,
+        "link": "https://cafef.vn/chi-dao-moi-tai-tuyen-cao-toc-hon-43700-ty-dong-di-qua-2-con-deo-hiem-tro-khong-de-tinh-trang-co-mat-bang-nhung-cham-trien-khai-1882608171847379.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đích thân kiểm tra dự án thành phần 4 sân bay Long Thành, Cục trưởng Cục Hàng không chỉ đạo gắt gao về tiến độ",
+        "time": "Mon, 17 Aug 2026 19:59:14",
+        "timestamp": 1786996745.307571,
+        "link": "https://cafef.vn/dich-than-kiem-tra-du-an-thanh-phan-4-san-bay-long-thanh-cuc-truong-cuc-hang-khong-chi-dao-gat-gao-ve-tien-do-188260817183736112.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Doanh nghiệp",
         "title": "Khởi tố 3 bị can sao chép trái phép game 'Con đường tơ lụa'",
         "time": "Mon, 17 Aug 2026 18:59:34",
@@ -7895,106 +7995,6 @@
         "time": "Tue, 11 Aug 2026 13:35:52",
         "timestamp": 1786455352.022648,
         "link": "https://cafef.vn/vps-chinh-thuc-ra-mat-san-pham-vps-smart-indexing-188260811125433227.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Ivory Villas & Resort:  Hé lộ bộ sưu tập giới hạn biệt thự “Thiên Không Thủy Ấn”",
-        "time": "Tue, 11 Aug 2026 13:35:52",
-        "timestamp": 1786455351.022648,
-        "link": "https://cafef.vn/ivory-villas-resort-he-lo-bo-suu-tap-gioi-han-biet-thu-thien-khong-thuy-an-188260811114025738.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "LPBank lập cú đúp thăng hạng, khẳng định vị thế ngân hàng tư nhân hàng đầu",
-        "time": "Tue, 11 Aug 2026 13:35:52",
-        "timestamp": 1786455350.022648,
-        "link": "https://cafef.vn/lpbank-lap-cu-dup-thang-hang-khang-dinh-vi-the-ngan-hang-tu-nhan-hang-dau-188260811115649035.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "VIB One Card: Từ nhiều chiếc thẻ đến một chiếc thẻ cho mọi nhu cầu chi tiêu",
-        "time": "Tue, 11 Aug 2026 13:35:52",
-        "timestamp": 1786455349.022648,
-        "link": "https://cafef.vn/vib-one-card-tu-nhieu-chiec-the-den-mot-chiec-the-cho-moi-nhu-cau-chi-tieu-188260811100957364.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giải Marathon Quốc tế Hà Nội Techcombank mùa thứ 5: Kiến tạo di sản, nâng tầm vị thế quốc gia",
-        "time": "Tue, 11 Aug 2026 13:35:52",
-        "timestamp": 1786455348.022648,
-        "link": "https://cafef.vn/giai-marathon-quoc-te-ha-noi-techcombank-mua-thu-5-kien-tao-di-san-nang-tam-vi-the-quoc-gia-188260810115233197.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "ĐBQH đề xuất làm điểm dừng cho người đi xe máy gọi điện thoại, shipper trả hàng",
-        "time": "Tue, 11 Aug 2026 13:35:52",
-        "timestamp": 1786455347.022648,
-        "link": "https://cafef.vn/dbqh-de-xuat-lam-diem-dung-cho-nguoi-di-xe-may-goi-dien-thoai-shipper-tra-hang-188260811133214578.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Mua chứng khoán khi nghỉ đẻ, người phụ nữ bất ngờ thành triệu phú",
-        "time": "Tue, 11 Aug 2026 12:33:51",
-        "timestamp": 1786451631.980296,
-        "link": "https://cafef.vn/mua-chung-khoan-khi-nghi-de-nguoi-phu-nu-bat-ngo-thanh-trieu-phu-188260811113620305.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "F88 chào bán thành công 50% tổng lượng cổ phiếu đăng ký",
-        "time": "Tue, 11 Aug 2026 12:33:51",
-        "timestamp": 1786451630.980296,
-        "link": "https://cafef.vn/f88-chao-ban-thanh-cong-50-tong-luong-co-phieu-dang-ky-188260811112756345.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Doanh nghiệp sở hữu 'đất vàng' 79 Lạc Trung đổi tên, đem tiền huy động từ chào bán cổ phiếu đi gửi ngân hàng",
-        "time": "Tue, 11 Aug 2026 12:33:51",
-        "timestamp": 1786451629.980296,
-        "link": "https://cafef.vn/doanh-nghiep-so-huu-dat-vang-79-lac-trung-doi-ten-dem-tien-huy-dong-tu-chao-ban-co-phieu-di-gui-ngan-hang-188260811112619126.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chủ nhà thuốc Long Châu thông báo thay đổi quan trọng, cổ phiếu tăng kịch trần",
-        "time": "Tue, 11 Aug 2026 12:33:51",
-        "timestamp": 1786451628.980296,
-        "link": "https://cafef.vn/chu-nha-thuoc-long-chau-thong-bao-thay-doi-quan-trong-co-phieu-tang-kich-tran-188260811112611049.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Cổ đông Petrolimex sắp nhận hơn 1.500 tỷ đồng tiền cổ tức",
-        "time": "Tue, 11 Aug 2026 12:33:51",
-        "timestamp": 1786451627.980296,
-        "link": "https://cafef.vn/co-dong-petrolimex-sap-nhan-hon-1500-ty-dong-tien-co-tuc-188260811112525027.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
