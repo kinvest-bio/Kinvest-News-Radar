@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Một yếu tố có thể giúp “đại gia” dầu khí BSR lãi gấp 4 lần",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063076.552093,
+        "link": "https://cafef.vn/mot-yeu-to-co-the-giup-dai-gia-dau-khi-bsr-lai-gap-4-lan-18826081814082364.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "2 Gen Z nắm khối cổ phiếu hơn 12.000 tỷ đồng",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063075.552093,
+        "link": "https://cafef.vn/2-gen-z-nam-khoi-co-phieu-hon-12000-ty-dong-188260818135551475.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Sau hơn 1 năm thi công, đại công trình 22.000 tỷ đồng có thể đón 50 triệu khách mỗi năm do Sun Group đầu tư đang triển khai ra sao?",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063074.552093,
+        "link": "https://cafef.vn/sau-hon-1-nam-thi-cong-dai-cong-trinh-22000-ty-dong-co-the-don-50-trieu-khach-moi-nam-do-sun-group-dau-tu-dang-trien-khai-ra-sao-188260818135542928.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Chỉ dài 2,2 km nhưng cần tới 7.800 tỷ đồng để triển khai, tuyến đường \"đắt nhất hành tinh\" tại Việt Nam chuẩn bị đón cột mốc quan trọng vào đầu tháng 9",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063073.552093,
+        "link": "https://cafef.vn/chi-dai-22-km-nhung-can-toi-7800-ty-dong-de-trien-khai-tuyen-duong-dat-nhat-hanh-tinh-tai-viet-nam-chuan-bi-don-cot-moc-quan-trong-vao-dau-thang-9-188260818135649936.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Tăng tốc thi công siêu nút giao 2 cao tốc kết nối với sân bay Long Thành",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063072.552093,
+        "link": "https://cafef.vn/tang-toc-thi-cong-sieu-nut-giao-2-cao-toc-ket-noi-voi-san-bay-long-thanh-188260818131741895.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Phía sau khu “Cao Xà Lá” 11 ha đang nóng trên đường Nguyễn Trãi: Chủ đầu tư từng chi bao nhiêu tiền hỗ trợ cho cuộc di dời?",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063071.552093,
+        "link": "https://cafef.vn/phia-sau-khu-cao-xa-la-11-ha-dang-nong-tren-duong-nguyen-trai-chu-dau-tu-tung-chi-bao-nhieu-tien-ho-tro-cho-cuoc-di-doi-188260818110443351.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "VNG muốn thâu tóm doanh nghiệp sở hữu quỹ đất hơn 25.000 m2 tại TP.HCM",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063070.552093,
+        "link": "https://cafef.vn/vng-muon-thau-tom-doanh-nghiep-so-huu-quy-dat-hon-25000-m2-tai-tphcm-188260818131808805.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "245 hồ sơ hoàn thuế VAT bị kéo dài: Có dấu hiệu rủi ro cao, cần xác minh thông tin",
+        "time": "Tue, 18 Aug 2026 14:24:36",
+        "timestamp": 1787063069.552093,
+        "link": "https://cafef.vn/245-ho-so-hoan-thue-vat-bi-keo-dai-co-dau-hieu-rui-ro-cao-can-xac-minh-thong-tin-188260818134525389.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "LPBS chính thức niêm yết trên sàn HOSE, mở ra hành trình phát triển mới",
         "time": "Tue, 18 Aug 2026 13:44:20",
         "timestamp": 1787060660.816387,
@@ -7915,86 +7995,6 @@
         "time": "Wed, 12 Aug 2026 09:43:28",
         "timestamp": 1786527788.46108,
         "link": "https://cafef.vn/ngan-hang-dong-loat-giam-lai-suat-cho-vay-tung-goi-tin-dung-uu-dai-188260812093733605.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "BVBank tung gói tín dụng ưu đãi 2.500 tỷ đồng dành cho SME, lãi suất thấp hơn ít nhất 1%/năm so với mặt bằng chung",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527787.46108,
-        "link": "https://cafef.vn/bvbank-tung-goi-tin-dung-uu-dai-2500-ty-dong-danh-cho-sme-lai-suat-thap-hon-it-nhat-1-nam-so-voi-mat-bang-chung-188260812072145077.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Thêm ngân hàng giảm lãi suất từ hôm nay 12/8/2026",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527786.46108,
-        "link": "https://cafef.vn/them-ngan-hang-giam-lai-suat-tu-hom-nay-12-8-2026-188260812070641258.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Kinh tế vĩ mô - Đầu tư",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527785.46108,
-        "link": "https://cafef.vn/vi-mo-dau-tu.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Hàng loạt cầu và đường dẫn thi công ‘rùa bò’, dân đợi hoài chẳng thấy thông xe",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527784.46108,
-        "link": "https://cafef.vn/hang-loat-cau-va-duong-dan-thi-cong-rua-bo-dan-doi-hoai-chang-thay-thong-xe-188260812072516664.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Hôm nay, Quốc hội thảo luận việc thành lập hai thành phố Quảng Ninh, Bắc Ninh",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527783.46108,
-        "link": "https://cafef.vn/hom-nay-quoc-hoi-thao-luan-viec-thanh-lap-hai-thanh-pho-quang-ninh-bac-ninh-188260812072957137.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "5 tuyến cao tốc Bắc - Nam từ Quảng Ngãi đến Nha Trang chính thức thu phí từ 14/8",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527782.46108,
-        "link": "https://cafef.vn/5-tuyen-cao-toc-bac-nam-tu-quang-ngai-den-nha-trang-chinh-thuc-thu-phi-tu-14-8-188260812072227867.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chính phủ yêu cầu các bộ, ngành hoàn thành sắp xếp, tinh gọn bộ máy trong tháng 10",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527781.46108,
-        "link": "https://cafef.vn/chinh-phu-yeu-cau-cac-bo-nganh-hoan-thanh-sap-xep-tinh-gon-bo-may-trong-thang-10-188260812083430657.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chỉ đạo mới nhất của Phó Thủ tướng với dự án cao tốc lớn nhất Tây Bắc, dự kiến tổng vốn hơn 65.500 tỷ đồng, có 118 cầu, 7 hầm xuyên núi",
-        "time": "Wed, 12 Aug 2026 09:43:28",
-        "timestamp": 1786527780.46108,
-        "link": "https://cafef.vn/chi-dao-moi-nhat-cua-pho-thu-tuong-voi-du-an-cao-toc-lon-nhat-tay-bac-du-kien-tong-von-hon-65500-ty-dong-co-118-cau-7-ham-xuyen-nui-188260812091256413.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
