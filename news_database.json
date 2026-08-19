@@ -1,6 +1,56 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Phát hiện gần 24 kg vàng tại sân bay “Xứ sở vạn đảo”",
+        "time": "Wed, 19 Aug 2026 16:48:34",
+        "timestamp": 1787158114.335156,
+        "link": "https://cafef.vn/phat-hien-gan-24-kg-vang-tai-san-bay-xu-so-van-dao-188260819162327807.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Sắc đỏ bao phủ thị trường chứng khoán, thanh khoản tiếp tục “teo tóp”",
+        "time": "Wed, 19 Aug 2026 16:48:34",
+        "timestamp": 1787158113.335156,
+        "link": "https://cafef.vn/sac-do-bao-phu-thi-truong-chung-khoan-thanh-khoan-tiep-tuc-teo-top-18826081915275572.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vừa bắt tay tỷ phú Elon Musk, ông Phạm Nhật Vượng săn nhân tài công nghệ vũ trụ, thu nhập cạnh tranh hàng đầu thị trường",
+        "time": "Wed, 19 Aug 2026 16:48:34",
+        "timestamp": 1787158112.335156,
+        "link": "https://cafef.vn/vua-bat-tay-ty-phu-elon-musk-ong-pham-nhat-vuong-san-nhan-tai-cong-nghe-vu-tru-thu-nhap-canh-tranh-hang-dau-thi-truong-188260819162515904.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vingroup dự kiến tặng căn hộ hoặc 800 triệu đồng/người cho 36 Bà mẹ Việt Nam Anh hùng ở Hải Phòng",
+        "time": "Wed, 19 Aug 2026 16:48:34",
+        "timestamp": 1787158111.335156,
+        "link": "https://cafef.vn/vingroup-du-kien-tang-can-ho-hoac-800-trieu-dong-nguoi-cho-36-ba-me-viet-nam-anh-hung-o-hai-phong-188260819161434064.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Diện mạo mới sân bay Liên Khương sau 5 tháng nâng cấp",
+        "time": "Wed, 19 Aug 2026 16:48:34",
+        "timestamp": 1787158110.335156,
+        "link": "https://cafef.vn/dien-mao-moi-san-bay-lien-khuong-sau-5-thang-nang-cap-188260819143420399.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Loạt doanh nghiệp bị phạt nặng vì chậm công bố nhiều báo cáo, giao dịch \"chui\" với bên liên quan",
         "time": "Wed, 19 Aug 2026 16:03:28",
         "timestamp": 1787155408.17205,
@@ -7948,55 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Bắc Ninh mở 'siêu khu kinh tế' công nghệ cao 10.000 ha",
-        "time": "Thu, 13 Aug 2026 14:38:18",
-        "timestamp": 1786631881.979798,
-        "link": "https://cafef.vn/bac-ninh-mo-sieu-khu-kinh-te-cong-nghe-cao-10000-ha-188260813110917069.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Chuyên gia chỉ ra 3 sai lầm nhà đầu tư dễ mắc khi xuống tiền mua cổ phiếu",
-        "time": "Thu, 13 Aug 2026 12:56:47",
-        "timestamp": 1786625807.645472,
-        "link": "https://cafef.vn/chuyen-gia-chi-ra-3-sai-lam-nha-dau-tu-de-mac-khi-xuong-tien-mua-co-phieu-18826081311283648.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sau hơn 1 tháng khởi công, nhà máy cà phê được kỳ vọng lớn nhất Đông Nam Á do Trung Nguyên Legend của ông Đặng Lê Nguyên Vũ đầu tư đang triển khai ra sao?",
-        "time": "Thu, 13 Aug 2026 12:56:47",
-        "timestamp": 1786625806.645472,
-        "link": "https://cafef.vn/sau-hon-1-thang-khoi-cong-nha-may-ca-phe-duoc-ky-vong-lon-nhat-dong-nam-a-do-trung-nguyen-legend-cua-ong-dang-le-nguyen-vu-dau-tu-dang-trien-khai-ra-sao-188260813113733034.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "HoREA đề xuất cho chủ đầu tư thu tiền đặt cọc 5% khi dự án chưa đủ điều kiện bán",
-        "time": "Thu, 13 Aug 2026 12:56:47",
-        "timestamp": 1786625805.645472,
-        "link": "https://cafef.vn/horea-de-xuat-cho-chu-dau-tu-thu-tien-dat-coc-5-khi-du-an-chua-du-dieu-kien-ban-188260813113835611.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Khu du lịch quốc gia hồ Hòa Bình 52.200 ha hướng tới trở thành điểm đến sinh thái, nghỉ dưỡng  vươn tầm Đông Nam Á",
-        "time": "Thu, 13 Aug 2026 12:56:47",
-        "timestamp": 1786625804.645472,
-        "link": "https://cafef.vn/khu-du-lich-quoc-gia-ho-hoa-binh-52200-ha-huong-toi-tro-thanh-diem-den-sinh-thai-nghi-duong-vuon-tam-dong-nam-a-188260813113627117.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
