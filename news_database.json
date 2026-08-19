@@ -1,5 +1,45 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Một công ty chứng khoán \"rót\" gần 1.000 tỷ đồng vào một mã ngân hàng, tạm lãi hơn trăm tỷ",
+        "time": "Wed, 19 Aug 2026 19:42:52",
+        "timestamp": 1787168572.797405,
+        "link": "https://cafef.vn/mot-cong-ty-chung-khoan-rot-gan-1000-ty-dong-vao-mot-ma-ngan-hang-tam-lai-hon-tram-ty-188260819194108166.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Novaland sẽ dùng hơn 8.000 tỷ đồng từ chào bán cổ phiếu vào mục đích gì?",
+        "time": "Wed, 19 Aug 2026 19:42:52",
+        "timestamp": 1787168571.797405,
+        "link": "https://cafef.vn/novaland-se-dung-hon-8000-ty-dong-tu-chao-ban-co-phieu-vao-muc-dich-gi-188260819193619907.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "‘Đại gia’ đứng sau Nhà máy điện rác lớn nhất miền Trung vừa khởi công: Đang gom cổ phần loạt dự án điện rác, năng lượng khắp cả nước",
+        "time": "Wed, 19 Aug 2026 19:42:52",
+        "timestamp": 1787168570.797405,
+        "link": "https://cafef.vn/dai-gia-dung-sau-nha-may-dien-rac-lon-nhat-mien-trung-vua-khoi-cong-dang-gom-co-phan-loat-du-an-dien-rac-nang-luong-khap-ca-nuoc-188260819173703367.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "VETC và ePass đang thống lĩnh mảng thu phí không dừng, ai đứng sau?",
+        "time": "Wed, 19 Aug 2026 19:42:52",
+        "timestamp": 1787168569.797405,
+        "link": "https://cafef.vn/vetc-va-epass-dang-thong-linh-mang-thu-phi-khong-dung-ai-dung-sau-188260819172011348.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Ngân hàng",
         "title": "Gần 2 triệu tỷ đồng bất động sản được thế chấp tại một ngân hàng",
         "time": "Wed, 19 Aug 2026 18:50:37",
@@ -7955,46 +7995,6 @@
         "time": "Thu, 13 Aug 2026 14:38:18",
         "timestamp": 1786631898.979798,
         "link": "https://cafef.vn/ong-nguyen-duy-hung-bi-gia-mao-188260813131741774.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Thị trường TPDN tháng 7/2026: Lượng phát hành mới sụt giảm mạnh, thanh khoản thứ cấp bứt phá",
-        "time": "Thu, 13 Aug 2026 14:38:18",
-        "timestamp": 1786631897.979798,
-        "link": "https://cafef.vn/thi-truong-tpdn-thang-7-2026-luong-phat-hanh-moi-sut-giam-manh-thanh-khoan-thu-cap-but-pha-18826081314275606.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một cổ phiếu tăng sốc 40% trong ngày mùng 1 tháng 7 Âm lịch",
-        "time": "Thu, 13 Aug 2026 14:38:18",
-        "timestamp": 1786631896.979798,
-        "link": "https://cafef.vn/mot-co-phieu-tang-soc-40-trong-ngay-mung-1-thang-7-am-lich-18826081314255718.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "“Trắng” doanh thu cốt lõi, một doanh nghiệp khoáng sản vẫn đều tay chia cổ tức tiền mặt",
-        "time": "Thu, 13 Aug 2026 14:38:18",
-        "timestamp": 1786631895.979798,
-        "link": "https://cafef.vn/trang-doanh-thu-cot-loi-mot-doanh-nghiep-khoang-san-van-deu-tay-chia-co-tuc-tien-mat-188260813141926454.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Starlink chính thức có mặt tại Việt Nam, giá từ 1,13 triệu đồng mỗi tháng",
-        "time": "Thu, 13 Aug 2026 14:38:18",
-        "timestamp": 1786631894.979798,
-        "link": "https://cafef.vn/starlink-chinh-thuc-co-mat-tai-viet-nam-gia-tu-113-trieu-dong-moi-thang-18826081313522468.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
