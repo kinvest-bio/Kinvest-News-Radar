@@ -1,6 +1,46 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Phiên 20/8: Khối ngoại bán ròng hơn 600 tỷ đồng trên HOSE, cổ phiếu nào bị \"xả\" mạnh nhất?",
+        "time": "Thu, 20 Aug 2026 16:16:24",
+        "timestamp": 1787242584.79819,
+        "link": "https://cafef.vn/phien-20-8-khoi-ngoai-ban-rong-hon-600-ty-dong-tren-hose-co-phieu-nao-bi-xa-manh-nhat-188260820154406132.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Agribank dành hơn 9 tỷ đồng ưu đãi sinh viên nhân dịp khai trường",
+        "time": "Thu, 20 Aug 2026 16:16:24",
+        "timestamp": 1787242583.79819,
+        "link": "https://cafef.vn/agribank-danh-hon-9-ty-dong-uu-dai-sinh-vien-nhan-dip-khai-truong-188260820154652732.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng Nhà nước: Sẽ tái cấp vốn cho các ngân hàng để hỗ trợ thanh khoản",
+        "time": "Thu, 20 Aug 2026 16:16:24",
+        "timestamp": 1787242582.79819,
+        "link": "https://cafef.vn/ngan-hang-nha-nuoc-se-tai-cap-von-cho-cac-ngan-hang-de-ho-tro-thanh-khoan-188260820144848175.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "TPHCM cảnh báo tin giả về sắp xếp đơn vị hành chính",
+        "time": "Thu, 20 Aug 2026 16:16:24",
+        "timestamp": 1787242581.79819,
+        "link": "https://cafef.vn/tphcm-canh-bao-tin-gia-ve-sap-xep-don-vi-hanh-chinh-188260820092710716.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Miễn nhiệm TGĐ Nguyễn Khánh Linh",
         "time": "Thu, 20 Aug 2026 15:36:35",
         "timestamp": 1787240195.950875,
@@ -7958,45 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Thu nhập bình quân từng bằng 1/2 Campuchia, 1/5 Philippines, Việt Nam mất 27 năm vượt Philippines, mấy năm vượt   Campuchia?",
-        "time": "Fri, 14 Aug 2026 12:55:22",
-        "timestamp": 1786712117.321447,
-        "link": "https://cafef.vn/thu-nhap-binh-quan-tung-bang-1-2-campuchia-1-5-philippines-viet-nam-mat-27-nam-vuot-philippines-may-nam-vuot-campuchia-188260814113746657.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "“Ông chủ” của 7.000 cửa hàng Thế Giới Di Động, Điện Máy Xanh, Bách Hóa Xanh, An Khang… kiếm bao nhiêu tiền mỗi ngày?",
-        "time": "Fri, 14 Aug 2026 11:23:54",
-        "timestamp": 1786706634.978487,
-        "link": "https://cafef.vn/ong-chu-cua-7000-cua-hang-the-gioi-di-dong-dien-may-xanh-bach-hoa-xanh-an-khang-kiem-bao-nhieu-tien-moi-ngay-18826081411085934.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Ông Jonathan Hạnh Nguyễn viết tâm thư gửi cổ đông",
-        "time": "Fri, 14 Aug 2026 11:23:54",
-        "timestamp": 1786706633.978487,
-        "link": "https://cafef.vn/ong-jonathan-hanh-nguyen-viet-tam-thu-gui-co-dong-188260814111006153.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một doanh nghiệp điện có Chủ tịch bị bắt thông báo nóng về nhân sự",
-        "time": "Fri, 14 Aug 2026 11:23:54",
-        "timestamp": 1786706632.978487,
-        "link": "https://cafef.vn/mot-doanh-nghiep-dien-co-chu-tich-bi-bat-thong-bao-nong-ve-nhan-su-1882608141102412.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
