@@ -1,5 +1,65 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Sếp SSI đăng ký mua 5 triệu cổ phiếu ngay trước thềm nâng hạng",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259560.545802,
+        "link": "https://cafef.vn/sep-ssi-dang-ky-mua-5-trieu-co-phieu-ngay-truoc-them-nang-hang-188260820204931304.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Một cổ phiếu tăng “phi mã\" trước thềm họp ĐHCĐ bất thường",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259559.545802,
+        "link": "https://cafef.vn/mot-co-phieu-tang-phi-ma-truoc-them-hop-dhcd-bat-thuong-188260820204315683.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội chuẩn bị kịch bản 'chống tê liệt' giao thông khi mưa cực đoan",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259558.545802,
+        "link": "https://cafef.vn/ha-noi-chuan-bi-kich-ban-chong-te-liet-giao-thong-khi-mua-cuc-doan-188260820204848002.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Bamboo Airways hủy chuyến, Bộ Công Thương khuyến cáo khách cách nhận hoàn tiền",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259557.545802,
+        "link": "https://cafef.vn/bamboo-airways-huy-chuyen-bo-cong-thuong-khuyen-cao-khach-cach-nhan-hoan-tien-188260820203145166.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Phó Thủ tướng yêu cầu làm rõ trách nhiệm sự cố chuyến bay VN34 tại Munich",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259556.545802,
+        "link": "https://cafef.vn/pho-thu-tuong-yeu-cau-lam-ro-trach-nhiem-su-co-chuyen-bay-vn34-tai-munich-188260820202940558.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Đình chỉ hoạt động 3 doanh nghiệp mô tô nước ở Cửa Lò",
+        "time": "Thu, 20 Aug 2026 20:59:20",
+        "timestamp": 1787259555.545802,
+        "link": "https://cafef.vn/dinh-chi-hoat-dong-3-doanh-nghiep-mo-to-nuoc-o-cua-lo-188260820202634133.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "Masterise Homes tổ chức sự kiện trải nghiệm nghệ thuật tri ân khách hàng dự án Masteri Grand Coast",
         "time": "Thu, 20 Aug 2026 20:10:13",
@@ -7935,66 +7995,6 @@
         "time": "Fri, 14 Aug 2026 15:44:19",
         "timestamp": 1786722257.255105,
         "link": "https://cafef.vn/ha-noi-tang-toc-hoan-thanh-co-so-du-lieu-dat-dai-188260814144828224.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Biến nhà cũ thành không gian xanh mát với khu vườn và hồ cá Koi",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722256.255105,
-        "link": "https://cafef.vn/bien-nha-cu-thanh-khong-gian-xanh-mat-voi-khu-vuon-va-ho-ca-koi-188260814142621455.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Người dân được gì khi tích hợp sổ đỏ trên VNeID?",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722255.255105,
-        "link": "https://cafef.vn/nguoi-dan-duoc-gi-khi-tich-hop-so-do-tren-vneid-188260814142418146.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Sếp Nông nghiệp Hòa Phát trả lời câu hỏi: Thị trường heo Việt Nam có lặp lại kịch bản của Trung Quốc?",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722254.255105,
-        "link": "https://cafef.vn/sep-nong-nghiep-hoa-phat-tra-loi-cau-hoi-thi-truong-heo-viet-nam-co-lap-lai-kich-ban-cua-trung-quoc-188260814153358623.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng miếng, vàng nhẫn trơn chiều 14/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722253.255105,
-        "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-tron-chieu-14-8-tai-sjc-pnj-doji-bao-tin-minh-chau-va-bao-tin-manh-hai-188260814142306722.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Ngân hàng Nhà nước: Nhà đầu tư nước ngoài có xu hướng mua ngoại tệ để chuyển lợi nhuận về nước, riêng 7 tháng đầu năm là 3,77 tỷ USD",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722252.255105,
-        "link": "https://cafef.vn/ngan-hang-nha-nuoc-nha-dau-tu-nuoc-ngoai-co-xu-huong-mua-ngoai-te-de-chuyen-loi-nhuan-ve-nuoc-rieng-7-thang-dau-nam-la-377-ty-usd-188260814151556517.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Quy định mới với Agribank, Vietcombank, BIDV, VietinBank từ 1/10: Liên quan phân phối lợi nhuận, tăng vốn điều lệ",
-        "time": "Fri, 14 Aug 2026 15:44:19",
-        "timestamp": 1786722251.255105,
-        "link": "https://cafef.vn/quy-dinh-moi-voi-agribank-vietcombank-bidv-vietinbank-tu-1-10-lien-quan-phan-phoi-loi-nhuan-tang-von-dieu-le-188260814150605982.chn",
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
