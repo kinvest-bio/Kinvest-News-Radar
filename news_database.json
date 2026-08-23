@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lộ đường dây kinh doanh khí dầu mỏ hóa lỏng LPG giả tại Hà Nội",
+        "time": "Sun, 23 Aug 2026 15:47:50",
+        "timestamp": 1787500070.397638,
+        "link": "https://cafef.vn/lo-duong-day-kinh-doanh-khi-dau-mo-hoa-long-lpg-gia-tai-ha-noi-188260823152401798.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Điều kiện giảm trừ mức đóng khi mua BHYT hộ gia đình",
+        "time": "Sun, 23 Aug 2026 15:47:50",
+        "timestamp": 1787500069.397638,
+        "link": "https://cafef.vn/dieu-kien-giam-tru-muc-dong-khi-mua-bhyt-ho-gia-dinh-188260823152804214.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cách thay đổi nơi đăng ký khám chữa bệnh bảo hiểm y tế ban đầu",
+        "time": "Sun, 23 Aug 2026 15:47:50",
+        "timestamp": 1787500068.397638,
+        "link": "https://cafef.vn/cach-thay-doi-noi-dang-ky-kham-chua-benh-bao-hiem-y-te-ban-dau-188260823133450152.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "FTSE vừa có 1 thay đổi, Vietcap nâng dự phóng dòng vốn chảy vào Việt Nam lên gần 80.000 tỷ đồng",
         "time": "Sun, 23 Aug 2026 15:00:58",
@@ -7965,36 +7995,6 @@
         "time": "Mon, 17 Aug 2026 16:51:50",
         "timestamp": 1786985505.47251,
         "link": "https://cafef.vn/tu-ngay-1-7-mot-luat-o-viet-nam-co-hieu-luc-vi-sao-nhieu-nguoi-tieu-dung-van-kho-khi-mua-hang-online-188260817160541086.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "[Infographic] Hai trường hợp được đóng bù BHXH để đủ điều kiện hưởng lương hưu",
-        "time": "Mon, 17 Aug 2026 16:51:50",
-        "timestamp": 1786985504.47251,
-        "link": "https://cafef.vn/infographic-hai-truong-hop-duoc-dong-bu-bhxh-de-du-dieu-kien-huong-luong-huu-188260817150038637.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Thanh khoản chứng khoán xuống thấp nhất 1 tháng",
-        "time": "Mon, 17 Aug 2026 16:00:03",
-        "timestamp": 1786982403.886756,
-        "link": "https://cafef.vn/thanh-khoan-chung-khoan-xuong-thap-nhat-1-thang-188260817151907154.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Khối ngoại bán ròng hơn 600 tỷ đồng trong phiên đầu tuần, cổ phiếu nào là tâm điểm \"xả hàng\"?",
-        "time": "Mon, 17 Aug 2026 16:00:03",
-        "timestamp": 1786982402.886756,
-        "link": "https://cafef.vn/khoi-ngoai-ban-rong-hon-600-ty-dong-trong-phien-dau-tuan-co-phieu-nao-la-tam-diem-xa-hang-18826081715180944.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
