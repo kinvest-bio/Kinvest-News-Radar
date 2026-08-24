@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Thành viên của “ông lớn” Abbott tại Việt Nam sắp trả cổ tức cao bằng tiền mặt",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574016.065933,
+        "link": "https://cafef.vn/thanh-vien-cua-ong-lon-abbott-tai-viet-nam-sap-tra-co-tuc-cao-bang-tien-mat-18826082411274597.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Sự thực thông tin cầu Đông Kinh bị nứt ngang",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574015.065933,
+        "link": "https://cafef.vn/su-thuc-thong-tin-cau-dong-kinh-bi-nut-ngang-188260824114703339.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Ngôi nhà sử dụng gạch thông gió tạo thông thoáng, mát mẻ quanh năm",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574014.065933,
+        "link": "https://cafef.vn/ngoi-nha-su-dung-gach-thong-gio-tao-thong-thoang-mat-me-quanh-nam-188260824063638238.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "5 cây cảnh hút ẩm, khử mùi trong nhà hiệu quả",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574013.065933,
+        "link": "https://cafef.vn/5-cay-canh-hut-am-khu-mui-trong-nha-hieu-qua-188260824092311317.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Tập đoàn Việt Nam lớn thứ 148 Đông Nam Á đặt mục tiêu doanh thu gần 96.000 tỷ đồng trong năm 2030, nhắm tới bán dẫn, pin lưu trữ",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574012.065933,
+        "link": "https://cafef.vn/tap-doan-viet-nam-lon-thu-148-dong-nam-a-dat-muc-tieu-doanh-thu-gan-96000-ty-dong-trong-nam-2030-nham-toi-ban-dan-pin-luu-tru-188260824121907004.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Một công ty sắp trả cổ tức tiền mặt tỷ lệ 25%",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574011.065933,
+        "link": "https://cafef.vn/mot-cong-ty-sap-tra-co-tuc-tien-mat-ty-le-25-188260824113251707.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "‘Chốt’ đường Vành đai 5 - Vùng Thủ đô dài 349 km, tổng vốn hơn 288 nghìn tỷ đồng",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574010.065933,
+        "link": "https://cafef.vn/chot-duong-vanh-dai-5-vung-thu-do-dai-349-km-tong-von-hon-288-nghin-ty-dong-18826082411262351.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Bão số 4 gây mưa lớn, nhiều tuyến phố từng thường xuyên ngập sâu ở Hà Nội ra sao?",
+        "time": "Mon, 24 Aug 2026 12:20:16",
+        "timestamp": 1787574009.065933,
+        "link": "https://cafef.vn/bao-so-4-gay-mua-lon-nhieu-tuyen-pho-tung-thuong-xuyen-ngap-sau-o-ha-noi-ra-sao-188260824100552892.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Vàng sắp làm nên điều chưa từng có trong lịch sử?",
         "time": "Mon, 24 Aug 2026 11:28:33",
         "timestamp": 1787570913.084453,
@@ -7915,86 +7995,6 @@
         "time": "Tue, 18 Aug 2026 09:28:50",
         "timestamp": 1787045329.160484,
         "link": "https://cafef.vn/nguoi-than-lanh-dao-vietbank-mua-vao-218-trieu-co-phieu-vbb-188260818082238868.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Giá vàng hôm nay 18/8: Tăng mạnh, vượt 4.400 USD/ounce",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045328.160484,
-        "link": "https://cafef.vn/gia-vang-hom-nay-18-8-tang-manh-vuot-4400-usd-ounce-188260818081007344.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Điểm đặc biệt của lô 'đất vàng' ở Thủ Thiêm sắp được đấu giá",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045327.160484,
-        "link": "https://cafef.vn/diem-dac-biet-cua-lo-dat-vang-o-thu-thiem-sap-duoc-dau-gia-188260818090909422.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chi phí xây nhà mái Nhật 1 tầng 2 phòng ngủ 75m² khoảng bao nhiêu?",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045326.160484,
-        "link": "https://cafef.vn/chi-phi-xay-nha-mai-nhat-1-tang-2-phong-ngu-75m-khoang-bao-nhieu-188260818082027258.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "BĐS biển vào cuộc đua mới, căn hộ hoàn thiện chuẩn 5 sao lên ngôi tại Vũng Tàu",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045325.160484,
-        "link": "https://cafef.vn/bds-bien-vao-cuoc-dua-moi-can-ho-hoan-thien-chuan-5-sao-len-ngoi-tai-vung-tau-188260818081907943.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Quảng trường hồ Hoàn Kiếm: Ngã tư đắc địa và trục thương mại đặc biệt đang định hình tại trung tâm Thủ đô",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045324.160484,
-        "link": "https://cafef.vn/quang-truong-ho-hoan-kiem-nga-tu-dac-dia-va-truc-thuong-mai-dac-biet-dang-dinh-hinh-tai-trung-tam-thu-do-188260818081624916.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Một công ty chốt danh sách trả cổ tức bằng tiền mặt tỷ lệ 30% trong tuần này",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045323.160484,
-        "link": "https://cafef.vn/mot-cong-ty-chot-danh-sach-tra-co-tuc-bang-tien-mat-ty-le-30-trong-tuan-nay-188260818091417361.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "2 chủ đầu tư tại dự án NovaWorld Ho Tram của Novaland nợ thuế TP HCM hơn 270 tỷ đồng tính đến tháng 6/2026",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045322.160484,
-        "link": "https://cafef.vn/2-chu-dau-tu-tai-du-an-novaworld-ho-tram-cua-novaland-no-thue-tp-hcm-hon-270-ty-dong-tinh-den-thang-6-2026-188260818083315679.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Ngân hàng bảo lãnh 1.000 tỷ cho Cty của đại gia Lê Thanh Thản thực hiện bồi thường tại CT6 Kiến Hưng",
-        "time": "Tue, 18 Aug 2026 09:28:50",
-        "timestamp": 1787045321.160484,
-        "link": "https://cafef.vn/ngan-hang-bao-lanh-1000-ty-cho-cty-cua-dai-gia-le-thanh-than-thuc-hien-boi-thuong-tai-ct6-kien-hung-188260818075119932.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
