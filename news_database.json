@@ -1,6 +1,86 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Một \"cá mập\" ngoại âm thầm gom cổ phiếu PNJ ngay trước khi giá nổi sóng",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656966.142373,
+        "link": "https://cafef.vn/mot-ca-map-ngoai-am-tham-gom-co-phieu-pnj-ngay-truoc-khi-gia-noi-song-188260825111154693.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Hai Phó Tổng giám đốc Viconship đăng ký bán hết cổ phiếu VSC",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656965.142373,
+        "link": "https://cafef.vn/hai-pho-tong-giam-doc-viconship-dang-ky-ban-het-co-phieu-vsc-188260825104536328.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Ngành quản lý quỹ đứng trước “mỏ vàng” lớn, CEO MB Capital chỉ ra chìa khóa khai thác",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656964.142373,
+        "link": "https://cafef.vn/nganh-quan-ly-quy-dung-truoc-mo-vang-lon-ceo-mb-capital-chi-ra-chia-khoa-khai-thac-188260825105245779.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "67 nghìn SME hoạt động trên 5 năm, không vay nợ, có dòng tiền kinh doanh, tăng trưởng doanh thu",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656963.142373,
+        "link": "https://cafef.vn/67-nghin-sme-hoat-dong-tren-5-nam-khong-vay-no-co-dong-tien-kinh-doanh-tang-truong-doanh-thu-188260825111923612.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Từ nay, VietinBank có thay đổi khi rút tiền tại tất cả máy ATM",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656962.142373,
+        "link": "https://cafef.vn/tu-nay-vietinbank-co-thay-doi-khi-rut-tien-tai-tat-ca-may-atm-188260825071259813.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Khi đặc quyền bắt đầu bằng một lời mời: Cách ACB tiếp cận giới tinh hoa",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656961.142373,
+        "link": "https://cafef.vn/khi-dac-quyen-bat-dau-bang-mot-loi-moi-cach-acb-tiep-can-gioi-tinh-hoa-188260825104027587.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cơ quan Thuế thông báo: Tạm hoãn xuất cảnh các cá nhân có tên trong danh sách sau đây",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656960.142373,
+        "link": "https://cafef.vn/co-quan-thue-thong-bao-tam-hoan-xuat-canh-cac-ca-nhan-co-ten-trong-danh-sach-sau-day-188260825110531199.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hà Nội, TPHCM tăng tốc hút khách dịp 2/9",
+        "time": "Tue, 25 Aug 2026 11:22:46",
+        "timestamp": 1787656959.142373,
+        "link": "https://cafef.vn/ha-noi-tphcm-tang-toc-hut-khach-dip-2-9-18826082507344677.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Giá vàng nhẫn nhiều thương hiệu cao hơn vàng miếng",
         "time": "Tue, 25 Aug 2026 10:31:11",
         "timestamp": 1787653871.863955,
@@ -7915,86 +7995,6 @@
         "time": "Wed, 19 Aug 2026 08:10:04",
         "timestamp": 1787126990.234808,
         "link": "https://cafef.vn/sanh-vai-bac-kinh-seoul-thanh-pho-viet-nam-lot-de-cu-oscar-du-lich-thu-10300-ty-dong-trong-6-thang-188260819074749686.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chủ xe ít đi cao tốc có phải trả phí quản lý tài khoản giao thông quanh năm?",
-        "time": "Wed, 19 Aug 2026 08:10:04",
-        "timestamp": 1787126989.234808,
-        "link": "https://cafef.vn/chu-xe-it-di-cao-toc-co-phai-tra-phi-quan-ly-tai-khoan-giao-thong-quanh-nam-188260819071846151.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "80% chung cư TPHCM có giá trên 120 triệu đồng/m2, người mua chùn bước vì 2 lý do",
-        "time": "Wed, 19 Aug 2026 06:46:27",
-        "timestamp": 1787121987.79819,
-        "link": "https://cafef.vn/80-chung-cu-tphcm-co-gia-tren-120-trieu-dong-m2-nguoi-mua-chun-buoc-vi-2-ly-do-188260819063724737.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Công bố 20 Ngân hàng nộp ngân sách lớn nhất và Top 20 Ngân hàng tư nhân nộp ngân sách lớn nhất Việt Nam 2026",
-        "time": "Wed, 19 Aug 2026 06:46:27",
-        "timestamp": 1787121986.79819,
-        "link": "https://cafef.vn/cong-bo-20-ngan-hang-nop-ngan-sach-lon-nhat-va-top-20-ngan-hang-tu-nhan-nop-ngan-sach-lon-nhat-viet-nam-2026-188260818201913769.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chỉ ít ngày nữa, đại học rộng nhất Việt Nam sẽ đón hơn 17.000 sinh viên, kết nối trực tiếp với trung tâm Hà Nội với 2 tuyến metro",
-        "time": "Wed, 19 Aug 2026 06:20:24",
-        "timestamp": 1787120424.652875,
-        "link": "https://cafef.vn/chi-it-ngay-nua-dai-hoc-rong-nhat-viet-nam-se-don-hon-17000-sinh-vien-ket-noi-truc-tiep-voi-trung-tam-ha-noi-voi-2-tuyen-metro-188260819061532496.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Nhà đầu tư đừng buồn vì thua lỗ chứng khoán...",
-        "time": "Wed, 19 Aug 2026 00:42:19",
-        "timestamp": 1787100139.484188,
-        "link": "https://cafef.vn/nha-dau-tu-dung-buon-vi-thua-lo-chung-khoan-188260818221328453.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Sang Campuchia buôn “vàng trắng”, lãi hơn 300 tỷ đồng một năm",
-        "time": "Wed, 19 Aug 2026 00:42:19",
-        "timestamp": 1787100138.484188,
-        "link": "https://cafef.vn/sang-campuchia-buon-vang-trang-lai-hon-300-ty-dong-mot-nam-188260818232017199.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Ông lớn dầu khí Việt đón “tàu khủng” dài bằng 2 sân bóng đá, sức chở hơn 61.000 tấn",
-        "time": "Wed, 19 Aug 2026 00:42:19",
-        "timestamp": 1787100137.484188,
-        "link": "https://cafef.vn/ong-lon-dau-khi-viet-don-tau-khung-dai-bang-2-san-bong-da-suc-cho-hon-61000-tan-188260818231629631.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Một doanh nghiệp dầu khí đứng trước “núi việc” 7 tỷ USD, lợi nhuận sẽ ra sao?",
-        "time": "Wed, 19 Aug 2026 00:04:07",
-        "timestamp": 1787097847.18635,
-        "link": "https://cafef.vn/mot-doanh-nghiep-dau-khi-dung-truoc-nui-viec-7-ty-usd-loi-nhuan-se-ra-sao-188260818221030593.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
