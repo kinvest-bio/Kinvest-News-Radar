@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Chứng khoán",
+        "title": "Công an tỉnh Hưng Yên vừa triệt phá đường dây đánh bạc xuyên quốc gia, quy mô 500 tỷ đồng",
+        "time": "Wed, 26 Aug 2026 22:59:46",
+        "timestamp": 1787785186.024723,
+        "link": "https://cafef.vn/cong-an-tinh-hung-yen-vua-triet-pha-duong-day-danh-bac-xuyen-quoc-gia-quy-mo-500-ty-dong-188260826225554142.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bất động sản nghỉ dưỡng “đổi cuộc chơi”: Không còn câu chuyện “mua để tăng giá”, bài toán là phải làm thế nào để tạo ra dòng tiền",
+        "time": "Wed, 26 Aug 2026 22:59:46",
+        "timestamp": 1787785185.024723,
+        "link": "https://cafef.vn/bat-dong-san-nghi-duong-doi-cuoc-choi-khong-con-cau-chuyen-mua-de-tang-gia-bai-toan-la-phai-lam-the-nao-de-tao-ra-dong-tien-188260826215801294.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Rốt ráo giải phóng mặt bằng dự án metro nối TPHCM với sân bay Long Thành",
+        "time": "Wed, 26 Aug 2026 22:59:46",
+        "timestamp": 1787785184.024723,
+        "link": "https://cafef.vn/rot-rao-giai-phong-mat-bang-du-an-metro-noi-tphcm-voi-san-bay-long-thanh-188260826210749844.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Bất động sản",
         "title": "2 nhà thầu giao thông bị 'sờ gáy'",
         "time": "Wed, 26 Aug 2026 21:25:58",
@@ -7968,35 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "TPHCM cảnh báo tin giả về sắp xếp đơn vị hành chính",
-        "time": "Thu, 20 Aug 2026 16:16:24",
-        "timestamp": 1787242581.79819,
-        "link": "https://cafef.vn/tphcm-canh-bao-tin-gia-ve-sap-xep-don-vi-hanh-chinh-188260820092710716.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Miễn nhiệm TGĐ Nguyễn Khánh Linh",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240195.950875,
-        "link": "https://cafef.vn/mien-nhiem-tgd-nguyen-khanh-linh-188260820150034615.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Hiếm có: Giá vàng trong nước mua vào bằng giá thế giới, bạc cũng giảm độ vênh",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240194.950875,
-        "link": "https://cafef.vn/hiem-co-gia-vang-trong-nuoc-mua-vao-bang-gia-the-gioi-bac-cung-giam-do-venh-188260820144402606.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
     }
 ]
