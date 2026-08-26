@@ -1,6 +1,106 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Vietcombank phát cảnh báo khẩn về việc bị giả mạo",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743433.163763,
+        "link": "https://cafef.vn/vietcombank-phat-canh-bao-khan-ve-viec-bi-gia-mao-188260826111009435.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Green GSM có động thái mới tại quốc gia láng giềng Việt Nam",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743432.163763,
+        "link": "https://cafef.vn/green-gsm-co-dong-thai-moi-tai-quoc-gia-lang-gieng-viet-nam-188260826105018144.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Sunshine Group – Dấu ấn doanh nghiệp tư nhân trong đóng góp ngân sách Nhà nước",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743431.163763,
+        "link": "https://cafef.vn/sunshine-group-dau-an-doanh-nghiep-tu-nhan-trong-dong-gop-ngan-sach-nha-nuoc-188260826105454556.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Việt Nam đang nghiên cứu quy hoạch khu du lịch quốc gia mang tầm quốc tế hơn 2.900 ha, đề xuất xây 3 cầu cảnh quan dài gần 600m tại hồ Tuyền Lâm",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743430.163763,
+        "link": "https://cafef.vn/viet-nam-dang-nghien-cuu-quy-hoach-khu-du-lich-quoc-gia-mang-tam-quoc-te-hon-2900-ha-de-xuat-xay-3-cau-canh-quan-dai-gan-600m-tai-ho-tuyen-lam-188260826110003732.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hà Nội khánh thành đường Vành đai 1, khởi công đường quanh hồ Tây dịp Quốc khánh",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743429.163763,
+        "link": "https://cafef.vn/ha-noi-khanh-thanh-duong-vanh-dai-1-khoi-cong-duong-quanh-ho-tay-dip-quoc-khanh-188260826104115664.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "TPHCM triển khai Luật Phát triển đô thị",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743428.163763,
+        "link": "https://cafef.vn/tphcm-trien-khai-luat-phat-trien-do-thi-18826082610434104.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đúng 5 ngày nữa, người sử dụng đất không làm những thủ tục này có thể bị xử phạt đến 3 triệu đồng",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743427.163763,
+        "link": "https://cafef.vn/dung-5-ngay-nua-nguoi-su-dung-dat-khong-lam-nhung-thu-tuc-nay-co-the-bi-xu-phat-den-3-trieu-dong-18826082610593775.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Mua đất trang trại cần lưu ý gì để tránh rủi ro?",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743426.163763,
+        "link": "https://cafef.vn/mua-dat-trang-trai-can-luu-y-gi-de-tranh-rui-ro-188260826074936026.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Startup thịt trâu gác bếp Huho từng lên Shark Tank từng tham vọng vươn tầm thế giới: Dừng bán hàng?",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743425.163763,
+        "link": "https://cafef.vn/startup-thit-trau-gac-bep-huho-tung-len-shark-tank-tung-tham-vong-vuon-tam-the-gioi-dung-ban-hang-188260826105318002.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Kết nối với khu vực FDI ít cải thiện, Việt Nam cần làm gì để nâng giá trị nội địa?",
+        "time": "Wed, 26 Aug 2026 11:23:53",
+        "timestamp": 1787743424.163763,
+        "link": "https://cafef.vn/ket-noi-voi-khu-vuc-fdi-it-cai-thien-viet-nam-can-lam-gi-de-nang-gia-tri-noi-dia-188260826105546272.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "FTSE Russell công bố tài liệu quan trọng về tỷ trọng của Việt Nam, lộ trình giải ngân, phân loại cổ phiếu…",
         "time": "Wed, 26 Aug 2026 10:38:53",
         "timestamp": 1787740733.197369,
@@ -7895,106 +7995,6 @@
         "time": "Thu, 20 Aug 2026 08:08:49",
         "timestamp": 1787213320.964829,
         "link": "https://cafef.vn/lo-dien-du-an-gan-800-can-nha-o-xa-hoi-tai-ha-noi-gia-ban-khoang-24-trieu-dong-m2-188260820070251793.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chưa đầy 1 tuần nữa, Tập đoàn FPT sẽ khởi công dự án gần 650 tỷ tại một tỉnh miền núi phía Bắc",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213319.964829,
-        "link": "https://cafef.vn/chua-day-1-tuan-nua-tap-doan-fpt-se-khoi-cong-du-an-gan-650-ty-tai-mot-tinh-mien-nui-phia-bac-18826082007011094.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Cầu tín dụng vẫn cao, lợi thế nghiêng về ngân hàng có chi phí vốn thấp và dư địa tăng trưởng",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213318.964829,
-        "link": "https://cafef.vn/cau-tin-dung-van-cao-loi-the-nghieng-ve-ngan-hang-co-chi-phi-von-thap-va-du-dia-tang-truong-188260819224327089.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "VIB: Khách hàng cần nhiều giá trị hơn, nhưng không nhất thiết cần thêm nhiều chiếc thẻ",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213317.964829,
-        "link": "https://cafef.vn/vib-khach-hang-can-nhieu-gia-tri-hon-nhung-khong-nhat-thiet-can-them-nhieu-chiec-the-188260819204141287.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng nhẫn trơn, vàng miếng sáng 20/8 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu, Mi Hồng,....",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213316.964829,
-        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-sang-20-8-tai-sjc-pnj-doji-bao-tin-minh-chau-mi-hong-188260820080651429.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "OCB duy trì đóng góp ngân sách nghìn tỷ, gia tăng giá trị cho nền kinh tế",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213315.964829,
-        "link": "https://cafef.vn/ocb-duy-tri-dong-gop-ngan-sach-nghin-ty-gia-tang-gia-tri-cho-nen-kinh-te-18826081920551415.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Chuyển đổi số ngành Ngân hàng: Cuộc chuyển mình của một hạ tầng với đa lớp giá trị",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213314.964829,
-        "link": "https://cafef.vn/chuyen-doi-so-nganh-ngan-hang-cuoc-chuyen-minh-cua-mot-ha-tang-voi-da-lop-gia-tri-188260820070518561.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "An Giang: Tạm giữ 4 đối tượng trong đường dây lừa đảo và rửa tiền 800 tỷ đồng",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213313.964829,
-        "link": "https://cafef.vn/an-giang-tam-giu-4-doi-tuong-trong-duong-day-lua-dao-va-rua-tien-800-ty-dong-188260818075651799.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Công an truy tìm 2 người liên quan vụ vận chuyển trái phép hơn 12 triệu USD",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213312.964829,
-        "link": "https://cafef.vn/cong-an-truy-tim-2-nguoi-lien-quan-vu-van-chuyen-trai-phep-hon-12-trieu-usd-188260818151105212.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Giảm áp lực 'đầu vào' về thuế, phí, tín dụng cho doanh nghiệp",
-        "time": "Thu, 20 Aug 2026 08:08:49",
-        "timestamp": 1787213311.964829,
-        "link": "https://cafef.vn/giam-ap-luc-dau-vao-ve-thue-phi-tin-dung-cho-doanh-nghiep-188260819151102582.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "\"Thị trường bất động sản phía Nam chính thức xác lập mức đáy, mức độ quan tâm tương đương năm 2021\"",
-        "time": "Thu, 20 Aug 2026 06:46:30",
-        "timestamp": 1787208390.888805,
-        "link": "https://cafef.vn/thi-truong-bat-dong-san-phia-nam-chinh-thuc-xac-lap-muc-day-muc-do-quan-tam-tuong-duong-nam-2021-188260820064002844.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
