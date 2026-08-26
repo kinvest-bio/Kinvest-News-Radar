@@ -1,5 +1,45 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Nhiều tuyến đường xuống cấp nghiêm trọng sau thi công cao tốc Biên Hòa - Vũng Tàu",
+        "time": "Wed, 26 Aug 2026 16:57:20",
+        "timestamp": 1787763440.754992,
+        "link": "https://cafef.vn/nhieu-tuyen-duong-xuong-cap-nghiem-trong-sau-thi-cong-cao-toc-bien-hoa-vung-tau-188260826155113647.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Ngân hàng Hàn Quốc KB Kookmin lên tiếng về việc mua 15% Techcombank: Chỉ là một trong số hàng chục ứng cử viên tiềm năng",
+        "time": "Wed, 26 Aug 2026 16:57:20",
+        "timestamp": 1787763439.754992,
+        "link": "https://cafef.vn/ngan-hang-han-quoc-kb-kookmin-len-tieng-ve-viec-mua-15-techcombank-chi-la-mot-trong-so-hang-chuc-ung-cu-vien-tiem-nang-18826082616153399.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Việt Nam sở hữu một vòm thép lớn nhất ASEAN",
+        "time": "Wed, 26 Aug 2026 16:57:20",
+        "timestamp": 1787763438.754992,
+        "link": "https://cafef.vn/viet-nam-so-huu-mot-vom-thep-lon-nhat-asean-188260826162238094.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "ICAEW và Cục Quản lý, giám sát kế toán, kiểm toán - Bộ Tài chính ký kết gia hạn hợp tác",
+        "time": "Wed, 26 Aug 2026 16:57:20",
+        "timestamp": 1787763437.754992,
+        "link": "https://cafef.vn/icaew-va-cuc-quan-ly-giam-sat-ke-toan-kiem-toan-bo-tai-chinh-ky-ket-gia-han-hop-tac-188260826161653859.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Một bluechip được khối ngoại \"rót\" hơn 200 tỷ đồng phiên VN-Index tăng 30 điểm",
         "time": "Wed, 26 Aug 2026 16:11:07",
@@ -7958,45 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Vượt TP.HCM và Hà Nội, địa phương này trở thành nơi có GRDP bình quân cao nhất Việt Nam",
-        "time": "Thu, 20 Aug 2026 14:46:13",
-        "timestamp": 1787237159.328442,
-        "link": "https://cafef.vn/vuot-tphcm-va-ha-noi-dia-phuong-nay-tro-thanh-noi-co-grdp-binh-quan-cao-nhat-viet-nam-188260820140439287.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Vận hành toàn bộ các trạm dừng nghỉ trên cao tốc Bắc-Nam dịp nghỉ lễ 2/9",
-        "time": "Thu, 20 Aug 2026 13:57:40",
-        "timestamp": 1787234260.672855,
-        "link": "https://cafef.vn/van-hanh-toan-bo-cac-tram-dung-nghi-tren-cao-toc-bac-nam-dip-nghi-le-2-9-188260820132942684.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Tỷ phú Phạm Nhật Vượng “khoe” Robot mini hình người mới lên trình bất ngờ",
-        "time": "Thu, 20 Aug 2026 12:58:44",
-        "timestamp": 1787230724.659009,
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-khoe-robot-mini-hinh-nguoi-moi-len-trinh-bat-ngo-188260820123537564.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Quên mã PIN, nam MC nổi tiếng suýt mất trắng tài sản vì chiếc bẫy cực nguy hiểm",
-        "time": "Thu, 20 Aug 2026 12:28:45",
-        "timestamp": 1787228925.311569,
-        "link": "https://cafef.vn/quen-ma-pin-nam-mc-noi-tieng-suyt-mat-trang-tai-san-vi-chiec-bay-cuc-nguy-hiem-188260820111635936.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
