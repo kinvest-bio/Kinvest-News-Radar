@@ -1,5 +1,55 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "2 nhà thầu giao thông bị 'sờ gáy'",
+        "time": "Wed, 26 Aug 2026 21:25:58",
+        "timestamp": 1787779558.601815,
+        "link": "https://cafef.vn/2-nha-thau-giao-thong-bi-so-gay-188260826210509785.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Động thái của doanh nghiệp 'dính' sai phạm ở khu du lịch Nam Hồ",
+        "time": "Wed, 26 Aug 2026 21:25:58",
+        "timestamp": 1787779557.601815,
+        "link": "https://cafef.vn/dong-thai-cua-doanh-nghiep-dinh-sai-pham-o-khu-du-lich-nam-ho-188260826190615773.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Từ nhà xưởng đến kho vận: Searefico triển khai gần 9,6 ha dự án công nghiệp – logistics",
+        "time": "Wed, 26 Aug 2026 21:25:58",
+        "timestamp": 1787779556.601815,
+        "link": "https://cafef.vn/tu-nha-xuong-den-kho-van-searefico-trien-khai-gan-96-ha-du-an-cong-nghiep-logistics-18826082621183595.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Đề xuất lương CEO Cơ quan điều hành Trung tâm Tài chính quốc tế tại TPHCM đến 850 triệu đồng/tháng",
+        "time": "Wed, 26 Aug 2026 21:25:58",
+        "timestamp": 1787779555.601815,
+        "link": "https://cafef.vn/de-xuat-luong-ceo-co-quan-dieu-hanh-trung-tam-tai-chinh-quoc-te-tai-tphcm-den-850-trieu-dong-thang-188260826204840267.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Home Credit Việt Nam báo lãi nửa đầu năm tăng 15%, dư nợ trái phiếu 7.400 tỷ đồng",
+        "time": "Wed, 26 Aug 2026 21:25:58",
+        "timestamp": 1787779554.601815,
+        "link": "https://cafef.vn/home-credit-viet-nam-bao-lai-nua-dau-nam-tang-15-du-no-trai-phieu-7400-ty-dong-188260826205007824.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "VN-Index vượt mốc 1.800 điểm",
         "time": "Wed, 26 Aug 2026 20:33:11",
@@ -7948,55 +7998,5 @@
         "sentiment": "TIÊU CỰC",
         "color": "#EF4444",
         "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Tập trung tháo gỡ điểm nghẽn dự án đường Lĩnh Nam",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240193.950875,
-        "link": "https://cafef.vn/tap-trung-thao-go-diem-nghen-du-an-duong-linh-nam-188260820142359335.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Nhóm quỹ ngoại rời ghế cổ đông lớn tại “ông lớn” cảng biển Gemadept",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240192.950875,
-        "link": "https://cafef.vn/nhom-quy-ngoai-roi-ghe-co-dong-lon-tai-ong-lon-cang-bien-gemadept-188260820145747648.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vinhomes nhân đôi vốn điều lệ, vượt 82.000 tỷ đồng sau đợt chia cổ tức “khủng”",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240191.950875,
-        "link": "https://cafef.vn/vinhomes-nhan-doi-von-dieu-le-vuot-82000-ty-dong-sau-dot-chia-co-tuc-khung-188260820145741147.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "CEO tập đoàn doanh thu 5,8 tỷ EUR chỉ cách tiết kiệm 50–60% điện từ chiếu sáng",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240190.950875,
-        "link": "https://cafef.vn/ceo-tap-doan-doanh-thu-58-ty-eur-chi-cach-tiet-kiem-5060-dien-tu-chieu-sang-188260820144446146.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Ngân hàng Nhà nước: Sẽ tái cấp vốn cho các ngân hàng để hỗ trợ thanh khoản, đã báo cáo Thủ tướng áp dụng cơ chế tái cấp vốn 50.000 tỷ đồng",
-        "time": "Thu, 20 Aug 2026 15:36:35",
-        "timestamp": 1787240189.950875,
-        "link": "https://cafef.vn/ngan-hang-nha-nuoc-se-tai-cap-von-cho-cac-ngan-hang-de-ho-tro-thanh-khoan-da-bao-cao-thu-tuong-ap-dung-co-che-tai-cap-von-50000-ty-dong-188260820144848175.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
