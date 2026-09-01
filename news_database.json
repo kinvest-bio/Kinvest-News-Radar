@@ -1,5 +1,25 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "T&T Group và lời giải đô thị tri thức cho chu kỳ phát triển mới của  Vĩnh Long",
+        "time": "Wed, 02 Sep 2026 03:51:29",
+        "timestamp": 1788321089.482938,
+        "link": "https://cafef.vn/tt-group-va-loi-giai-do-thi-tri-thuc-cho-chu-ky-phat-trien-moi-cua-vinh-long-188260730181811763.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Tài chính - ngân hàng",
+        "time": "Wed, 02 Sep 2026 03:51:29",
+        "timestamp": 1788321088.482938,
+        "link": "https://cafef.vn/tai-chinh-ngan-hang.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Ông Petri Deryng lý giải nguyên nhân cổ phiếu Việt Nam chưa tăng như kỳ vọng",
         "time": "Wed, 02 Sep 2026 00:57:26",
@@ -7978,25 +7998,5 @@
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Thông tin mới về sân bay quốc tế 86 năm tuổi của Việt Nam do người Pháp xây dựng",
-        "time": "Tue, 25 Aug 2026 15:22:33",
-        "timestamp": 1787671343.973827,
-        "link": "https://cafef.vn/thong-tin-moi-ve-san-bay-quoc-te-86-nam-tuoi-cua-viet-nam-do-nguoi-phap-xay-dung-188260825150318805.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chuyên gia quốc tế: \"Việt Nam không còn là phương án dự phòng trong chiến lược 'Trung Quốc+1'\"",
-        "time": "Tue, 25 Aug 2026 15:22:33",
-        "timestamp": 1787671342.973827,
-        "link": "https://cafef.vn/chuyen-gia-quoc-te-viet-nam-khong-con-la-phuong-an-du-phong-trong-chien-luoc-trung-quoc1-188260825144646263.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
     }
 ]
