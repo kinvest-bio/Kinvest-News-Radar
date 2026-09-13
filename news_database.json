@@ -1,5 +1,65 @@
 [
     {
+        "category": "CF - Doanh nghiệp",
+        "title": "Người bán bữa ăn, người bán lượt khách: Trấn Thành và Trường Giang đang làm F&B theo hai cách trái ngược",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286420.072759,
+        "link": "https://cafef.vn/nguoi-ban-bua-an-nguoi-ban-luot-khach-tran-thanh-va-truong-giang-dang-lam-fb-theo-hai-cach-trai-nguoc-188260913072011999.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Một thành phố có hệ thống ngân hàng huy động vốn chiếm hơn 37% trên cả nước",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286419.072759,
+        "link": "https://cafef.vn/mot-thanh-pho-co-he-thong-ngan-hang-huy-dong-von-chiem-hon-37-tren-ca-nuoc-188260912233050885.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng miếng, vàng nhẫn sáng 12/9 tại SJC, DOJI, PNJ, Bảo Tín Minh Châu và Bảo Tín Mạnh Hải",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286418.072759,
+        "link": "https://cafef.vn/gia-vang-mieng-vang-nhan-sang-12-9-tai-sjc-doji-pnj-bao-tin-minh-chau-va-bao-tin-manh-hai-18826091223583934.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ngân hàng NCB tiếp tục tài trợ vốn cho các dự án trọng điểm của Thủ đô Hà Nội",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286417.072759,
+        "link": "https://cafef.vn/ngan-hang-ncb-tiep-tuc-tai-tro-von-cho-cac-du-an-trong-diem-cua-thu-do-ha-noi-188260913071618638.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Dùng giao dịch ngân hàng giả, lừa hơn 2 tỷ đồng của người nước ngoài",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286416.072759,
+        "link": "https://cafef.vn/dung-giao-dich-ngan-hang-gia-lua-hon-2-ty-dong-cua-nguoi-nuoc-ngoai-188260912161020454.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Rầm rộ thi công nút giao đa tầng 3.000 tỷ, mở lối kinh tế biển TP.HCM",
+        "time": "Sun, 13 Sep 2026 08:00:20",
+        "timestamp": 1789286415.072759,
+        "link": "https://cafef.vn/ram-ro-thi-cong-nut-giao-da-tang-3000-ty-mo-loi-kinh-te-bien-tphcm-188260913072616855.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Lịch chốt quyền cổ tức tuần 14-18/9: Cổ tức tiền mặt cao nhất 12.000 đồng/cp",
         "time": "Sun, 13 Sep 2026 01:57:47",
@@ -7935,66 +7995,6 @@
         "time": "Mon, 07 Sep 2026 01:39:12",
         "timestamp": 1788745152.20641,
         "link": "https://cafef.vn/chuyen-gia-chi-ra-mot-tin-hieu-la-dang-xuat-hien-tren-thi-truong-chung-khoan-188260906222151798.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Vốn hóa Vingroup bằng 10 ngân hàng cộng lại",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745151.20641,
-        "link": "https://cafef.vn/von-hoa-vingroup-bang-10-ngan-hang-cong-lai-188260906233731288.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Lãi kỷ lục, một doanh nghiệp trả cổ tức gần 3.000 đồng/cp ngay trong tháng 9",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745150.20641,
-        "link": "https://cafef.vn/lai-ky-luc-mot-doanh-nghiep-tra-co-tuc-gan-3000-dong-cp-ngay-trong-thang-9-18826090622204429.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Toyota rót 360 triệu USD sản xuất xe điện hóa, đề xuất với Thủ tướng chính sách đặc biệt cho xe hybrid tại TP.HCM",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745149.20641,
-        "link": "https://cafef.vn/toyota-rot-360-trieu-usd-san-xuat-xe-dien-hoa-de-xuat-voi-thu-tuong-chinh-sach-dac-biet-cho-xe-hybrid-tai-tphcm-188260907002800273.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cao tốc 57,8 km gần 30.000 tỷ đồng nối miền Tây với sân bay Long Thành hoàn thành hơn 99%, sắp thông xe toàn tuyến",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745148.20641,
-        "link": "https://cafef.vn/cao-toc-578-km-gan-30000-ty-dong-noi-mien-tay-voi-san-bay-long-thanh-hoan-thanh-hon-99-sap-thong-xe-toan-tuyen-188260907002618945.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Trước thềm huy động vốn gần 800 tỷ đồng, Amy Grupo của Chủ tịch 75 tuổi báo lãi giảm 13%",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745147.20641,
-        "link": "https://cafef.vn/truoc-them-huy-dong-von-gan-800-ty-dong-amy-grupo-cua-chu-tich-75-tuoi-bao-lai-giam-13-188260907002533093.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vừa chọn Petrolimex để thử mô hình đầu tiên tại Việt Nam, chuỗi hơn 40.000 cửa hàng của đại gia Trung Quốc mới “trảm” 606 điểm bán",
-        "time": "Mon, 07 Sep 2026 01:39:12",
-        "timestamp": 1788745146.20641,
-        "link": "https://cafef.vn/vua-chon-petrolimex-de-thu-mo-hinh-dau-tien-tai-viet-nam-chuoi-hon-40000-cua-hang-cua-dai-gia-trung-quoc-moi-tram-606-diem-ban-188260907002442819.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
