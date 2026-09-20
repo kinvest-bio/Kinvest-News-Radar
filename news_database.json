@@ -1,5 +1,85 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Chung cư “giảm giá” ngập tràn, chủ nhà có thực sự lỗ?",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948595.181152,
+        "link": "https://cafef.vn/chung-cu-giam-gia-ngap-tran-chu-nha-co-thuc-su-lo-188260920135041209.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Phê bình 57 chủ tịch xã, phường ở Lâm Đồng",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948594.181152,
+        "link": "https://cafef.vn/phe-binh-57-chu-tich-xa-phuong-o-lam-dong-188260920215558701.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Gần Hà Nội, một “siêu không gian” du lịch đang được định hình trở trung tâm dịch vụ, du lịch quốc tế",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948593.181152,
+        "link": "https://cafef.vn/gan-ha-noi-mot-sieu-khong-gian-du-lich-dang-duoc-dinh-hinh-tro-trung-tam-dich-vu-du-lich-quoc-te-188260920215747056.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đề xuất giảm tỷ lệ vốn vay để hạ giá nhà có khả thi?",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948592.181152,
+        "link": "https://cafef.vn/de-xuat-giam-ty-le-von-vay-de-ha-gia-nha-co-kha-thi-188260920215239237.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Hơn 1.000 nhà đầu tư chờ sổ đỏ tại dự án FLC ở Quảng Ninh",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948591.181152,
+        "link": "https://cafef.vn/hon-1000-nha-dau-tu-cho-so-do-tai-du-an-flc-o-quang-ninh-188260920210134699.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Rà soát, chuẩn hóa dữ liệu bản đồ địa chính trên toàn quốc trước ngày 30/9",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948590.181152,
+        "link": "https://cafef.vn/ra-soat-chuan-hoa-du-lieu-ban-do-dia-chinh-tren-toan-quoc-truoc-ngay-30-9-188260920210309511.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "6 nhóm nhiệm vụ trọng tâm trong Kế hoạch triển khai thi hành Luật Phát triển đô thị",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948589.181152,
+        "link": "https://cafef.vn/6-nhom-nhiem-vu-trong-tam-trong-ke-hoach-trien-khai-thi-hanh-luat-phat-trien-do-thi-188260920210437629.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Việt Nam gia tăng sức hút đối với nhà đầu tư Mỹ",
+        "time": "Sun, 20 Sep 2026 23:56:35",
+        "timestamp": 1789948588.181152,
+        "link": "https://cafef.vn/viet-nam-gia-tang-suc-hut-doi-voi-nha-dau-tu-my-188260920223105525.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Góc nhìn chuyên gia: Tin tốt lớn nhất đã ra, chứng khoán Việt Nam tuần tới sẽ đi đâu?",
         "time": "Sun, 20 Sep 2026 20:27:31",
@@ -7915,86 +7995,6 @@
         "time": "Tue, 15 Sep 2026 01:38:17",
         "timestamp": 1789436280.624029,
         "link": "https://cafef.vn/tin-dung-nha-o-xa-hoi-tang-vi-sao-giai-ngan-gap-kho-18826091414230334.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Cái kết đẹp cho 40.000 người dân HH Linh Đàm sau 11 năm thấp thỏm",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436279.624029,
-        "link": "https://cafef.vn/cai-ket-dep-cho-40000-nguoi-dan-hh-linh-dam-sau-11-nam-thap-thom-188260914142940184.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Siêu sân vận động 95.000 chỗ, lớn gấp 2 lần sân Mỹ Đình: Được dựng từ 7.100 tấn thép, 65.000 m³ bê tông, thiết kế có 1-0-2 giống chiếc bình truyền thống châu Phi",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436278.624029,
-        "link": "https://cafef.vn/sieu-san-van-dong-95000-cho-lon-gap-2-lan-san-my-dinh-duoc-dung-tu-7100-tan-thep-65000-m-be-tong-thiet-ke-co-1-0-2-giong-chiec-binh-truyen-thong-chau-phi-188260914110957647.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Bất ngờ với doanh thu từ thị trường Việt Nam của Takashimaya: Tăng trưởng 20% trong khi Singapore, Trung Quốc và Thái Lan đều suy giảm",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436277.624029,
-        "link": "https://cafef.vn/bat-ngo-voi-doanh-thu-tu-thi-truong-viet-nam-cua-takashimaya-tang-truong-20-trong-khi-singapore-trung-quoc-va-thai-lan-deu-suy-giam-188260914133946415.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vinhomes áp sát top 20 DN bất động sản lớn nhất thế giới, đứng trên đế chế địa ốc của tỷ phú Lý Gia Thành",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436276.624029,
-        "link": "https://cafef.vn/vinhomes-ap-sat-top-20-dn-bat-dong-san-lon-nhat-the-gioi-dung-tren-de-che-dia-oc-cua-ty-phu-ly-gia-thanh-188260914100759159.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "278 doanh nghiệp TPHCM nộp thừa thuế hơn 10 năm",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436275.624029,
-        "link": "https://cafef.vn/278-doanh-nghiep-tphcm-nop-thua-thue-hon-10-nam-188260914224614742.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Hà Nội lấy ý kiến cộng đồng dân cư về Đồ án quy hoạch Tổ hợp ga Ngọc Hồi quy mô 260 ha của Vinhomes",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436274.624029,
-        "link": "https://cafef.vn/ha-noi-lay-y-kien-cong-dong-dan-cu-ve-do-an-quy-hoach-to-hop-ga-ngoc-hoi-quy-mo-260-ha-cua-vinhomes-188260914212829762.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Cựu CEO Green SM Nguyễn Văn Thanh chính thức công bố startup xe điện mới: “Bắt đầu lại từ con số 0”, bắt tay cựu Phó tổng giám đốc VinFast",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436273.624029,
-        "link": "https://cafef.vn/cuu-ceo-green-sm-nguyen-van-thanh-chinh-thuc-cong-bo-startup-xe-dien-moi-bat-dau-lai-tu-con-so-0-bat-tay-cuu-pho-tong-giam-doc-vinfast-188260914203155393.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất ngân hàng Sacombank tháng 9/2026: Gửi kỳ hạn nào có lãi suất cao nhất?",
-        "time": "Tue, 15 Sep 2026 01:38:17",
-        "timestamp": 1789436272.624029,
-        "link": "https://cafef.vn/lai-suat-ngan-hang-sacombank-thang-9-2026-gui-ky-han-nao-co-lai-suat-cao-nhat-188260914224810919.chn",
         "sentiment": "TÍCH CỰC",
         "color": "#10B981",
         "bg_color": "rgba(16, 185, 129, 0.15)"
