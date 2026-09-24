@@ -1,6 +1,396 @@
 [
     {
         "category": "CF - Chứng khoán",
+        "title": "Quỹ nắm những \"viên kim cương\" của chứng khoán Việt Nam bất ngờ bị rút vốn liên tiếp sau nâng hạng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290130.848944,
+        "link": "https://cafef.vn/quy-nam-nhung-vien-kim-cuong-cua-chung-khoan-viet-nam-bat-ngo-bi-rut-von-lien-tiep-sau-nang-hang-18826092416422618.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Lọc hóa dầu Việt Nam đạt thoả thuận mua dầu thô từ ExxonMobil của Mỹ",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290129.848944,
+        "link": "https://cafef.vn/loc-hoa-dau-viet-nam-dat-thoa-thuan-mua-dau-tho-tu-exxonmobil-cua-my-188260924210741052.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
+        "title": "Một Thành viên HĐQT độc lập của Đầu tư MST xin từ nhiệm",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290128.848944,
+        "link": "https://cafef.vn/mot-thanh-vien-hdqt-doc-lap-cua-dau-tu-mst-xin-tu-nhiem-188260924190045633.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Khu đất 17 tỷ đồng của NSƯT Vũ Linh dính quy hoạch, phiên tòa tranh chấp buộc phải dừng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290127.848944,
+        "link": "https://cafef.vn/khu-dat-17-ty-dong-cua-nsut-vu-linh-dinh-quy-hoach-phien-toa-tranh-chap-buoc-phai-dung-188260924213329182.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Các dự án TOD của TPHCM có nguy cơ kéo dài vì nhiều nguyên nhân",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290126.848944,
+        "link": "https://cafef.vn/cac-du-an-tod-cua-tphcm-co-nguy-co-keo-dai-vi-nhieu-nguyen-nhan-188260924185428936.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Công nhân dầm mưa bơm nước 'giải cứu' ngập chân cầu Ba Son",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290125.848944,
+        "link": "https://cafef.vn/cong-nhan-dam-mua-bom-nuoc-giai-cuu-ngap-chan-cau-ba-son-188260924200846148.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Cơ bản hoàn thành giải phóng mặt bằng 7 cầu vượt sông Hồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290124.848944,
+        "link": "https://cafef.vn/co-ban-hoan-thanh-giai-phong-mat-bang-7-cau-vuot-song-hong-188260924194923611.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Đồng Nai đấu giá 12,8 ha đất làm cơ sở giáo dục, giá khởi điểm 140 tỷ đồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290123.848944,
+        "link": "https://cafef.vn/dong-nai-dau-gia-128-ha-dat-lam-co-so-giao-duc-gia-khoi-diem-140-ty-dong-188260924184225092.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Thủ tướng: Sửa đồng bộ các luật nhằm không để giá đất tăng cao và bảo đảm chỗ ở cho người dân",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290122.848944,
+        "link": "https://cafef.vn/thu-tuong-sua-dong-bo-cac-luat-nham-khong-de-gia-dat-tang-cao-va-bao-dam-cho-o-cho-nguoi-dan-188260924183750617.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bắc Ninh phê duyệt phương án đấu giá đất làm khu nhà ở 610 tỷ đồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290121.848944,
+        "link": "https://cafef.vn/bac-ninh-phe-duyet-phuong-an-dau-gia-dat-lam-khu-nha-o-610-ty-dong-188260924184046769.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Rủi ro pháp lý và \"biến số\" quy hoạch: Nhận diện bất ổn trong thẩm định giá bất động sản",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290120.848944,
+        "link": "https://cafef.vn/rui-ro-phap-ly-va-bien-so-quy-hoach-nhan-dien-bat-on-trong-tham-dinh-gia-bat-dong-san-188260924183348505.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Tập đoàn Đèo Cả chốt được gói thầu xây lắp hơn 1.300 tỷ đồng thuộc Dự án cao tốc TP.HCM - Trung Lương - Mỹ Thuận",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290119.848944,
+        "link": "https://cafef.vn/tap-doan-deo-ca-chot-duoc-goi-thau-xay-lap-hon-1300-ty-dong-thuoc-du-an-cao-toc-tphcm-trung-luong-my-thuan-188260924183111263.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Diện mạo đại công trình APEC ở Phú Quốc sau một năm thi công",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290118.848944,
+        "link": "https://cafef.vn/dien-mao-dai-cong-trinh-apec-o-phu-quoc-sau-mot-nam-thi-cong-188260924182238961.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Vừa trở thành cổ đông lớn, Gelex bán sạch 9,7 triệu cổ phiếu Hải An, thu về gần 500 tỷ đồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290117.848944,
+        "link": "https://cafef.vn/vua-tro-thanh-co-dong-lon-gelex-ban-sach-97-trieu-co-phieu-hai-an-thu-ve-gan-500-ty-dong-188260924205324802.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lừa đảo hơn 7.100 người, vợ chồng TGĐ GFDI lĩnh án chung thân",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290116.848944,
+        "link": "https://cafef.vn/lua-dao-hon-7100-nguoi-vo-chong-tgd-gfdi-linh-an-chung-than-188260924210545563.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Triệt phá đường dây mua bán trái phép hóa đơn quy mô đặc biệt lớn, lên tới 20.000 tỷ đồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290115.848944,
+        "link": "https://cafef.vn/triet-pha-duong-day-mua-ban-trai-phep-hoa-don-quy-mo-dac-biet-lon-len-toi-20000-ty-dong-188260924153735595.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "23 ngày sau khi con trai cả của bầu Hiển rời HĐQT, Vietravel Airlines thỏa thuận mua 50 Airbus: Hai người con đang “chia vai” thế nào?",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290114.848944,
+        "link": "https://cafef.vn/23-ngay-sau-khi-con-trai-ca-cua-bau-hien-roi-hdqt-vietravel-airlines-thoa-thuan-mua-50-airbus-hai-nguoi-con-dang-chia-vai-the-nao-188260924165332575.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Doanh nghiệp đã 'tắt thở' phải làm thủ tục 'sống lại'",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290113.848944,
+        "link": "https://cafef.vn/doanh-nghiep-da-tat-tho-phai-lam-thu-tuc-song-lai-188260924184637608.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Lịch sử bê bối của 'ông trùm' KRAFTON đứng sau PUBG bị esports Việt Nam tẩy chay",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290112.848944,
+        "link": "https://cafef.vn/lich-su-be-boi-cua-ong-trum-krafton-dung-sau-pubg-bi-esports-viet-nam-tay-chay-188260924145424441.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Sau vụ 326 công ty 'ma' xuất bán hơn 178.000 hoá đơn khống, công an TP.HCM khuyến cáo điều doanh nghiệp tuyệt đối không làm",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290111.848944,
+        "link": "https://cafef.vn/sau-vu-326-cong-ty-ma-xuat-ban-hon-178000-hoa-don-khong-cong-an-tphcm-khuyen-cao-dieu-doanh-nghiep-tuyet-doi-khong-lam-188260924131329581.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Wi-Fi của Elon Musk sắp lên máy bay Vietjet: Dùng miễn phí, xem video, chơi game online trong khi hãng khác thu gần 10 USD/30 phút",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290110.848944,
+        "link": "https://cafef.vn/wi-fi-cua-elon-musk-sap-len-may-bay-vietjet-dung-mien-phi-xem-video-choi-game-online-trong-khi-hang-khac-thu-gan-10-usd-30-phut-188260924131035728.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Chỉ có 5 doanh nghiệp tăng lợi nhuận liên tục trong 10 năm bất chấp biến động của nền kinh tế",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290109.848944,
+        "link": "https://cafef.vn/chi-co-5-doanh-nghiep-tang-loi-nhuan-lien-tuc-trong-10-nam-bat-chap-bien-dong-cua-nen-kinh-te-188260924105749559.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Highlands Coffee đang là 'gà đẻ trứng vàng', Jollibee vẫn trao quyền kiểm soát cho ông David Thái: Nước cờ của tập đoàn Philippines đằng sau khoản 2.300 tỷ đồng trước thềm 2 cuộc niêm yết",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290108.848944,
+        "link": "https://cafef.vn/highlands-coffee-dang-la-ga-de-trung-vang-jollibee-van-trao-quyen-kiem-soat-cho-ong-david-thai-nuoc-co-cua-tap-doan-philippines-dang-sau-khoan-2300-ty-dong-truoc-them-2-cuoc-niem-yet-18826092411220238.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Thấy gì về biến động lãi suất ngân hàng?",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290107.848944,
+        "link": "https://cafef.vn/thay-gi-ve-bien-dong-lai-suat-ngan-hang-188260924193924554.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Giá vàng nhẫn trơn, vàng miếng chiều tối 24/9 tại SJC, PNJ, DOJI, Bảo Tín Minh Châu và Phú Quý",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290106.848944,
+        "link": "https://cafef.vn/gia-vang-nhan-tron-vang-mieng-chieu-toi-24-9-tai-sjc-pnj-doji-bao-tin-minh-chau-va-phu-quy-188260924073649236.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Dụ góp vốn đầu tư đất, người phụ nữ chiếm đoạt hơn 167 triệu đồng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290105.848944,
+        "link": "https://cafef.vn/du-gop-von-dau-tu-dat-nguoi-phu-nu-chiem-doat-hon-167-trieu-dong-1882609241913318.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Lãi suất ngân hàng 24/9 tại MB, Techcombank, VPBank, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank, ...",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290104.848944,
+        "link": "https://cafef.vn/lai-suat-ngan-hang-24-9-tai-mb-techcombank-vpbank-sacombank-hdbank-agribank-vietcombank-bidv-vietinbank-188260924203114771.chn",
+        "sentiment": "TÍCH CỰC",
+        "color": "#10B981",
+        "bg_color": "rgba(16, 185, 129, 0.15)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Rà soát toàn bộ hệ thống kiểm soát, kiểm toán ngân hàng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290103.848944,
+        "link": "https://cafef.vn/ra-soat-toan-bo-he-thong-kiem-soat-kiem-toan-ngan-hang-188260924194847469.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Phân loại ngân hàng theo rủi ro rửa tiền",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290102.848944,
+        "link": "https://cafef.vn/phan-loai-ngan-hang-theo-rui-ro-rua-tien-188260924191058211.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cơ quan Thuế yêu cầu Vietcombank, MSB... trích hơn 490 triệu đồng từ tài khoản của 3 người nộp thuế sau",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290101.848944,
+        "link": "https://cafef.vn/co-quan-thue-yeu-cau-vietcombank-msb-trich-hon-490-trieu-dong-tu-tai-khoan-cua-3-nguoi-nop-thue-sau-188260924171926229.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Cơ quan Thuế thông báo: 40 cá nhân có tên trong danh sách sau đây bị tạm hoãn xuất cảnh",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290100.848944,
+        "link": "https://cafef.vn/co-quan-thue-thong-bao-40-ca-nhan-co-ten-trong-danh-sach-sau-day-bi-tam-hoan-xuat-canh-188260924140152162.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Hoàn thuế kéo dài, Cục Thuế yêu cầu phải trả lời rõ với doanh nghiệp",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290099.848944,
+        "link": "https://cafef.vn/hoan-thue-keo-dai-cuc-thue-yeu-cau-phai-tra-loi-ro-voi-doanh-nghiep-188260924211405974.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Rà soát nhu cầu, khả năng giải ngân vốn 'siêu dự án' đường sắt tốc độ cao",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290098.848944,
+        "link": "https://cafef.vn/ra-soat-nhu-cau-kha-nang-giai-ngan-von-sieu-du-an-duong-sat-toc-do-cao-188260924193706506.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Chủ tịch Hưng Yên ra 'tối hậu thư' 24 dự án chậm giải phóng mặt bằng",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290097.848944,
+        "link": "https://cafef.vn/chu-tich-hung-yen-ra-toi-hau-thu-24-du-an-cham-giai-phong-mat-bang-188260924193624569.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Việt Nam đang triển khai dự án khu thể thao hơn 500 tỷ đồng, có sân vận động, nằm tại tỉnh miền núi biên giới",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290096.848944,
+        "link": "https://cafef.vn/viet-nam-dang-trien-khai-du-an-khu-the-thao-hon-500-ty-dong-co-san-van-dong-nam-tai-tinh-mien-nui-bien-gioi-188260924180235027.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Đề xuất dừng xuất cảnh, cắt điện, nước, Internet để cưỡng chế vi phạm hành chính",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290095.848944,
+        "link": "https://cafef.vn/de-xuat-dung-xuat-canh-cat-dien-nuoc-internet-de-cuong-che-vi-pham-hanh-chinh-188260923201027417.chn",
+        "sentiment": "TIÊU CỰC",
+        "color": "#EF4444",
+        "bg_color": "rgba(239, 68, 68, 0.15)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Thủ tướng: Nhà nước bảo đảm chỗ ở cho người dân với giá phù hợp",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290094.848944,
+        "link": "https://cafef.vn/thu-tuong-nha-nuoc-bao-dam-cho-o-cho-nguoi-dan-voi-gia-phu-hop-188260924193920987.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Lãnh đạo Thành ủy Hà Nội: Đẩy nhanh tiến độ dự án Quốc lộ 6 Ba La - Xuân Mai",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290093.848944,
+        "link": "https://cafef.vn/lanh-dao-thanh-uy-ha-noi-day-nhanh-tien-do-du-an-quoc-lo-6-ba-la-xuan-mai-18826092407220228.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Vĩ mô",
+        "title": "Bộ Tài chính thông tin về Quỹ bình ổn giá xăng, dầu",
+        "time": "Thu, 24 Sep 2026 22:48:50",
+        "timestamp": 1790290092.848944,
+        "link": "https://cafef.vn/bo-tai-chinh-thong-tin-ve-quy-binh-on-gia-xang-dau-188260924072725737.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Chứng khoán",
         "title": "Nhà cung ứng nguyên liệu đầu vào quan trọng cho Samsung Việt Nam công bố kế hoạch mới",
         "time": "Thu, 24 Sep 2026 18:09:58",
         "timestamp": 1790273398.934249,
@@ -7605,396 +7995,6 @@
         "time": "Sat, 19 Sep 2026 13:30:04",
         "timestamp": 1789824581.278287,
         "link": "https://cafef.vn/viet-nam-dang-xay-tuyen-cao-toc-khong-lo-ngon-gan-99-trieu-m-dat-gan-1-trieu-m-da-gom-51-cau-ham-xuyen-nui-phai-cap-phep-them-hang-loat-mo-de-dap-ung-18826091910072261.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Chủ tịch và Tổng giám đốc Searefico cùng đăng ký mua 1,6 triệu cổ phiếu: SRF tăng 5 phiên, lợi nhuận sau soát xét tăng 41%",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824580.278287,
-        "link": "https://cafef.vn/chu-tich-va-tong-giam-doc-searefico-cung-dang-ky-mua-16-trieu-co-phieu-srf-tang-5-phien-loi-nhuan-sau-soat-xet-tang-41-188260919092452177.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Vinhomes vừa nâng hợp đồng tổng thầu lên 12 tỷ USD tại một dự án",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824579.278287,
-        "link": "https://cafef.vn/vinhomes-vua-nang-hop-dong-tong-thau-len-12-ty-usd-tai-mot-du-an-18826091909003301.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "“Gom tiểu thành đại”: 1.000 đồng làm được gì trong kỷ nguyên số?",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824578.278287,
-        "link": "https://cafef.vn/gom-tieu-thanh-dai-1000-dong-lam-duoc-gi-trong-ky-nguyen-so-188260919112857245.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "‏Techcombank là nhà đồng hành chiến lược “Ngày hội sáng tạo nội dung số Việt Nam 2026”‏",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824577.278287,
-        "link": "https://cafef.vn/techcombank-la-nha-dong-hanh-chien-luoc-ngay-hoi-sang-tao-noi-dung-so-viet-nam-2026-188260919112738788.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Lãi suất SHB ngày 19/9: Gửi 10 triệu, 100 triệu và 200 triệu đồng nhận bao nhiêu tiền lãi?",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824576.278287,
-        "link": "https://cafef.vn/lai-suat-shb-ngay-19-9-gui-10-trieu-100-trieu-va-200-trieu-dong-nhan-bao-nhieu-tien-lai-188260919111821368.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng sẽ tăng mạnh?",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824575.278287,
-        "link": "https://cafef.vn/gia-vang-se-tang-manh-188260919082207994.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Chấm dứt tình trạng cho vay tập trung vào một số doanh nghiệp, dự án thuộc hệ sinh thái hoặc sân sau của tập đoàn có thể gây ra các rủi ro, tiềm ẩn nguy cơ mất an toàn",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824574.278287,
-        "link": "https://cafef.vn/cham-dut-tinh-trang-cho-vay-tap-trung-vao-mot-so-doanh-nghiep-du-an-thuoc-he-sinh-thai-hoac-san-sau-cua-tap-doan-co-the-gay-ra-cac-rui-ro-tiem-an-nguy-co-mat-an-toan-188260919083338796.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "14,4 triệu người trong tuổi hưu nhưng hơn 9 triệu người trong đó không có lương hưu hoặc trợ cấp xã hội hàng tháng",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824573.278287,
-        "link": "https://cafef.vn/144-trieu-nguoi-trong-tuoi-huu-nhung-hon-9-trieu-nguoi-trong-do-khong-co-luong-huu-hoac-tro-cap-xa-hoi-hang-thang-188260919092042553.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Hoàn thuế giá trị gia tăng tự động cho doanh nghiệp từ tháng 10",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824572.278287,
-        "link": "https://cafef.vn/hoan-thue-gia-tri-gia-tang-tu-dong-cho-doanh-nghiep-tu-thang-10-188260919095934608.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chủ tịch tập đoàn tài chính hàng đầu Hàn Quốc đích thân sang Việt Nam tham dự một sự kiện: 'Hé mở' chiến lược tại thị trường 100 triệu dân",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824571.278287,
-        "link": "https://cafef.vn/chu-tich-tap-doan-tai-chinh-hang-dau-han-quoc-dich-than-sang-viet-nam-tham-du-mot-su-kien-he-mo-chien-luoc-tai-thi-truong-100-trieu-dan-188260919110408009.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Đại diện Cục Thuế cảnh báo tình trạng 'bỏ cũ, lập mới' để né nghĩa vụ thuế: Sẽ siết từ khâu đăng ký",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824570.278287,
-        "link": "https://cafef.vn/dai-dien-cuc-thue-canh-bao-tinh-trang-bo-cu-lap-moi-de-ne-nghia-vu-thue-se-siet-tu-khau-dang-ky-188260919100135845.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Công an cảnh báo điều này tới doanh nghiệp, hộ kinh doanh và cá nhân kinh doanh",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824569.278287,
-        "link": "https://cafef.vn/cong-an-canh-bao-dieu-nay-toi-doanh-nghiep-ho-kinh-doanh-va-ca-nhan-kinh-doanh-188260919093402748.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Chuyển đất nông nghiệp sang đất ở phải phù hợp quy hoạch nào?",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824568.278287,
-        "link": "https://cafef.vn/chuyen-dat-nong-nghiep-sang-dat-o-phai-phu-hop-quy-hoach-nao-188260919093131469.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Quảng Trị rà soát hồ sơ những người nghỉ việc trước 1/7/2025",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824567.278287,
-        "link": "https://cafef.vn/quang-tri-ra-soat-ho-so-nhung-nguoi-nghi-viec-truoc-1-7-2025-188260919091338662.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Việt Nam có 1,4 triệu thanh niên \"ba không\"",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824566.278287,
-        "link": "https://cafef.vn/hom-nay-vn-thuc-hien-nghi-thuc-dac-biet-ftse-russell-2-tap-doan-quan-ly-25000-ty-usd-se-cung-tham-gia-188260918140131122.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Metro Nhổn - ga Hà Nội: Đường hầm đạt hơn 94%, thi công gối đầu để rút ngắn tiến độ",
-        "time": "Sat, 19 Sep 2026 13:30:04",
-        "timestamp": 1789824565.278287,
-        "link": "https://cafef.vn/metro-nhon-ga-ha-noi-duong-ham-dat-hon-94-thi-cong-goi-dau-de-rut-ngan-tien-do-188260919073739952.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Công trình tạo hình giọt nước mắt khổng lồ, được Sun Group xây dựng thần tốc trên \"khu đất vàng\" 3 mặt tiền từng gắn với đại gia BĐS nức tiếng sở hữu 30.000 bất động sản",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806562.048966,
-        "link": "https://cafef.vn/cong-trinh-tao-hinh-giot-nuoc-mat-khong-lo-duoc-sun-group-xay-dung-than-toc-tren-khu-dat-vang-3-mat-tien-tung-gan-voi-dai-gia-bds-nuc-tieng-so-huu-30000-bat-dong-san-188260918140928841.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "HoREA đề xuất bổ sung quy định điều kiện cư trú khi mua nhà ở xã hội",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806561.048966,
-        "link": "https://cafef.vn/horea-de-xuat-bo-sung-quy-dinh-dieu-kien-cu-tru-khi-mua-nha-o-xa-hoi-188260919063307134.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Lương 69 triệu/tháng, cô gái 29 tuổi chốt mua nhà 6,48 tỷ đồng: Căn hộ rộng 50m2, vay ngân hàng 35 năm",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806560.048966,
-        "link": "https://cafef.vn/luong-69-trieu-thang-co-gai-29-tuoi-chot-mua-nha-648-ty-dong-can-ho-rong-50m2-vay-ngan-hang-35-nam-188260919072904989.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Cựu Trưởng Công an Phú Quốc lĩnh 18 năm tù vì lừa đảo hơn 67 tỷ đồng",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806559.048966,
-        "link": "https://cafef.vn/cuu-truong-cong-an-phu-quoc-linh-18-nam-tu-vi-lua-dao-hon-67-ty-dong-188260919062944634.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hai lần chống ngập, chạy lụt của người dân vùng ven Hà Nội",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806558.048966,
-        "link": "https://cafef.vn/hai-lan-chong-ngap-chay-lut-cua-nguoi-dan-vung-ven-ha-noi-188260919063652108.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hà Nội: Đơn vị phụ trách thoát nước nói gì về vụ nam sinh ngã xuống cống tử vong?",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806557.048966,
-        "link": "https://cafef.vn/ha-noi-don-vi-phu-trach-thoat-nuoc-noi-gi-ve-vu-nam-sinh-nga-xuong-cong-tu-vong-188260919062004017.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "MC Minh Trang đã rút khỏi Làng Háo Hức gần 1 năm",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806556.048966,
-        "link": "https://cafef.vn/mc-minh-trang-da-rut-khoi-lang-hao-huc-gan-1-nam-18826091907164796.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Tỷ phú Phạm Nhật Vượng tung loạt ưu đãi",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806555.048966,
-        "link": "https://cafef.vn/ty-phu-pham-nhat-vuong-tung-loat-uu-dai-188260919082102133.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Loạt siêu trụ khổng lồ tại công trường sân vận động 135.000 chỗ ở Hà Nội",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806554.048966,
-        "link": "https://cafef.vn/loat-sieu-tru-khong-lo-tai-cong-truong-san-van-dong-135000-cho-o-ha-noi-188260919072140735.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Từ khoản đầu tư 450 triệu USD của Mỹ đến vai trò của doanh nghiệp vonfram Việt Nam",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806553.048966,
-        "link": "https://cafef.vn/tu-khoan-dau-tu-450-trieu-usd-cua-my-den-vai-tro-cua-doanh-nghiep-vonfram-viet-nam-188260918122423821.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Doanh nghiệp",
-        "title": "Khởi tố Phó Giám đốc SN 1980",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806552.048966,
-        "link": "https://cafef.vn/khoi-to-pho-giam-doc-sn-1980-188260919071813419.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Ngân hàng",
-        "title": "Giá vàng miếng SJC, vàng nhẫn trơn mới nhất ngày 19/9",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806551.048966,
-        "link": "https://cafef.vn/gia-vang-mieng-sjc-vang-nhan-tron-moi-nhat-ngay-19-9-18826091907491634.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Vĩ mô",
-        "title": "Từ miền sông nước Cửu Long đến “siêu cảng” kết nối chuỗi cung ứng toàn cầu: Hành trình T&T Group tạo thêm những “đường băng” cho hàng Việt vươn ra thế giới",
-        "time": "Sat, 19 Sep 2026 08:29:22",
-        "timestamp": 1789806550.048966,
-        "link": "https://cafef.vn/tu-mien-song-nuoc-cuu-long-den-sieu-cang-ket-noi-chuoi-cung-ung-toan-cau-hanh-trinh-tt-group-tao-them-nhung-duong-bang-cho-hang-viet-vuon-ra-the-gioi-18826091907003616.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Đại lộ 10 làn xe nối sân bay Phú Quốc với công trình chưa từng có tại Việt Nam: Tuyến đường LRT chạy ở giữa, cảnh quan được thiết kế bởi đơn vị Belt Collins danh giá bậc nhất thế giới",
-        "time": "Sat, 19 Sep 2026 06:29:10",
-        "timestamp": 1789799350.685359,
-        "link": "https://cafef.vn/dai-lo-10-lan-xe-noi-san-bay-phu-quoc-voi-cong-trinh-chua-tung-co-tai-viet-nam-tuyen-duong-lrt-chay-o-giua-canh-quan-duoc-thiet-ke-boi-don-vi-belt-collins-danh-gia-bac-nhat-the-gioi-188260919062303352.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Gần 230.000 tỷ đồng cải tạo sông Đáy: MIK Group xin làm BT, đổi bằng đất",
-        "time": "Sat, 19 Sep 2026 06:29:10",
-        "timestamp": 1789799349.685359,
-        "link": "https://cafef.vn/gan-230000-ty-dong-cai-tao-song-day-mik-group-xin-lam-bt-doi-bang-dat-188260919061558649.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Công trình hầm – cầu vượt biển đầu tiên trong lịch sử 3,4 tỷ USD đặt tại thành phố giàu nhất Việt Nam do Vingroup đầu tư có chuyển động mới",
-        "time": "Sat, 19 Sep 2026 06:29:10",
-        "timestamp": 1789799348.685359,
-        "link": "https://cafef.vn/cong-trinh-ham-cau-vuot-bien-dau-tien-trong-lich-su-34-ty-usd-dat-tai-thanh-pho-giau-nhat-viet-nam-do-vingroup-dau-tu-co-chuyen-dong-moi-188260918220141861.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Ngày mai, tỉnh được mệnh danh là \"thủ phủ công nghiệp\", nơi Vingroup, Sun Group, Phú Mỹ Hưng, T&T đổ về làm KĐT, sẽ lên thành phố trực thuộc Trung ương",
-        "time": "Sat, 19 Sep 2026 06:29:10",
-        "timestamp": 1789799347.685359,
-        "link": "https://cafef.vn/ngay-mai-tinh-duoc-menh-danh-la-thu-phu-cong-nghiep-noi-vingroup-sun-group-phu-my-hung-tt-do-ve-lam-kdt-se-len-thanh-pho-truc-thuoc-trung-uong-188260918222919396.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Chuyển biến mới nhất tại tuyến cao tốc hơn 43.700 tỷ đồng, dài khoảng 125 km vượt 2 con đèo hiểm trở, rút ngắn thời gian di chuyển từ Quy Nhơn - Pleiku còn 1,5 giờ",
-        "time": "Sat, 19 Sep 2026 06:29:10",
-        "timestamp": 1789799346.685359,
-        "link": "https://cafef.vn/chuyen-bien-moi-nhat-tai-tuyen-cao-toc-hon-43700-ty-dong-dai-khoang-125-km-vuot-2-con-deo-hiem-tro-rut-ngan-thoi-gian-di-chuyen-tu-quy-nhon-pleiku-con-15-gio-188260918224635715.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "FTSE Russell đề xuất loạt hợp tác mới với Việt Nam sau dấu mốc nâng hạng",
-        "time": "Sat, 19 Sep 2026 01:53:16",
-        "timestamp": 1789782796.476576,
-        "link": "https://cafef.vn/ftse-russell-de-xuat-loat-hop-tac-moi-voi-viet-nam-sau-dau-moc-nang-hang-188260919001917604.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Đại diện Morgan Stanley: 2,5 tỷ USD vào chứng khoán Việt Nam mới chỉ là khởi đầu, dòng vốn có thể còn lớn hơn",
-        "time": "Sat, 19 Sep 2026 01:53:16",
-        "timestamp": 1789782795.476576,
-        "link": "https://cafef.vn/dai-dien-morgan-stanley-25-ty-usd-vao-chung-khoan-viet-nam-moi-chi-la-khoi-dau-dong-von-co-the-con-lon-hon-188260918223215715.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Phó Tổng Giám đốc Masan nói về những “quả trứng vàng” và “con rồng lớn” trong tương lai",
-        "time": "Sat, 19 Sep 2026 01:53:16",
-        "timestamp": 1789782794.476576,
-        "link": "https://cafef.vn/pho-tong-giam-doc-masan-noi-ve-nhung-qua-trung-vang-va-con-rong-lon-trong-tuong-lai-188260918223101494.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Khối ngoại bất ngờ \"tung\" hơn 2.600 tỷ mua ròng trong tuần Index tăng 20 điểm, cổ phiếu nào được gom mạnh nhất?",
-        "time": "Sat, 19 Sep 2026 01:53:16",
-        "timestamp": 1789782793.476576,
-        "link": "https://cafef.vn/khoi-ngoai-bat-ngo-tung-hon-2600-ty-mua-rong-trong-tuan-index-tang-20-diem-co-phieu-nao-duoc-gom-manh-nhat-188260919003615549.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Doanh nghiệp đề xuất xây tòa tháp đôi cao nhất thế giới bất ngờ huỷ họp bất thường",
-        "time": "Sat, 19 Sep 2026 01:53:16",
-        "timestamp": 1789782792.476576,
-        "link": "https://cafef.vn/doanh-nghiep-de-xuat-xay-toa-thap-doi-cao-nhat-the-gioi-bat-ngo-huy-hop-bat-thuong-188260919001332622.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
