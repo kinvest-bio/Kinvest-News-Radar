@@ -1,5 +1,75 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Nguyên giảng viên Đại học Bách khoa đặt mục tiêu xây 10.000 căn NOXH, liên tiếp thâu tóm dự án của Phát Đạt,  Saigonres, từng muốn đấu giá 3.790 căn tái định cư Thủ Thiêm",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219989.563576,
+        "link": "https://cafef.vn/nguyen-giang-vien-dai-hoc-bach-khoa-dat-muc-tieu-xay-10000-can-noxh-lien-tiep-thau-tom-du-an-cua-phat-dat-saigonres-tung-muon-dau-gia-3790-can-tai-dinh-cu-thu-thiem-18826101510270466.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Novaland báo tin vui về siêu dự án “sống còn”",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219988.563576,
+        "link": "https://cafef.vn/novaland-bao-tin-vui-ve-sieu-du-an-song-con-188261016220323758.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Động thái chưa từng có của Vingroup mở ra cơ hội lớn cho hàng loạt doanh nghiệp Việt",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219987.563576,
+        "link": "https://cafef.vn/dong-thai-chua-tung-co-cua-vingroup-mo-ra-co-hoi-lon-cho-hang-loat-doanh-nghiep-viet-18826101706523417.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Vì sao TPHCM cần 'siêu năng lực' sau sáp nhập?",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219986.563576,
+        "link": "https://cafef.vn/vi-sao-tphcm-can-sieu-nang-luc-sau-sap-nhap-188261017062949173.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Doanh nghiệp",
+        "title": "Ông Trần Lệ Nguyên đầu tư phim điện ảnh về nữ anh hùng Võ Thị Sáu, bắt tay đạo diễn “Hai Phượng”",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219985.563576,
+        "link": "https://cafef.vn/ong-tran-le-nguyen-dau-tu-phim-dien-anh-ve-nu-anh-hung-vo-thi-sau-bat-tay-dao-dien-hai-phuong-188261016205624162.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Ủy ban kiểm tra được quyền kết nối cơ sở dữ liệu ngân hàng, đất đai",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219984.563576,
+        "link": "https://cafef.vn/uy-ban-kiem-tra-duoc-quyen-ket-noi-co-so-du-lieu-ngan-hang-dat-dai-188261017064837719.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Ngân hàng",
+        "title": "Phó Thủ tướng Nguyễn Văn Thắng: Yêu cầu giảm lãi suất cho vay từ 1,5 - 2% đối với sản xuất, kinh doanh và các lĩnh vực ưu tiên",
+        "time": "Sat, 17 Oct 2026 06:53:09",
+        "timestamp": 1792219983.563576,
+        "link": "https://cafef.vn/pho-thu-tuong-nguyen-van-thang-yeu-cau-giam-lai-suat-cho-vay-tu-15-2-doi-voi-san-xuat-kinh-doanh-va-cac-linh-vuc-uu-tien-188261017045112951.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Hơn 3.000 tỷ đồng cổ phiếu Việt Nam vừa bị khối ngoại bán ròng xuyên suốt 5 phiên, mã nào là tâm điểm \"xả\"?",
         "time": "Sat, 17 Oct 2026 01:22:22",
@@ -7925,76 +7995,6 @@
         "time": "Sun, 11 Oct 2026 21:40:07",
         "timestamp": 1791754803.061352,
         "link": "https://cafef.vn/thanh-pho-truc-thuoc-trung-uong-tre-nhat-viet-nam-co-dong-thai-moi-voi-2-khu-do-thi-hon-30800-ty-dong-quy-mo-gan-500-ha-188261011153551577.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Thị trường bất động sản bước vào giai đoạn điều chỉnh",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754802.061352,
-        "link": "https://cafef.vn/thi-truong-bat-dong-san-buoc-vao-giai-doan-dieu-chinh-188261011155521192.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Bắc Ninh phê duyệt phương án đấu giá đất làm khu nhà ở tại thôn Nội Viên",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754801.061352,
-        "link": "https://cafef.vn/bac-ninh-phe-duyet-phuong-an-dau-gia-dat-lam-khu-nha-o-tai-thon-noi-vien-188261011155403094.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Điều kiện bán lại nhà ở xã hội sau 5 năm",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754800.061352,
-        "link": "https://cafef.vn/dieu-kien-ban-lai-nha-o-xa-hoi-sau-5-nam-188261011154714833.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Hà Nội siết quản lý việc mua, thuê nhà ở xã hội",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754799.061352,
-        "link": "https://cafef.vn/ha-noi-siet-quan-ly-viec-mua-thue-nha-o-xa-hoi-188261011172533958.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Diễn biến quan trọng tại 3 khu đô thị 1,7 tỷ USD của Sun Group ở tỉnh rộng nhất Việt Nam",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754798.061352,
-        "link": "https://cafef.vn/dien-bien-quan-trong-tai-3-khu-do-thi-17-ty-usd-cua-sun-group-o-tinh-rong-nhat-viet-nam-188261011171837992.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Điều kiện mua nhà ở xã hội với người có từ 2 con trở lên",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754797.061352,
-        "link": "https://cafef.vn/dieu-kien-mua-nha-o-xa-hoi-voi-nguoi-co-tu-2-con-tro-len-1882610111544015.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Bất động sản",
-        "title": "Sổ đỏ ghi số chứng minh nhân dân cũ, xác nhận thế nào?",
-        "time": "Sun, 11 Oct 2026 21:40:07",
-        "timestamp": 1791754796.061352,
-        "link": "https://cafef.vn/so-do-ghi-so-chung-minh-nhan-dan-cu-xac-nhan-the-nao-188261011154215161.chn",
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
