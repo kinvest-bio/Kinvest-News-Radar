@@ -1,5 +1,35 @@
 [
     {
+        "category": "CF - Bất động sản",
+        "title": "Chính phủ báo cáo Quốc hội tiến độ các đoạn cuối dự án đường Hồ Chí Minh",
+        "time": "Mon, 19 Oct 2026 06:29:23",
+        "timestamp": 1792391363.710759,
+        "link": "https://cafef.vn/chinh-phu-bao-cao-quoc-hoi-tien-do-cac-doan-cuoi-du-an-duong-ho-chi-minh-188261019061115606.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Cháy nhà trong ngõ ở Xuân Đỉnh, Hà Nội",
+        "time": "Mon, 19 Oct 2026 06:29:23",
+        "timestamp": 1792391362.710759,
+        "link": "https://cafef.vn/chay-nha-trong-ngo-o-xuan-dinh-ha-noi-188261019055329248.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
+        "category": "CF - Bất động sản",
+        "title": "Bộ trưởng Nội vụ thông tin việc sáp nhập, chia tách xã phường",
+        "time": "Mon, 19 Oct 2026 06:29:23",
+        "timestamp": 1792391361.710759,
+        "link": "https://cafef.vn/bo-truong-noi-vu-thong-tin-viec-sap-nhap-chia-tach-xa-phuong-188261019055152162.chn",
+        "sentiment": "TRUNG LẬP",
+        "color": "#6B7280",
+        "bg_color": "rgba(107, 114, 128, 0.1)"
+    },
+    {
         "category": "CF - Chứng khoán",
         "title": "Chuyên gia dự báo bất ngờ về vùng đáy của VN-Index",
         "time": "Mon, 19 Oct 2026 01:57:54",
@@ -7968,35 +7998,5 @@
         "sentiment": "TRUNG LẬP",
         "color": "#6B7280",
         "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "FPT Play, TV360 cùng loạt doanh nghiệp truyền hình trả tiền vừa bị xử phạt",
-        "time": "Tue, 13 Oct 2026 15:07:24",
-        "timestamp": 1791904040.781729,
-        "link": "https://cafef.vn/fpt-play-tv360-cung-loat-doanh-nghiep-truyen-hinh-tra-tien-vua-bi-xu-phat-188261013142912586.chn",
-        "sentiment": "TIÊU CỰC",
-        "color": "#EF4444",
-        "bg_color": "rgba(239, 68, 68, 0.15)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "SHS phát hành liên tiếp 2 lô trái phiếu trong 3 ngày",
-        "time": "Tue, 13 Oct 2026 15:07:24",
-        "timestamp": 1791904039.781729,
-        "link": "https://cafef.vn/shs-phat-hanh-lien-tiep-2-lo-trai-phieu-trong-3-ngay-18826101314282311.chn",
-        "sentiment": "TRUNG LẬP",
-        "color": "#6B7280",
-        "bg_color": "rgba(107, 114, 128, 0.1)"
-    },
-    {
-        "category": "CF - Chứng khoán",
-        "title": "Nhân sự FPT xấp xỉ 90.000 người, tăng 3.682 người trong 9 tháng",
-        "time": "Tue, 13 Oct 2026 15:07:24",
-        "timestamp": 1791904038.781729,
-        "link": "https://cafef.vn/nhan-su-fpt-xap-xi-90000-nguoi-tang-3682-nguoi-trong-9-thang-188261013134651451.chn",
-        "sentiment": "TÍCH CỰC",
-        "color": "#10B981",
-        "bg_color": "rgba(16, 185, 129, 0.15)"
     }
 ]
